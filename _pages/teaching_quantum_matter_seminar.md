@@ -47,4 +47,11 @@ Tuesday 28.04.2026, 10:15
 Hybrid, Amber Mozes
 Paper to prepare: https://www.nature.com/articles/s42254-021-00386-3 , 	https://www.nature.com/articles/s42254-021-00386-3
 
+Tuesday 5.05.2026, 10:15
+Hybrid, Sanghun Lee
+
+Tuesday 12.05.2026, 10:15
+Hybrid, Thomas Gozlinski
+Paper to prepare: 
+
 <br><br><br><br><br><br><br>
