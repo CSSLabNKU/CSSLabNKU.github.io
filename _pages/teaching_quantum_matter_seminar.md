@@ -55,7 +55,7 @@ Hybrid, Thomas Gozlinski
 Paper to prepare: 
 
 Tuesday 19.05.2026, 10:15
-Hybrid, Jiasen Niu
+Hybrid, Jiasen Niu,
 Paper to prepare: https://www.nature.com/articles/nature14165
 
 
