@@ -37,7 +37,7 @@ https://lmu-munich.zoom-x.de/my/x892376.milan?pwd=g1sWzQiNXcNel1ubxyvak68gbbgqMW
 
 ## Schedule
 
-The schedule will change, and we will continousely update it. The student talks will be at the end.
+The schedule will change, and we will continuously update it. The student talks will be at the end.
 
 Tuesday 21.04.2026, 10:15
 Hybrid, talk by Yudai Sato
@@ -53,5 +53,10 @@ Hybrid, Sanghun Lee
 Tuesday 12.05.2026, 10:15
 Hybrid, Thomas Gozlinski
 Paper to prepare: 
+
+Tuesday 19.05.2026, 10:15
+Hybrid, Jiasen Niu
+Paper to prepare: https://www.nature.com/articles/nature14165
+
 
 <br><br><br><br><br><br><br>
