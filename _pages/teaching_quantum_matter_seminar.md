@@ -56,7 +56,7 @@ Paper to prepare:
 
 Tuesday 19.05.2026, 10:15
 Hybrid, Jiasen Niu,
-Paper to prepare: https://www.nature.com/articles/nature14165
+Paper to prepare: https://www.nature.com/articles/nature14165 and https://www.nature.com/articles/33551
 
 
 <br><br><br><br><br><br><br>
