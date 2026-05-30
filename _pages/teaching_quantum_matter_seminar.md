@@ -60,4 +60,7 @@ Paper to prepare: https://www.nature.com/articles/nature14165 and https://physic
 Tuesday 26.05.2026, 10:15
 Hybrid, Sebastián Domínguez
 
+Tuesday 02.06.2026, 10:15
+Hybrid, Stefan Rudel
+
 <br><br><br><br><br><br><br>
