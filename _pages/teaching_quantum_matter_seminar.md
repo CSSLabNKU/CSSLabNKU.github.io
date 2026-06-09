@@ -63,4 +63,8 @@ Hybrid, Sebastián Domínguez
 Tuesday 02.06.2026, 10:15
 Hybrid, Stefan Rudel
 
+Tuesday 09.06.2026, 10:15
+Hybrid, Louw Feenstra
+Reading: https://doi.org/10.1021/acs.nanolett.5c04571?
+
 <br><br><br><br><br><br><br>
