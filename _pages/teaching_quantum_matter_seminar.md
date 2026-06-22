@@ -67,4 +67,10 @@ Tuesday 09.06.2026, 10:15
 Hybrid, Louw Feenstra
 Reading: https://doi.org/10.1021/acs.nanolett.5c04571?
 
+... 
+
+Tuesday 23.06.2026, 10:15
+Fabian Steinmeyer
+Reading: https://doi.org/10.1021/acs.nanolett.5c04571
+
 <br><br><br><br><br><br><br>
