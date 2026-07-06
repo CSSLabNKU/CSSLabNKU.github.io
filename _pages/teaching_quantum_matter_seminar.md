@@ -73,4 +73,7 @@ Tuesday 23.06.2026, 10:15
 Fabian Steinmeyer
 Reading: https://doi.org/10.1021/acs.nanolett.5c04571
 
+Tuesday 06.07.2026, 10:15
+CANCELLED
+
 <br><br><br><br><br><br><br>
