@@ -76,4 +76,9 @@ Reading: https://doi.org/10.1021/acs.nanolett.5c04571
 Tuesday 06.07.2026, 10:15
 CANCELLED
 
+Tuesday 14.07.2026, 10:15
+Premakumar Yanda
+Reading: https://doi.org/10.1021/acs.nanolett.5c04571
+
+
 <br><br><br><br><br><br><br>
