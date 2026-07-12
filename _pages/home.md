@@ -24,7 +24,7 @@ wangding at nankai.edu.cn; wangding at pku.edu.cn
 
 Minds are like parachutes, they only function when open. I am looking forward to cooperating with those working on related areas. Being open minded, we together can exchange interesting ideas, perform individually insurmountable experiments, have a visit, etc. You are welcome to our lab. <a href='https://en.nankai.edu.cn/DiscoverNankai/list.htm'>NKU is beautiful</a>.
 
-## Research Interests: 
+#### Research Interests: 
 
 We are devoted to authentication and related area([researches](http://wangdingg.weebly.com/researches.html)):  
 (1) Machine learning-based techniques for authentication;  
@@ -33,7 +33,7 @@ We are devoted to authentication and related area([researches](http://wangdingg.
 
 We are looking for promising Professors/Associate Professors/Assitant Professors/ PostDoc/Lecturers and self-motivated Ph.D/Master students interested in the above research areas.  We together do some great work and aim to make real impact! Feel free to drop me an email!
 
-## Research Funding
+#### Research Funding
 
 Our work is supported by the National Natural Science Foundation of China (NSFC), the State Key Laboratory of Cryptology, and the National Key R&D Program of China.
 
@@ -51,13 +51,13 @@ Our work is supported by the National Natural Science Foundation of China (NSFC)
 - National Key R&D Program, **Multi-Factor Authentication for Virtual Concurrency**, Grant No. 2016YFB0800603 (2016–2019)
 - NSFC, **Anonymous Multi-Factor Authentication**, Grant No. 61472016 (2015–2018)
 
-## Ph.D. Dissertation
+#### Ph.D. Dissertation
 
 **Research on Key Issues in Password Security (口令安全关键问题研究)**, June 2017.
 
 The dissertation received outstanding doctoral dissertation awards from Peking University, the China Computer Federation, ACM SIGSAC China, and ACM China.
 
-## Selected Research Highlights
+#### Selected Research Highlights
 
 Our research has received more than 7,000 citations and has been covered by more than 200 media outlets worldwide. Representative publications have appeared in IEEE Symposium on Security and Privacy, USENIX Security, NDSS, ACM CCS, IEEE/IFIP DSN, ESORICS, IEEE TIFS, IEEE TDSC, IEEE TSC, and IEEE TII.
 
@@ -76,7 +76,7 @@ Recent and representative work includes:
 
 Please see the [Publications](/publications/) page for the complete and current publication list.
 
-## Selected Honors and Awards
+#### Selected Honors and Awards
 
 - 2025 — AsiaCCS Outstanding PC Member Award
 - 2025 — Outstanding Paper Award, *SCIENCE CHINA Information Sciences*
@@ -97,7 +97,7 @@ Please see the [Publications](/publications/) page for the complete and current 
 - 2016 — Boya Postdoctoral Fellowship, Peking University
 - 2016 — Qualcomm Ph.D. Fellowship
 
-## Education
+#### Education
 
 - **Ph.D. in Information Security**, Peking University, 2013–2017. Supervisor: Prof. Ping Wang.
 - **M.S. in Information Security**, Harbin Engineering University, 2010–2012. Supervisor: Prof. Chunguang Ma.
