@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Ding Wang's Homepage -- Password Cryptography - Home"
+title: "Welcome to Ding Wang's Homepage - Home"
 layout: homelay
 excerpt: ""
 sitemap: false
