@@ -6,41 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-<style>
-  .home-profile {
-    float: right;
-    width: 188px;
-    margin: 0 0 1rem 1.5rem;
-    text-align: center;
-  }
-
-  .home-profile img {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-
-  .home-profile figcaption {
-    margin-top: 0.35rem;
-    color: #666;
-    font-size: 0.78rem;
-    line-height: 1.25;
-  }
-
-  @media (max-width: 576px) {
-    .home-profile {
-      width: 140px;
-      max-width: 42%;
-      margin-left: 1rem;
-    }
-  }
-</style>
-
-<figure class="home-profile">
-  <img src="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/editor/ding.jpg" alt="Professor Ding Wang">
-  <figcaption>Stay curious, Work hard</figcaption>
-</figure>
-
 **Ding Wang (汪 定)**
 
 ​Full Professor, <a href='https://cyber.nankai.edu.cn/2021/0323/c37288a598508/page.htm'>College of Cryptology and Cyber Science</a>, Nankai University, Tianjin (27 mins from Beijing).  
