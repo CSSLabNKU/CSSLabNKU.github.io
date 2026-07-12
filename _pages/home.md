@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+**Ding Wang (汪 定)**
+
 ​Full Professor, <a href='https://cyber.nankai.edu.cn/2021/0323/c37288a598508/page.htm'>College of Cryptology and Cyber Science</a>, Nankai University, Tianjin (27 mins from Beijing).  
 100 Young Academic Leaders of Nankai University; Tianjin Talent Introduction-Leading Talent.  
 <strong style="color: #6555c2;">**Email:**</strong>
@@ -24,10 +26,10 @@ Minds are like parachutes, they only function when open. I am looking forward to
 
 ## Research Interests
 
-We are devoted to authentication and related area([researches](http://wangdingg.weebly.com/researches.html)):
-(1) Machine learning-based techniques for authentication;
-​(2) Protocols, including Password-based, Blockchain-based, Lattice-based  ones;
-(3) Multi-factor authentication, including passwords, devices, biometrics and others; 
+We are devoted to authentication and related area([researches](http://wangdingg.weebly.com/researches.html)):  
+(1) Machine learning-based techniques for authentication;  
+​(2) Protocols, including Password-based, Blockchain-based, Lattice-based  ones;  
+(3) Multi-factor authentication, including passwords, devices, biometrics and others;   
 
 We are looking for promising Professors/Associate Professors/Assitant Professors/ PostDoc/Lecturers and self-motivated Ph.D/Master students interested in the above research areas.  We together do some great work and aim to make real impact! Feel free to drop me an email!
 
