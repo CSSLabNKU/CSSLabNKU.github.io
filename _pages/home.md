@@ -24,9 +24,7 @@ wangding at nankai.edu.cn; wangding at pku.edu.cn
 
 Minds are like parachutes, they only function when open. I am looking forward to cooperating with those working on related areas. Being open minded, we together can exchange interesting ideas, perform individually insurmountable experiments, have a visit, etc. You are welcome to our lab. <a href='https://en.nankai.edu.cn/DiscoverNankai/list.htm'>NKU is beautiful</a>.
 
-## Research Interests
-
-We are devoted to authentication and related area([researches](http://wangdingg.weebly.com/researches.html)):  
+<large>Research Interests:</large> We are devoted to authentication and related area([researches](http://wangdingg.weebly.com/researches.html)):  
 (1) Machine learning-based techniques for authentication;  
 ​(2) Protocols, including Password-based, Blockchain-based, Lattice-based  ones;  
 (3) Multi-factor authentication, including passwords, devices, biometrics and others;   

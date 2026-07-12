@@ -58,27 +58,41 @@
 
 	@media screen and (max-width: 766px) {
 		body {
-			padding-top: 112px;
+			padding-top: 74px;
+		}
+
+		.site-navbar .container-fluid {
+			position: relative;
 		}
 
 		.site-title-row {
-			min-height: 58px;
-			padding-right: 56px;
+			min-height: 64px;
+			padding-right: 58px;
 		}
 
 		#wsite-title {
-			font-size: 28px;
+			width: 100%;
+			padding: 6px 8px 4px;
+			font-size: 25px;
+			line-height: 1.05;
+		}
+
+		.site-nav-row {
+			position: static;
+			min-height: 0;
+			border-top: 0;
 		}
 
 		.site-nav-row .navbar-toggle {
 			position: absolute;
-			top: 7px;
-			right: 0;
+			top: 8px;
+			right: 15px;
 			z-index: 2;
 		}
 
 		.site-nav-row .navbar-collapse {
-			margin-top: 50px;
+			margin: 0 -15px;
+			border-top: 1px solid rgba(0, 0, 0, 0.08);
 		}
 	}
 </style>
@@ -110,9 +124,6 @@
 					<li><a href="{{ site.url }}{{ site.baseurl }}/teaching">MISCELLANEA</a></li>
 				</ul>
 			</div>
-		</div>
-	</div>
-</div>
 		</div>
 	</div>
 </div>
