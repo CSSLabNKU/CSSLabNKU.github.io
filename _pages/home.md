@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Welcome to Ding Wang's Homepage -- Password Cryptography - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: ""
 sitemap: false
 permalink: /
 ---
