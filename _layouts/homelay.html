@@ -2,10 +2,51 @@
 layout: default
 ---
 
+<style>
+  #homeid::after {
+    display: table;
+    clear: both;
+    content: "";
+  }
+
+  #homeid .home-profile {
+    float: right;
+    width: 188px;
+    margin: 0 0 1rem 1.5rem;
+    text-align: center;
+  }
+
+  #homeid .home-profile img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    border-radius: 2%;
+  }
+
+  #homeid .home-profile figcaption {
+    margin: 0.4rem 0 0;
+    color: #666;
+    font-size: 12px;
+    line-height: 1.25;
+    text-align: center;
+  }
+
+  @media screen and (max-width: 576px) {
+    #homeid .home-profile {
+      float: none;
+      width: 160px;
+      max-width: 60%;
+      margin: 0 auto 1rem;
+    }
+  }
+</style>
+
 <div id="homeid" class="col-sm-12">
-  <!-- <h1>Welcome to the Allan Lab</h1> -->
+  <figure class="home-profile">
+    <img src="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/editor/ding.jpg" alt="Professor Ding Wang">
+    <figcaption>Stay curious, Work hard</figcaption>
+  </figure>
+
   {{ content }}
 </div>
-<!-- <div id="newsid" class="col-sm-4">
-  {% include news.html %}
-</div> -->
