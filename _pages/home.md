@@ -165,7 +165,7 @@ Ding Wang, Ping Wang. <strong>On the Anonymity of Two-Factor Authentication Sc
 2008 Top 50 of the "Zhongke" Cup National Software Contest;<br>
 <br>
 
-<strong>Keynote talks/Invited speaker:<br>
+<strong><span style="font-size:24px;">Keynote talks/Invited speaker: </span></strong><br>
 </strong>2024 Annual IACR Workshop on Big Data and AI Security (中国密码学会2024年大数据与人工智能安全青年论坛);<br>
 2024 Annual IACR Conference on Cryptographic Protocols (中国密码学会安全协议专委会2024年学术年会); <br>
 2024 Annual IACR Workshop for Chinese Young Cryptography Researchers (<u>中国密码学会2024青年论坛</u>);<br>
