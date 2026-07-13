@@ -9,46 +9,46 @@ permalink: /
 <strong>Ding Wang</strong> (汪 定)  
 ​Full Professor, <a href='https://cyber.nankai.edu.cn/2021/0323/c37288a598508/page.htm' ><span style="color:#818181">College of Cryptology and Cyber Science</span></a>, Nankai University, Tianjin (27 mins from Beijing).  
 100 Young Academic Leaders of Nankai University; Tianjin Talent Introduction-Leading Talent.  
-<span style="color:#6555c2"><strong>Email</strong>: </span><a href="mailto:wangding@nankai.edu.cn"><span >wangding at nankai.edu.cn;</span></a> <span style="color:#626262">wangding at pku.edu.cn </span><br>
+<span style="color:#6555c2"><strong>Email</strong>: </span><a href="mailto:wangding@nankai.edu.cn"><span>wangding at nankai.edu.cn;</span></a> <span style="color:#626262">wangding at pku.edu.cn </span><br>
 
-<span style="color:rgb(42, 42, 42)">2025–Now, Vice-Dean of College of Cryptology and Cyber Science, <a href='https://en.nankai.edu.cn/' ><span style="color:rgb(42, 42, 42)">Nankai University</span></a>;</span>  
-<span style="color:rgb(42, 42, 42)">2021–Now, Chair of Department of Cryptography, Nankai University;</span>  
-<span style="color:rgb(42, 42, 42)">2019–Now, Professor, Nankai University; Deputy-director of Tianjin Key Laboratory of Network and Data Security Technology;</span>  
-<span style="color:rgb(42, 42, 42)">2017-2019,  Lecturer & Boya Postdoctoral Fellowship, <a href='http://english.pku.edu.cn/' ><span style="color:rgb(42, 42, 42)">Peking University</span></a>, Beijing;</span>  
-<span style="color:rgb(42, 42, 42)">2013-2017, PhD. in Information Security, <a href='http://english.pku.edu.cn/' ><span style="color:rgb(42, 42, 42)">Peking University</span></a>, Beijing;</span>  
-<span style="color:rgb(42, 42, 42)">2010-2012, MS. in Information Security, <a href='http://english.hrbeu.edu.cn/' ><span style="color:rgb(42, 42, 42)">Harbin Engineering University</span></a>;</span>  
-<span style="color:rgb(42, 42, 42)">2008-2009, BA. in Information Engineering, Information Engineering University;</span>  
-<span style="color:rgb(42, 42, 42)">2004-2008, BA. in Information Security, Nankai University, Tianjin.</span>  
+<span>2025–Now, Vice-Dean of College of Cryptology and Cyber Science, <a href='https://en.nankai.edu.cn/' ><span>Nankai University</span></a>;</span>  
+<span>2021–Now, Chair of Department of Cryptography, Nankai University;</span>  
+<span>2019–Now, Professor, Nankai University; Deputy-director of Tianjin Key Laboratory of Network and Data Security Technology;</span>  
+<span>2017-2019,  Lecturer & Boya Postdoctoral Fellowship, <a href='http://english.pku.edu.cn/' ><span>Peking University</span></a>, Beijing;</span>  
+<span>2013-2017, PhD. in Information Security, <a href='http://english.pku.edu.cn/' ><span>Peking University</span></a>, Beijing;</span>  
+<span>2010-2012, MS. in Information Security, <a href='http://english.hrbeu.edu.cn/' ><span>Harbin Engineering University</span></a>;</span>  
+<span>2008-2009, BA. in Information Engineering, Information Engineering University;</span>  
+<span>2004-2008, BA. in Information Security, Nankai University, Tianjin.</span>  
 
-<span style="color:rgb(42, 42, 42)">Minds are like parachutes, they only function when open. I am looking forward to cooperating with those working on related areas. Being open minded, we together can exchange interesting ideas, perform individually insurmountable experiments, have a visit, etc. You are welcome to our lab. <a href='https://en.nankai.edu.cn/DiscoverNankai/list.htm' ><u style="color:rgb(0, 0, 0)" >NKU is beautiful</u></a>.</span>
+<span>Minds are like parachutes, they only function when open. I am looking forward to cooperating with those working on related areas. Being open minded, we together can exchange interesting ideas, perform individually insurmountable experiments, have a visit, etc. You are welcome to our lab. <a href='https://en.nankai.edu.cn/DiscoverNankai/list.htm' ><u style="color:rgb(0, 0, 0)" >NKU is beautiful</u></a>.</span>
 
-<strong><span style="color:rgb(42, 42, 42); font-size:24px;">Research Interests:</span></strong> We are devoted to authentication and related area(<u><a href="https://csslabnku.github.io/team" ><span style="color:#a1a1a1">researches</span></a></u>):<br>
-<span style="color:rgb(42, 42, 42)">(1) Machine learning-based techniques for authentication;</span>  
-<span style="color:rgb(42, 42, 42)">​(2) Protocols, including Password-based, Blockchain-based, Lattice-based ones;</span>  
-<span style="color:rgb(42, 42, 42)">​(3) Multi-factor authentication, including passwords, devices, biometrics and others;</span>  
+<strong><span style="color:rgb(42, 42, 42); font-size:24px;">Research Interests: </span></strong> We are devoted to authentication and related area(<u><a href="https://csslabnku.github.io/team" ><span style="color:#a1a1a1">researches</span></a></u>):<br>
+<span>(1) Machine learning-based techniques for authentication;</span>  
+<span>​(2) Protocols, including Password-based, Blockchain-based, Lattice-based ones;</span>  
+<span>​(3) Multi-factor authentication, including passwords, devices, biometrics and others;</span>  
 
 We are looking for promising <span style="color:#5848b7"><strong>Professors/ Associate Professors/ Assitant Professors/ PostDoc/ Lecturers</strong></span> and self-motivated <strong><span style="color:#5848b7">Ph.D/ Master students</span></strong> interested in the above research areas. We together do some great work and aim to <strong>make real impact</strong>! Feel free to drop me an email!
 
-<strong><span style="color:rgb(42, 42, 42); font-size:24px;">Research Funding:</span></strong> <span style="color:rgb(42, 42, 42)">Our work is supported by NSF of China,  State Key Lab of Cryptography, and National Key R&D Plan.</span><br>
-<span style="color:rgb(42, 42, 42)">(13) NSF of China, Excellent Young Scientists Program, "<span style="color:#5040ae"><strong>Secret Key Security</strong></span>" (2023.01~2025.12);</span><br>
-<span style="color:rgb(42, 42, 42)">(12) NSF of China, General Program, "<span style="color:#5040ae"><strong>Machine Learning based Authentication</strong></span>" (2022.01~2025.12);</span><br>
-<span style="color:rgb(42, 42, 42)">(11) Key Program of NSF, Tianjin, "<span style="color:#5040ae"><strong>Password Authentication</strong></span>" (2021.10~2024.09);</span><br>
-<span style="color:rgb(42, 42, 42)">(10) Research Program of Jing-Jin-Ji Cooperation, "<span style="color:#5040ae"><strong>Provable Authentication for Industrial IoT</strong></span>" (2022.01~2024.12);</span><br>
-<span style="color:rgb(42, 42, 42)">(9) National Key R&D Plan, "<span style="color:#5040ae"><strong>Identity Security</strong></span>" (2021.11~2023.11);</span><br>
-<span style="color:rgb(42, 42, 42)">(8) Research Project of CETC, "<strong>User Authentication</strong>" (2020.01~2021.12);</span><br>
-<span style="color:rgb(42, 42, 42)">(7) Science Foundation of NKU, "Authentication Team Building" (2020.01~2022.12);</span><br>
-<span style="color:rgb(42, 42, 42)">(6) NSF of China, "<strong>Authentication for mobile devices</strong>" under Grant No. 61802006 (2019.01~2020.12);</span><br>
-<span style="color:rgb(42, 42, 42)">(5) State Key Lab of Crypto, "<strong>Leakage-resistant authentication</strong>" under Grant No. MMKT-2018-31 (2018.07~2020.06);</span><br>
-<span style="color:rgb(42, 42, 42)">(4) China Postdoctoral Science Foundation, "<strong>Password authentication</strong>" under No. 2019T120019 (2019.06~2019.11);</span><br>
-<span style="color:rgb(42, 42, 42)">(3) China Postdoctoral Science Foundation, "<strong>Multi-factor authentication</strong>" under No. 2018M640026 (2018.11~2019.11);</span><br>
-<span style="color:rgb(42, 42, 42)">(2) National Key R&D Plan, "<strong>Multi-factor Auth for Virtual Concurrency</strong>" under No. 2016YFB0800603 (2016.07~2019.06);</span><br>
-<span style="color:rgb(42, 42, 42)">(1) NSF of China, "<strong>Anonymous multi-factor authentication</strong>" under Grant No. 61472016 (2015.01~2018.12);</span><br>
+<strong><span style="color:rgb(42, 42, 42); font-size:24px;">Research Funding:</span></strong> <span>Our work is supported by NSF of China,  State Key Lab of Cryptography, and National Key R&D Plan.</span><br>
+<span>(13) NSF of China, Excellent Young Scientists Program, "<span style="color:#5040ae"><strong>Secret Key Security</strong></span>" (2023.01~2025.12);</span><br>
+<span>(12) NSF of China, General Program, "<span style="color:#5040ae"><strong>Machine Learning based Authentication</strong></span>" (2022.01~2025.12);</span><br>
+<span>(11) Key Program of NSF, Tianjin, "<span style="color:#5040ae"><strong>Password Authentication</strong></span>" (2021.10~2024.09);</span><br>
+<span>(10) Research Program of Jing-Jin-Ji Cooperation, "<span style="color:#5040ae"><strong>Provable Authentication for Industrial IoT</strong></span>" (2022.01~2024.12);</span><br>
+<span>(9) National Key R&D Plan, "<span style="color:#5040ae"><strong>Identity Security</strong></span>" (2021.11~2023.11);</span><br>
+<span>(8) Research Project of CETC, "<strong>User Authentication</strong>" (2020.01~2021.12);</span><br>
+<span>(7) Science Foundation of NKU, "Authentication Team Building" (2020.01~2022.12);</span><br>
+<span>(6) NSF of China, "<strong>Authentication for mobile devices</strong>" under Grant No. 61802006 (2019.01~2020.12);</span><br>
+<span>(5) State Key Lab of Crypto, "<strong>Leakage-resistant authentication</strong>" under Grant No. MMKT-2018-31 (2018.07~2020.06);</span><br>
+<span>(4) China Postdoctoral Science Foundation, "<strong>Password authentication</strong>" under No. 2019T120019 (2019.06~2019.11);</span><br>
+<span>(3) China Postdoctoral Science Foundation, "<strong>Multi-factor authentication</strong>" under No. 2018M640026 (2018.11~2019.11);</span><br>
+<span>(2) National Key R&D Plan, "<strong>Multi-factor Auth for Virtual Concurrency</strong>" under No. 2016YFB0800603 (2016.07~2019.06);</span><br>
+<span>(1) NSF of China, "<strong>Anonymous multi-factor authentication</strong>" under Grant No. 61472016 (2015.01~2018.12);</span><br>
 
 <strong><span style="color:rgb(42, 42, 42); font-size:24px;">PhD Dissertation:</span></strong> <a href="uploads/phd_thesis0103.pdf" ><span style="color:rgb(0, 0, 0)">Research on Key Issues in Password Security (口令安全关键问题研究),</span></a> 2017.06. <u><a href="uploads/phd_thesis0103.pdf" ><span style="color:#818181">PDF</span></a></u><br>
 Doctoral Dissertation Award by Peking University, China Computer Federation, ACM SIGSAC China, and ACM China.<br>
-(<span style="color:#a1a1a1"><a href="https://awards.acm.org/binaries/content/assets/awards/awards-booklet-2019.pdf" ><span style="color:rgb(0, 0, 0)">ACM</span></a></span> <a href="https://awards.acm.org/binaries/content/assets/awards/awards-booklet-2019.pdf" ><span style="color:#a1a1a1">中国优秀博士论文奖</span></a>; <a href="http://www.ccf.org.cn/c/2018-03-06/623465.shtml" ><span style="color:#818181">中国计算机学会优秀博士论文奖</span></a><span style="color:#818181">; </span><span style="color:rgb(42, 42, 42)">ACM SIGSAC中国优秀博士论文奖; </span><a href="http://pkunews.pku.edu.cn/xwzh/2017-07/04/content_298534.htm" ><span style="color:rgb(0, 0, 0)">北京大学优秀博士论文奖</span></a>.)<br>
+(<span style="color:#a1a1a1"><a href="https://awards.acm.org/binaries/content/assets/awards/awards-booklet-2019.pdf" ><span style="color:rgb(0, 0, 0)">ACM</span></a></span> <a href="https://awards.acm.org/binaries/content/assets/awards/awards-booklet-2019.pdf" ><span style="color:#a1a1a1">中国优秀博士论文奖</span></a>; <a href="http://www.ccf.org.cn/c/2018-03-06/623465.shtml" ><span style="color:#818181">中国计算机学会优秀博士论文奖</span></a><span style="color:#818181">; </span><span>ACM SIGSAC中国优秀博士论文奖; </span><a href="http://pkunews.pku.edu.cn/xwzh/2017-07/04/content_298534.htm" ><span style="color:rgb(0, 0, 0)">北京大学优秀博士论文奖</span></a>.)<br>
 
-<strong><span style="color:rgb(42, 42, 42); font-size:24px;">Recent Publications:</span></strong> <span style="color:rgb(42, 42, 42)">Our work gets 8000+ citations (<a href="https://scholar.google.com/citations?user=ccvj-2cAAAAJ" ><span style="color:#818181">Google Scholar</span></a> [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3Dccvj-2cAAAAJ)](https://scholar.google.com/citations?user=ccvj-2cAAAAJ)), is covered by 200+ worldwide media, and appears in IEEE S&P'26, NDSS'26, IEEE S&P'25, NDSS'25, IEEE S&P'24, USENIX Security'24, USENIX Security'23abc, IEEE S&P'22, SRDS'22, ESORICS'22, IEEE TIFS'22, IEEE TIFS'21, IEEE TDSC'20 a~d, Usenix Security'19, NDSS'18, IEEE TSC'18, IEEE TDSC'18, IEEE TII'18, ACM ASIACCS'17,  IEEE TIFS'17, ACM CCS'16, IEEE/IFIP DSN'16, ESORICS'16, ACM ASIACCS'16,  IEEE TDSC'15, ESORICS'15, INS'15, COMNET'14, ISC'13, ICICS'12, DBSec'12, etc. (<u><a href="http://wangdingg.weebly.com/publications.html" ><span >Full List</span></a></u>): 
+<strong><span style="color:rgb(42, 42, 42); font-size:24px;">Recent Publications:</span></strong> <span>Our work gets 8000+ citations (<a href="https://scholar.google.com/citations?user=ccvj-2cAAAAJ" ><span style="color:#818181">Google Scholar</span></a> [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3Dccvj-2cAAAAJ)](https://scholar.google.com/citations?user=ccvj-2cAAAAJ)), is covered by 200+ worldwide media, and appears in IEEE S&P'26, NDSS'26, IEEE S&P'25, NDSS'25, IEEE S&P'24, USENIX Security'24, USENIX Security'23abc, IEEE S&P'22, SRDS'22, ESORICS'22, IEEE TIFS'22, IEEE TIFS'21, IEEE TDSC'20 a~d, Usenix Security'19, NDSS'18, IEEE TSC'18, IEEE TDSC'18, IEEE TII'18, ACM ASIACCS'17,  IEEE TIFS'17, ACM CCS'16, IEEE/IFIP DSN'16, ESORICS'16, ACM ASIACCS'16,  IEEE TDSC'15, ESORICS'15, INS'15, COMNET'14, ISC'13, ICICS'12, DBSec'12, etc. (<u><a href="http://wangdingg.weebly.com/publications.html" ><span>Full List</span></a></u>): 
 <br>
 
 <div class="publication-list" markdown="0">
@@ -161,19 +161,19 @@ Ding Wang, Debiao He, Ping Wang, Chao-Hsien Chu<strong>. </strong><strong>Ano
 <br>
 
 <span style="color:#2a2a2a"><strong>Keynote talks/Invited speaker:<br>
-</strong>2024 <span >Annual IACR </span>Workshop<span > on </span></span>Big Data and AI Security<span style="color:#2a2a2a"><span > </span>(</span>中国密码学会2024年大数据与人工智能安全青年论坛）;<span style="color:#2a2a2a"><strong></strong></span><br>
-<span style="color:#2a2a2a">2024 <span >Annual IACR Conference on Cryptographic Protocols </span>(中国密码学会安全协议专委会2024年学术年会）; <br>
-2024 </span><span >Annual IACR </span><span style="color:#2a2a2a">Workshop</span><span > for </span><span style="color:#2a2a2a">Chinese Young Cryptography Researchers (<u>中国密码学会2024青年论坛</u>);<br>
+</strong>2024 <span>Annual IACR </span>Workshop<span> on </span></span>Big Data and AI Security<span style="color:#2a2a2a"><span> </span>(</span>中国密码学会2024年大数据与人工智能安全青年论坛）;<span style="color:#2a2a2a"><strong></strong></span><br>
+<span style="color:#2a2a2a">2024 <span>Annual IACR Conference on Cryptographic Protocols </span>(中国密码学会安全协议专委会2024年学术年会）; <br>
+2024 </span><span>Annual IACR </span><span style="color:#2a2a2a">Workshop</span><span> for </span><span style="color:#2a2a2a">Chinese Young Cryptography Researchers (<u>中国密码学会2024青年论坛</u>);<br>
 </span>5th International Conference on Blockchain and Trustworthy Systems (BlockSys'2023);<br>
 The 22nd International Conference on Algorithms and Architectures for Parallel Processing (<u><span style="color:#818181"><a href="https://ica3pp2022.compute.dtu.dk/keynote.html" >ICA3PP 2022</a></span></u>), CCF Rank C.<br>
-<span style="color:#2a2a2a"><span >14th Annual Conference of </span>China Association for Cryptologic Research</span><span >(</span>第十四届中国密码学会年会, ChinaCrypt 2021);<br>
-2021 <span style="color:#2a2a2a"><span >Annual IACR Conference on Cryptographic Protocols </span>(中国密码学会安全协议专委会2021年学术年会）; </span><br>
+<span style="color:#2a2a2a"><span>14th Annual Conference of </span>China Association for Cryptologic Research</span><span>(</span>第十四届中国密码学会年会, ChinaCrypt 2021);<br>
+2021 <span style="color:#2a2a2a"><span>Annual IACR Conference on Cryptographic Protocols </span>(中国密码学会安全协议专委会2021年学术年会）; </span><br>
 5th Forum on Frontiers in Theory and Technology of Cryptanalysis(第五届强网论坛“密码分析前沿理论与技术”分论坛); <br>
-<span style="color:#2a2a2a"><span >7th National Conference on </span></span>Identification, Certification and Authentication<span style="color:#2a2a2a"><span > (<u>中国密码学会第七届</u></span></span><u><a href="https://baijiahao.baidu.com/s?id=1680856938011287151&amp;wfr=spider&amp;for=pc" >全国电子认证技术交流大会</a></u><span >);<br>
-3rd Zongheng Workshop on Cyber Security </span><span style="color:#2a2a2a"><span >(</span></span><u><a href="http://www.81.cn/ss/2020-12/14/content_9952175.htm" >第三届“纵横”网络空间安全创新论坛</a></u><span >);<br>
-2020 MIT Technology Review China Forum on Blockchain and Digital Economy (<u><a href="https://mp.weixin.qq.com/s/4-AM2v5lIk-yGInq7c39Pg##" >MIT TR</a></u></span><u><a href="https://mp.weixin.qq.com/s/4-AM2v5lIk-yGInq7c39Pg##" >2020年区块链与数字经济发展论坛</a></u><span >); </span><br>
-<span style="color:#2a2a2a"><span >2020 InForSec Workshop at Wuhan (<u><a href="https://zhuanlan.zhihu.com/p/280743014?utm_source=wechat_session" >2020江夏晴川网安论坛</a></u></span></span><span >);</span><br>
-<span style="color:#2a2a2a"><span >11th International Symposium on Cyberspace Safety and Security (<u><a href="http://nsclab.org/css2019/index.html" >CSS 2019</a></u></span></span><span >);</span><br>
+<span style="color:#2a2a2a"><span>7th National Conference on </span></span>Identification, Certification and Authentication<span style="color:#2a2a2a"><span> (<u>中国密码学会第七届</u></span></span><u><a href="https://baijiahao.baidu.com/s?id=1680856938011287151&amp;wfr=spider&amp;for=pc" >全国电子认证技术交流大会</a></u><span>);<br>
+3rd Zongheng Workshop on Cyber Security </span><span style="color:#2a2a2a"><span>(</span></span><u><a href="http://www.81.cn/ss/2020-12/14/content_9952175.htm" >第三届“纵横”网络空间安全创新论坛</a></u><span>);<br>
+2020 MIT Technology Review China Forum on Blockchain and Digital Economy (<u><a href="https://mp.weixin.qq.com/s/4-AM2v5lIk-yGInq7c39Pg##" >MIT TR</a></u></span><u><a href="https://mp.weixin.qq.com/s/4-AM2v5lIk-yGInq7c39Pg##" >2020年区块链与数字经济发展论坛</a></u><span>); </span><br>
+<span style="color:#2a2a2a"><span>2020 InForSec Workshop at Wuhan (<u><a href="https://zhuanlan.zhihu.com/p/280743014?utm_source=wechat_session" >2020江夏晴川网安论坛</a></u></span></span><span>);</span><br>
+<span style="color:#2a2a2a"><span>11th International Symposium on Cyberspace Safety and Security (<u><a href="http://nsclab.org/css2019/index.html" >CSS 2019</a></u></span></span><span>);</span><br>
 <span style="color:#2a2a2a">2019 7th Annual CCF BigData Conference <a href="http://grid.hust.edu.cn/bigdata2019/content/guest.html" >(</a><u><a href="http://grid.hust.edu.cn/bigdata2019/content/guest.html" >第七届CCF大数据学术会议</a></u><a href="http://grid.hust.edu.cn/bigdata2019/content/guest.html" >)</a>; </span><br>
 <span style="color:#2a2a2a">2019 10th Annual CCF Outstanding Phd Dissertation Award Winner Forum (<u><a href="https://mp.weixin.qq.com/s/j40PvkVK8L8reP9YLyZoqQ" >CCF优博2019年会</a></u>); </span><br>
 <span style="color:#2a2a2a">2019 5th </span><span style="color:#3e4d5c">Let's GoSSIP Software security </span><span style="color:#2a2a2a">Summer School</span><span style="color:#3e4d5c"> </span><span style="color:#2a2a2a">(</span><u><a href="https://loccs.sjtu.edu.cn/summerschool/speakers/" >第五届上海交通大学 “Let's GoSSIP软件安全”暑期学校</a></u><span style="color:#2a2a2a">); </span><br>
@@ -292,39 +292,39 @@ Publication Chair: <br>
 <br>
 <strong><span style="color:#5040ae">TPC member:<br>
 </span></strong>The 36th USENIX Security Symposium <span style="color:#2a2a2a">(<strong><u><a href="https://www.usenix.org/conference/usenixsecurity27" >USENIX SEC 2027</a></u></strong>), CCF Rank A;</span><br>
-<span style="color:#2a2a2a">30th International Conference on Financial Cryptography and Data Security </span><span >(</span><span style="color:#2a2a2a"><strong><span ><u><a href="https://fc27.ifca.ai/" >FC 2027</a></u></span></strong></span><span >), </span><span style="color:#2a2a2a"> CCF Rank C, CACR Rank B;</span><strong></strong><br>
+<span style="color:#2a2a2a">30th International Conference on Financial Cryptography and Data Security </span><span>(</span><span style="color:#2a2a2a"><strong><span><u><a href="https://fc27.ifca.ai/" >FC 2027</a></u></span></strong></span><span>), </span><span style="color:#2a2a2a"> CCF Rank C, CACR Rank B;</span><strong></strong><br>
 <span style="color:#2a2a2a">22th ACM ASIA Conference on Computer and Communications Security (<strong><u><a href="https://asiaccs2027.cityu.edu.mo/" >ACM ASIACCS 2027</a></u></strong>), CCF Rank C, CACR Rank B;</span><br>
-<span style="color:#2a2a2a">30th International Conference on Financial Cryptography and Data Security </span><span >(</span><span style="color:#2a2a2a"><strong><span ><u><a href="https://fc26.ifca.ai/" >FC 2026</a></u></span></strong></span><span >), </span><span style="color:#2a2a2a"> CCF Rank C, CACR Rank B;</span><br>
+<span style="color:#2a2a2a">30th International Conference on Financial Cryptography and Data Security </span><span>(</span><span style="color:#2a2a2a"><strong><span><u><a href="https://fc26.ifca.ai/" >FC 2026</a></u></span></strong></span><span>), </span><span style="color:#2a2a2a"> CCF Rank C, CACR Rank B;</span><br>
 <span style="color:#2a2a2a">41st IFIP International Information Security and Privacy Conference<u><a href="https://sec2020.um.si/" >(<strong>IFIP SEC 2026</strong></a></u>), CCF Rank C. <br>
 ​28th International Conference on Information and Communications Security (<strong><u><a href="https://sulab-sever.u-aizu.ac.jp/icics2026/" >ICICS 2026</a></u></strong>), CCF Rank C.</span><br>
 <span style="color:#2a2a2a">23th EAI International Conference on Security and Privacy in Communication Networks (<strong><u><a href="https://securecomm.eai-conferences.org/2026/" >SecureComm 2026</a></u></strong>) , CCF Rank C.</span><br>
-<span style="color:#2a2a2a">31th Network and Distributed System Security Symposium </span><span >(</span><span style="color:#2a2a2a"><strong><span ><u><a href="https://www.ndss-symposium.org/ndss2025" >NDSS 2025</a></u></span></strong></span><span >), CCF A.</span><br>
-10th IEEE European Symposium on Security and Privacy<span style="color:#2a2a2a"> </span><span >(<u><strong><a href="https://eurosp2025.ieee-security.org/" >IEEE EuroS&P</a></strong></u></span><u><strong><span style="color:#2a2a2a"><strong><span ><u><a href="https://eurosp2025.ieee-security.org/" > 2025</a></u></span></strong></span></strong></u><span >), CCF C.</span><br>
+<span style="color:#2a2a2a">31th Network and Distributed System Security Symposium </span><span>(</span><span style="color:#2a2a2a"><strong><span><u><a href="https://www.ndss-symposium.org/ndss2025" >NDSS 2025</a></u></span></strong></span><span>), CCF A.</span><br>
+10th IEEE European Symposium on Security and Privacy<span style="color:#2a2a2a"> </span><span>(<u><strong><a href="https://eurosp2025.ieee-security.org/" >IEEE EuroS&P</a></strong></u></span><u><strong><span style="color:#2a2a2a"><strong><span><u><a href="https://eurosp2025.ieee-security.org/" > 2025</a></u></span></strong></span></strong></u><span>), CCF C.</span><br>
 <span style="color:#2a2a2a">20th ACM ASIA Conference on Computer and Communications Security (<strong><u><a href="https://asiaccs2025.hust.edu.vn/call-for-papers/" >ACM ASIACCS 2025</a></u></strong>), CCF Rank C, CACR Rank B;</span><br>
-29th International Conference on Financial Cryptography and Data Security <span >(</span><span style="color:#2a2a2a"><strong><span ><u><a href="https://fc25.ifca.ai/" >FC 2025</a></u></span></strong></span><span >), </span><span style="color:#2a2a2a"> CCF Rank C, CACR Rank B;</span><br>
-30th Australasian Conference on Information Security and Privacy (<u><strong><a href="https://uow-ic2.github.io/acisp2025/cfp.html" >ACISP 2025</a></strong></u>)<span >, </span><span style="color:#2a2a2a"> CCF Rank C, CACR Rank C;</span><br>
+29th International Conference on Financial Cryptography and Data Security <span>(</span><span style="color:#2a2a2a"><strong><span><u><a href="https://fc25.ifca.ai/" >FC 2025</a></u></span></strong></span><span>), </span><span style="color:#2a2a2a"> CCF Rank C, CACR Rank B;</span><br>
+30th Australasian Conference on Information Security and Privacy (<u><strong><a href="https://uow-ic2.github.io/acisp2025/cfp.html" >ACISP 2025</a></strong></u>)<span>, </span><span style="color:#2a2a2a"> CCF Rank C, CACR Rank C;</span><br>
 <span style="color:#2a2a2a">22th EAI International Conference on Security and Privacy in Communication Networks (<strong><u><a href="https://securecomm.eai-conferences.org/2025/" >SecureComm 2025</a></u></strong>) , CCF Rank C.</span><br>
 <span style="color:#2a2a2a">21th EAI International Conference on Security and Privacy in Communication Networks (<strong><u><a href="https://securecomm.eai-conferences.org/2025/" >SecureComm 2024</a></u></strong>) , CCF Rank C.<br>
 40th IFIP International Information Security and Privacy Conference<u><a href="https://sec2020.um.si/" >(<strong>IFIP SEC 2025</strong></a></u>), CCF Rank C. <br>
 ​27th International Conference on Information and Communications Security (</span><strong><span style="color:#2a2a2a"><u><a href="https://www.icics2025.org/" >ICICS 2025</a></u></span></strong><span style="color:#2a2a2a">), CCF Rank C.</span><br>
 22nd Annual International Conference on Privacy, Security, and Trust (<strong><u><a href="https://pstnet.ca/pst2025/organizers.html" >PST2025</a></u></strong>).<br>
-<span >24th Privacy Enhancing Technologies Symposium (</span><strong><span ><u><a href="https://www.petsymposium.org/" >PETS 2024</a></u></span></strong><span >), CCF C. </span><br>
+<span>24th Privacy Enhancing Technologies Symposium (</span><strong><span><u><a href="https://www.petsymposium.org/" >PETS 2024</a></u></span></strong><span>), CCF C. </span><br>
 <span style="color:#2a2a2a">38th Annual Computer Security Applications Conference (<strong><u><a href="https://www.acsac.org/" >ACSAC 2024</a></u></strong>), CCF Rank B.</span><br>
-<span style="color:#2a2a2a">26th International Symposium on Research in Attacks, Intrusions and Defenses (<strong><u><a href="https://raid2024.github.io/index.html" >RAID 2024</a></u></strong>)<span >, CCF B. </span><br>
-30th Network and Distributed System Security Symposium </span><span >(</span><span style="color:#2a2a2a"><strong><span ><u><a href="https://www.ndss-symposium.org/ndss2024" >NDSS 2024</a></u></span></strong></span><span >), CCF A.</span><br>
+<span style="color:#2a2a2a">26th International Symposium on Research in Attacks, Intrusions and Defenses (<strong><u><a href="https://raid2024.github.io/index.html" >RAID 2024</a></u></strong>)<span>, CCF B. </span><br>
+30th Network and Distributed System Security Symposium </span><span>(</span><span style="color:#2a2a2a"><strong><span><u><a href="https://www.ndss-symposium.org/ndss2024" >NDSS 2024</a></u></span></strong></span><span>), CCF A.</span><br>
 <span style="color:#2a2a2a">​26th International Conference on Information and Communications Security (<u><a href="http://icics2024.aegean.gr/" >ICICS 2024</a></u>), CCF Rank C.</span><br>
 <span style="color:#2a2a2a">20th EAI International Conference on Security and Privacy in Communication Networks (<u><a href="https://securecomm.eai-conferences.org/2024/" >SecureComm 2024</a></u>) , CCF Rank C.</span><br>
 <span style="color:#2a2a2a">38th Annual Computer Security Applications Conference (</span><strong><span style="color:#2a2a2a"><u><a href="https://www.acsac.org/" >ACSAC 2023</a></u></span></strong><span style="color:#2a2a2a">), CCF Rank B.</span><br>
-26th International Symposium on Research in Attacks, Intrusions and Defenses (<strong><u><a href="https://raid2023.org/committees.html" >RAID 2023</a></u></strong>)<span >, CCF B. </span><br>
+26th International Symposium on Research in Attacks, Intrusions and Defenses (<strong><u><a href="https://raid2023.org/committees.html" >RAID 2023</a></u></strong>)<span>, CCF B. </span><br>
 <span style="color:#2a2a2a">28th Australasian Conference on Information Security and Privacy (<u><a href="https://www.qut.edu.au/about/faculty-of-science/school-of-computer-science/acisp" >ACISP 2023</a></u>) , CCF Rank C.</span><br>
 <span style="color:#2a2a2a">19th EAI International Conference on Security and Privacy in Communication Networks (<u><a href="https://securecomm.eai-conferences.org/2023/" >SecureComm 2023</a></u>) , CCF Rank C.</span><br>
 <span style="color:#2a2a2a">IEEE Global Communications Conference: Communication & Info Systems Security Track (<u><a href="https://globecom2023.ieee-globecom.org/committees/technical-program-committee" >GlobeCom 202</a>3</u><u>)</u>,  CCF Rank C.</span><br>
-<span style="color:#2a2a2a">29th Network and Distributed System Security Symposium </span><span >(</span><span style="color:#2a2a2a"><strong><span ><u><a href="https://www.ndss-symposium.org/ndss2023/" >NDSS 2023</a></u></span></strong></span><span >), CCF A<br>
-23nd Privacy Enhancing Technologies Symposium (</span><span style="color:#2a2a2a"><strong><span ><u><a href="https://www.petsymposium.org/" >PETS 2023</a></u></span></strong></span><span >), CCF C. </span><br>
+<span style="color:#2a2a2a">29th Network and Distributed System Security Symposium </span><span>(</span><span style="color:#2a2a2a"><strong><span><u><a href="https://www.ndss-symposium.org/ndss2023/" >NDSS 2023</a></u></span></strong></span><span>), CCF A<br>
+23nd Privacy Enhancing Technologies Symposium (</span><span style="color:#2a2a2a"><strong><span><u><a href="https://www.petsymposium.org/" >PETS 2023</a></u></span></strong></span><span>), CCF C. </span><br>
 <span style="color:#2a2a2a">29th ACM Conference on Computer and Communications Security (<strong><u><a href="https://www.sigsac.org/ccs/CCS2022/call-for-papers.html" >ACM CCS 2022</a></u></strong>), CCF Rank A, CACR Rank A.</span><br>
 <span style="color:#2a2a2a">38th Annual Computer Security Applications Conference (</span><strong><span style="color:#2a2a2a"><u><a href="https://www.acsac.org/" >ACSAC 2022</a></u></span></strong><span style="color:#2a2a2a">), CCF Rank B.</span><br>
 <span style="color:#2a2a2a">17th ACM ASIA Conference on Computer and Communications Security (</span><strong><span style="color:#2a2a2a"><u><a href="https://asiaccs2022.conferenceservice.jp/" >ACM ASIACCS 2022</a></u></span></strong><span style="color:#2a2a2a">), CCF Rank C, CACR Rank B;</span><br>
-<span >22nd Privacy Enhancing Technologies Symposium (</span><strong><span ><u><a href="https://www.petsymposium.org/" >PETS 2022</a></u></span></strong><span >), CCF C. </span><br>
+<span>22nd Privacy Enhancing Technologies Symposium (</span><strong><span><u><a href="https://www.petsymposium.org/" >PETS 2022</a></u></span></strong><span>), CCF C. </span><br>
 <span style="color:#2a2a2a">27th Australasian Conference on Information Security and Privacy (<u><a href="https://uow-ic2.github.io/acisp2022/" >ACISP 2022</a></u>) , CCF Rank C.</span><br>
 18th EAI International Conference on Security and Privacy in Communication Networks (<u><a href="https://securecomm.eai-conferences.org/2022/" >SecureComm 2022</a></u>)<span style="color:#2a2a2a"> , CCF Rank C.</span><br>
 <span style="color:#2a2a2a">​24th International Conference on Information and Communications Security (<u><a href="https://icics2022.cyber.kent.ac.uk/" >ICICS 2022</a></u>), CCF Rank C.<br>
@@ -405,7 +405,7 @@ IEEE Conference on Dependable and Secure Computing (<u><a href="http://nsclab.or
 13th International Conference on Network and System Security<span style="color:#2a2a2a"> (<u><a href="http://nsclab.org/nss2019/" >NSS 2019</a></u>). </span><br>
 <span style="color:#2a2a2a">34rd ACM SIGAPP Symposium On Applied Computing (<u><a href="https://www.sigapp.org/sac/sac2019/" >SAC 2019</a></u>).</span><br>
 2nd International Conference on Machine Learning for Cyber Security (<u><a href="http://ml4cs2019.xidian.edu.cn/cfp.htm" >ML4CS 2019</a></u>) ;<br>
-<span style="color:#2a2a2a"><span >11th International Symposium on Cyberspace Safety and Security (<u><a href="http://nsclab.org/css2019/index.html" >CSS 2019</a></u></span></span><span >);</span><br>
+<span style="color:#2a2a2a"><span>11th International Symposium on Cyberspace Safety and Security (<u><a href="http://nsclab.org/css2019/index.html" >CSS 2019</a></u></span></span><span>);</span><br>
 2019 ACM International Symposium on Blockchain and Secure Critical Infrastructure (<u><a href="http://www.cloud-conf.net/bsci/2019/index.htm/#CFP" >BSCI 2019</a></u>);<br>
 <span style="color:#2a2a2a">5th International Symposium on Security and Privacy in Social Networks and Big Data (<u><a href="http://nsclab.org/socialsec2019/" >SocialSec 2019</a></u>) .</span><br>
 5th International Symposium on Privacy Computing (<u><a href="https://cyber.kent.ac.uk/events/PriCom2019/submission.php" >PriCom 2019</a></u>);<br>
@@ -414,7 +414,7 @@ IEEE Conference on Dependable and Secure Computing (<u><a href="http://nsclab.or
 <span style="color:#2a2a2a">Second International Conference on Smart Blockchain (SmartBlcok 2019);</span><br>
 2nd International Workshop on Attacks and Defenses for Internet-of-Things (<u><a href="http://adiot2019.compute.dtu.dk/" >ADIoT 2019</a></u>)，<span style="color:#2a2a2a">Co-located </span>with ESORICS 2019; <br>
 2019 IEEE Middle East & North Africa COMMunications Conference (<u><a href="http://menacomm2019.org/" >MENACOMM 2019</a></u>).<br>
-<span >22nd IEEE International Conference on Computational Science and Engineering (<u><a href="http://www.cloud-conf.net/CSE/2019/" >IEEE CSE 2019</a></u>). </span><br>
+<span>22nd IEEE International Conference on Computational Science and Engineering (<u><a href="http://www.cloud-conf.net/CSE/2019/" >IEEE CSE 2019</a></u>). </span><br>
 5th International Conference on Artificial Intelligence and Security (<u><a href="http://www.icaisconf.com/" >ICAIS 2019</a></u>).<br>
 <span style="color:#2a2a2a">8th International Conference on Modeling, Simulation and Applied Optimization (<u><a href="http://icmsao.uob.edu.bh/" >ICMSAO 2019</a></u>)​.<br>
 2nd International Cognitive Cities Conference <u>(<a href="http://iscie.org/ic3/">IC3 2019</a></u>) ;<br>
@@ -426,7 +426,7 @@ International Workshop on Mobile Applications (MobiAPP 2019)</span><br>
 14th International Conference on Information Security Practice and Experience (<u><a href="http://www.risk.tsukuba.ac.jp/ispec2018/" >ISPEC 2018</a></u>), CACR Rank C.<br>
 14th International Conference on Information Security and Cryptology (<u><a href="http://xxhb.fjnu.edu.cn/inscrypt2018/" >Inscrypt 2018</a></u>), <span style="color:#2a2a2a"> CACR Rank C.</span><br>
 11th China Computer Networks and Information Security Conference (<u><a href="http://ccnis.xintongconference.com/zh-CN/web/page?mid=239&amp;pid=Home" >CCNIS 2018</a></u>).<br>
-<span >21st IEEE International Conference on Computational Science and Engineering (<u><a href="http://cse2018.hpc.pub.ro" >IEEE CSE 2018</a></u>). </span><br>
+<span>21st IEEE International Conference on Computational Science and Engineering (<u><a href="http://cse2018.hpc.pub.ro" >IEEE CSE 2018</a></u>). </span><br>
 13th International Conference on Green, Pervasive and Cloud Computing (<u><a href="http://www.gpc2018.org/" >GPC 2018</a></u>).<br>
  5th Annual International Conference on Computer Science and Applications<span style="color:#2a2a2a"> (<u><a href="http://www.csa2018.org/" >CSA 2018</a></u>).</span><br>
 <span style="color:#2a2a2a">4th International Conference on Cloud Computing and Security (<u><a href="http://www.icccsconf.org/" >ICCCS 2018</a></u>) .</span><br>
@@ -436,8 +436,8 @@ International Workshop on Mobile Applications (MobiAPP 2019)</span><br>
 <span style="color:#2a2a2a">​11th International Conference on Provable Security (<u><a href="http://anslab.org/events/PROVSEC17/index.html" >ProvSec 2017</a></u>) , CACR Rank C.</span><br>
 16th <span style="color:#2a2a2a">IEEE Int. Conf. on</span> Trust, Security and Privacy in Computing and Communications (<u><a href="http://www.stprp-activity.com/TrustCom2017" >IEEE TrustCom 2017</a></u>)<span style="color:#2a2a2a">, CCF Rank C.</span><br>
 <span style="color:#2a2a2a">13th International Conference on Information Security Practice and Experience (<u><a href="http://nsclab.org/ispec2017/" >ISPEC 2017</a></u>), CACR Rank C.</span><br>
-<span >9th International Symposium on Cyberspace Safety and Security (<u><a href="http://anslab.org/events/CSS17/index.html" >CSS 2017</a></u>)</span><br>
-<span style="color:#2a2a2a">12th International Conference on Broad-Band Wireless Computing, Communication and Applications </span><span >(<u><a href="http://anslab.org/events/CSS17/index.html" >BWCCA 2017</a></u>)</span><br>
+<span>9th International Symposium on Cyberspace Safety and Security (<u><a href="http://anslab.org/events/CSS17/index.html" >CSS 2017</a></u>)</span><br>
+<span style="color:#2a2a2a">12th International Conference on Broad-Band Wireless Computing, Communication and Applications </span><span>(<u><a href="http://anslab.org/events/CSS17/index.html" >BWCCA 2017</a></u>)</span><br>
 3rd International Conference on Cloud Computing and Security (<u><a href="http://www.icccsconf.org/" >ICCCS 2017</a></u>) <br>
 <a href="http://blockchain.whu.edu.cn/CS2017.html?from=timeline&amp;isappinstalled=0">3rd International Workshop on Computer Security (</a><u><a href="http://blockchain.whu.edu.cn/CS2017.html?from=timeline&amp;isappinstalled=0" >CS 2017</a></u>)<br>
 <a href="http://iccs2016.iaasse.org/">3rd International Conference on Cyber Security (</a><span style="color:#2a2a2a"><u><a href="http://www.iccs2017.iaasse.org/international-conference-on-cyber-security-iccs-2017--call-for-papers" >ICCS 2017</a></u>)</span><br>
