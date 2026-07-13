@@ -1,6 +1,70 @@
 ---
 layout: default
 ---
+
+
+<style>
+  #gridid::after {
+    display: table;
+    clear: both;
+    content: "";
+  }
+
+  #gridid .home-profile {
+    float: right;
+    width: 166px;
+    margin: 0 0 1rem 1.5rem;
+    text-align: center;
+  }
+
+  #gridid .home-profile img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    border-radius: 2%;
+  }
+
+  #gridid .home-profile figcaption {
+    margin: 0.4rem 0 0;
+    color: #666;
+    font-size: 14px;
+    line-height: 1.25;
+    text-align: center;
+  }
+
+  @media screen and (max-width: 576px) {
+    #gridid .home-profile {
+      float: none;
+      width: 160px;
+      max-width: 60%;
+      margin: 0 auto 1rem;
+    }
+  }
+
+  #gridid .word-cloud-right {
+    float: right;
+    width: 180px;
+    margin: 0 0 1rem 1.5rem;
+  }
+
+  #gridid .word-cloud-right img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+  }
+
+  @media screen and (max-width: 576px) {
+    #gridid .word-cloud-right {
+      float: none;
+      width: 100%;
+      max-width: 280px;
+      margin: 1rem auto;
+    }
+  }
+</style>
+
 <div id="gridid" class="col-sm-12">
   {{ content }}
 </div>
