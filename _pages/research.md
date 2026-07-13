@@ -6,7 +6,6 @@ sitemap: false
 permalink: /researches/
 ---
 
-
 <style>
   .publication-grid {
     display: grid;
@@ -74,26 +73,45 @@ permalink: /researches/
 **At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
 
 <div class="publication-grid">
-{% for publi in site.data.publist %}
-
-{% if publi.highlight == 1 %}
-
 <article class="publication-card">
   <div class="publication-card__image">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" alt="{{ publi.title | escape }}" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png" alt="Nanofabricated Smart Tips" />
   </div>
   <div class="publication-card__body">
-    <pubtit>{{ publi.title }}</pubtit>
-    <p>{{ publi.description }}</p>
-    <p><em>{{ publi.authors }}</em></p>
-    <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-    {% if publi.news1 %}<p class="text-danger"><strong>{{ publi.news1 }}</strong></p>{% endif %}
-    {% if publi.news2 %}<p>{{ publi.news2 }}</p>{% endif %}
+    <pubtit>Nanofabricated "Smart Tips"</pubtit>
+    <p>One of the projects back from my job-proposal is to develop nanofabricated STM tips. The idea is to make nanofabrication technologies available for scanning probes by using a nano-device instead of a traditional STM tungsten tip.</p>
   </div>
 </article>
 
-{% endif %}
-{% endfor %}
+<article class="publication-card">
+  <div class="publication-card__image">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png" alt="Ultra-stable SI-STM instrument" />
+  </div>
+  <div class="publication-card__body">
+    <pubtit>Ultra-stable SI-STM instrument</pubtit>
+    <p>For SI-STM, having the most stable STM head is key. We have used finite element simulations, material science, and craftsmanship to build an exceptionally stable STM head.</p>
+  </div>
+</article>
+
+<article class="publication-card">
+  <div class="publication-card__image">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png" alt="Magnetic fluctuations and electron spin resonance" />
+  </div>
+  <div class="publication-card__body">
+    <pubtit>Magnetic fluctuations and electron spin resonance</pubtit>
+    <p>We investigate magnetic fluctuations and electron spin resonance using advanced scanning probe techniques.</p>
+  </div>
+</article>
+
+<article class="publication-card">
+  <div class="publication-card__image">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png" alt="Twisted bilayer graphene" />
+  </div>
+  <div class="publication-card__body">
+    <pubtit>Twisted bilayer graphene and super-periodicities</pubtit>
+    <p>We have proposed that artificial super-periodicities can lead to improved superconductivity through an increased density of states and phase-space effects.</p>
+  </div>
+</article>
 </div>
 
 <p> &nbsp; </p>
@@ -104,11 +122,3 @@ permalink: /researches/
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
 
-## Full List of publications
-
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
