@@ -22,12 +22,12 @@ permalink: /
 
 <span style="color:rgb(42, 42, 42)">Minds are like parachutes, they only function when open. I am looking forward to cooperating with those working on related areas. Being open minded, we together can exchange interesting ideas, perform individually insurmountable experiments, have a visit, etc. You are welcome to our lab. <a href='https://en.nankai.edu.cn/DiscoverNankai/list.htm' target="_blank"><u style="color:rgb(0, 0, 0)" >NKU is beautiful</u></a>.</span>
 
-<strong>Research Interests:</strong> We are devoted to authentication and related area(<u><a href="http://wangdingg.weebly.com/researches.html"><span style="color:#a1a1a1">researches</span></a></u>):<br>
-(1) Machine learning-based techniques for authentication;  
-​(2) Protocols, including Password-based, Blockchain-based, Lattice-based  ones;  
-(3) Multi-factor authentication, including passwords, devices, biometrics and others;   
+<strong>Research Interests:</strong> We are devoted to authentication and related area(<u><a href="https://csslabnku.github.io/team" target="_blank"><span style="color:#a1a1a1">researches</span></a></u>):<br>
+<span style="color:rgb(42, 42, 42)">(1) Machine learning-based techniques for authentication;</span>  
+<span style="color:rgb(42, 42, 42)">​(2) Protocols, including Password-based, Blockchain-based, Lattice-based ones;</span>  
+<span style="color:rgb(42, 42, 42)">​(3) Multi-factor authentication, including passwords, devices, biometrics and others;</span>  
 
-We are looking for promising Professors/Associate Professors/Assitant Professors/ PostDoc/Lecturers and self-motivated Ph.D/Master students interested in the above research areas.  We together do some great work and aim to make real impact! Feel free to drop me an email!
+We are looking for promising <span style="color:rgb(88, 72, 183)"><strong>Professors</strong></span><span style="color:#5848b7">/</span><span style="color:rgb(88, 72, 183)"><strong>Associate Professors/Assitant Professors/ PostDoc/Lecturers</strong></span><span style="color:#5848b7"> </span>and self-motivated <strong><span style="color:#5848b7">Ph.D/Master students</span> </strong>interested in the above research areas.<span style="color:#5848b7"> </span>We together do some great work and aim to <strong>make real impact</strong>! Feel free to drop me an email!
 
 #### Research Funding
 
