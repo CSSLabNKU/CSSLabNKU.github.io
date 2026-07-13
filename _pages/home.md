@@ -7,11 +7,10 @@ permalink: /
 ---
 
 <strong>Ding Wang</strong> (汪 定)  
-​Full Professor, <a href='https://cyber.nankai.edu.cn/2021/0323/c37288a598508/page.htm'>College of Cryptology and Cyber Science</a>, Nankai University, Tianjin (27 mins from Beijing).  
+​Full Professor, <a href='https://cyber.nankai.edu.cn/2021/0323/c37288a598508/page.htm' target="_blank"><span style="color:#818181">College of Cryptology and Cyber Science</span></a>, Nankai University, Tianjin (27 mins from Beijing).  
 100 Young Academic Leaders of Nankai University; Tianjin Talent Introduction-Leading Talent.  
-<strong style="color: #6555C2;">**Email:**</strong>
-wangding at nankai.edu.cn; wangding at pku.edu.cn  
-
+<span style="color:#6555c2"><strong>Email</strong>: </span><span style="color:#626262"><a href="/cdn-cgi/l/email-protection#2f584e41484b4641486f414e41444e46014a4b5a014c41">wangding at nankai.edu.cn</a>; </span><span style="color:#626262">wangding at pku.edu.cn </span><br>
+<br>
 
 2025–Now, Vice-Dean of College of Cryptology and Cyber Science, Nankai University;  
 2021–Now, Chair of Department of Cryptography, Nankai University;  
