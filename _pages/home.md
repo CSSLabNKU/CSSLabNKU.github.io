@@ -11,12 +11,12 @@ permalink: /
 100 Young Academic Leaders of Nankai University; Tianjin Talent Introduction-Leading Talent.  
 <span style="color:#6555c2"><strong>Email</strong>: </span><a href="mailto:wangding@nankai.edu.cn"><span style="color:#000000">wangding at nankai.edu.cn;</span></a> <span style="color:#626262">wangding at pku.edu.cn </span><br>
 
-<span style="color:rgb(42, 42, 42)">2025–Now, Vice-Dean of College of Cryptology and Cyber Science, Nankai University;</span>  
+<span style="color:rgb(42, 42, 42)">2025–Now, Vice-Dean of College of Cryptology and Cyber Science, <a href='https://en.nankai.edu.cn/' target="_blank">Nankai University</a>;</span>  
 <span style="color:rgb(42, 42, 42)">2021–Now, Chair of Department of Cryptography, Nankai University;</span>  
 <span style="color:rgb(42, 42, 42)">2019–Now, Professor, Nankai University; Deputy-director of Tianjin Key Laboratory of Network and Data Security Technology;</span>  
-<span style="color:rgb(42, 42, 42)">2017-2019,  Lecturer & Boya Postdoctoral Fellowship, <a href='http://english.pku.edu.cn/'>Peking University</a>, Beijing;</span>  
-<span style="color:rgb(42, 42, 42)">2013-2017, PhD. in Information Security, <a href='http://english.pku.edu.cn/'>Peking University</a>, Beijing;</span>  
-<span style="color:rgb(42, 42, 42)">2010-2012, MS. in Information Security, <a href='http://english.hrbeu.edu.cn/'>Harbin Engineering University</a>;</span>  
+<span style="color:rgb(42, 42, 42)">2017-2019,  Lecturer & Boya Postdoctoral Fellowship, <a href='http://english.pku.edu.cn/' target="_blank">Peking University</a>, Beijing;</span>  
+<span style="color:rgb(42, 42, 42)">2013-2017, PhD. in Information Security, <a href='http://english.pku.edu.cn/' target="_blank">Peking University</a>, Beijing;</span>  
+<span style="color:rgb(42, 42, 42)">2010-2012, MS. in Information Security, <a href='http://english.hrbeu.edu.cn/' target="_blank">Harbin Engineering University</a>;</span>  
 <span style="color:rgb(42, 42, 42)">2008-2009, BA. in Information Engineering, Information Engineering University;</span>  
 <span style="color:rgb(42, 42, 42)">2004-2008, BA. in Information Security, Nankai University, Tianjin.</span>  
 
