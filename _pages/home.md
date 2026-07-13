@@ -20,7 +20,7 @@ permalink: /
 <span style="color:rgb(42, 42, 42)">2008-2009, BA. in Information Engineering, Information Engineering University;</span>  
 <span style="color:rgb(42, 42, 42)">2004-2008, BA. in Information Security, Nankai University, Tianjin.</span>  
 
-<span style="color:rgb(42, 42, 42)">Minds are like parachutes, they only function when open. I am looking forward to cooperating with those working on related areas. Being open minded, we together can exchange interesting ideas, perform individually insurmountable experiments, have a visit, etc. You are welcome to our lab. <a href='https://en.nankai.edu.cn/DiscoverNankai/list.htm' target="_blank"><u>NKU is beautiful</u></a>.</span>
+<span style="color:rgb(42, 42, 42)">Minds are like parachutes, they only function when open. I am looking forward to cooperating with those working on related areas. Being open minded, we together can exchange interesting ideas, perform individually insurmountable experiments, have a visit, etc. You are welcome to our lab. <a href='https://en.nankai.edu.cn/DiscoverNankai/list.htm' target="_blank"><u style="color:rgb(0, 0, 0)" >NKU is beautiful</u></a>.</span>
 
 <strong>Research Interests:</strong> We are devoted to authentication and related area(<u><a href="http://wangdingg.weebly.com/researches.html"><span style="color:#a1a1a1">researches</span></a></u>):<br>
 (1) Machine learning-based techniques for authentication;  
