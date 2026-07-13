@@ -27,7 +27,7 @@ permalink: /
 <span style="color:rgb(42, 42, 42)">​(2) Protocols, including Password-based, Blockchain-based, Lattice-based ones;</span>  
 <span style="color:rgb(42, 42, 42)">​(3) Multi-factor authentication, including passwords, devices, biometrics and others;</span>  
 
-We are looking for promising <span style="color:rgb(88, 72, 183)"><strong>Professors</strong></span><span style="color:#5848b7">/</span><span style="color:rgb(88, 72, 183)"><strong>Associate Professors/Assitant Professors/ PostDoc/Lecturers</strong></span><span style="color:#5848b7"> </span>and self-motivated <strong><span style="color:#5848b7">Ph.D/Master students</span> </strong>interested in the above research areas.<span style="color:#5848b7"> </span>We together do some great work and aim to <strong>make real impact</strong>! Feel free to drop me an email!
+We are looking for promising <span style="color:#5848b7"><strong>Professors/ Associate Professors/ Assitant Professors/ PostDoc/ Lecturers</strong></span> and self-motivated <strong><span style="color:#5848b7">Ph.D/ Master students</span></strong> interested in the above research areas. We together do some great work and aim to <strong>make real impact</strong>! Feel free to drop me an email!
 
 <strong><span style="color:rgb(42, 42, 42); font-size:24px;">Research Funding:</span></strong> <span style="color:rgb(42, 42, 42)">Our work is supported by NSF of China,  State Key Lab of Cryptography, and National Key R&D Plan.</span><br>
 <span style="color:rgb(42, 42, 42)">(13) NSF of China, Excellent Young Scientists Program, "<span style="color:#5040ae"><strong>Secret Key Security</strong></span>" (2023.01~2025.12);</span><br>
