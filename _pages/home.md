@@ -9,16 +9,16 @@ permalink: /
 <strong>Ding Wang</strong> (汪 定)  
 ​Full Professor, <a href='https://cyber.nankai.edu.cn/2021/0323/c37288a598508/page.htm' target="_blank"><span style="color:#818181">College of Cryptology and Cyber Science</span></a>, Nankai University, Tianjin (27 mins from Beijing).  
 100 Young Academic Leaders of Nankai University; Tianjin Talent Introduction-Leading Talent.  
-<span style="color:#6555c2"><strong>Email</strong>: </span><a href="/cdn-cgi/l/email-protection#2f584e41484b4641486f414e41444e46014a4b5a014c41"><span style="color:#000000">wangding at nankai.edu.cn;</span></a> <span style="color:#626262">wangding at pku.edu.cn </span><br>
+<span style="color:#6555c2"><strong>Email</strong>: </span><a href="mailto:wangding@nankai.edu.cn"><span style="color:#000000">wangding at nankai.edu.cn;</span></a> <span style="color:#626262">wangding at pku.edu.cn </span><br>
 
 <span style="color:rgb(42, 42, 42)">2025–Now, Vice-Dean of College of Cryptology and Cyber Science, Nankai University;</span>  
-2021–Now, Chair of Department of Cryptography, Nankai University;  
-2019–Now, Professor, Nankai University; Deputy-director of Tianjin Key Laboratory of Network and Data Security Technology;  
-2017-2019,  Lecturer & Boya Postdoctoral Fellowship, <a href='http://english.pku.edu.cn/'>Peking University</a>, Beijing;  
-2013-2017, PhD. in Information Security, <a href='http://english.pku.edu.cn/'>Peking University</a>, Beijing;  
-2010-2012, MS. in Information Security, <a href='http://english.hrbeu.edu.cn/'>Harbin Engineering University</a>;  
-2008-2009, BA. in Information Engineering, Information Engineering University;  
-2004-2008, BA. in Information Security, Nankai University, Tianjin.  
+<span style="color:rgb(42, 42, 42)">2021–Now, Chair of Department of Cryptography, Nankai University;</span>  
+<span style="color:rgb(42, 42, 42)">2019–Now, Professor, Nankai University; Deputy-director of Tianjin Key Laboratory of Network and Data Security Technology;</span>  
+<span style="color:rgb(42, 42, 42)">2017-2019,  Lecturer & Boya Postdoctoral Fellowship, <a href='http://english.pku.edu.cn/'>Peking University</a>, Beijing;</span>  
+<span style="color:rgb(42, 42, 42)">2013-2017, PhD. in Information Security, <a href='http://english.pku.edu.cn/'>Peking University</a>, Beijing;</span>  
+<span style="color:rgb(42, 42, 42)">2010-2012, MS. in Information Security, <a href='http://english.hrbeu.edu.cn/'>Harbin Engineering University</a>;</span>  
+<span style="color:rgb(42, 42, 42)">2008-2009, BA. in Information Engineering, Information Engineering University;</span>  
+<span style="color:rgb(42, 42, 42)">2004-2008, BA. in Information Security, Nankai University, Tianjin.</span>  
 
 Minds are like parachutes, they only function when open. I am looking forward to cooperating with those working on related areas. Being open minded, we together can exchange interesting ideas, perform individually insurmountable experiments, have a visit, etc. You are welcome to our lab. <a href='https://en.nankai.edu.cn/DiscoverNankai/list.htm'>NKU is beautiful</a>.
 
