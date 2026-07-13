@@ -528,6 +528,6 @@ IEEE Wireless Communication and Networking Conference (WCNC 2014)<br>
 <strong>Education</strong> and Working Experience: <br>
 2018-today, PostDoc in Information Security at <strong>Peking University.</strong> Supervised by and Cooperate with Prof. <a href="http://machunguang.hrbeu.edu.cn/">R</a>u Huang, an <span style="color:#333333">academician of the Chinese Academy of Sciences. </span><br>
 2013-2017, Ph.D Degree in Information Security, Supervised by Prof. Ping Wang, <strong>Peking University. </strong>Tutor team (Prof. Chao-Hsien Chu at Pennsylvania State University, Co-director, Center for Cyber Security, Information Privacy and Trust; Prof. Zhong Chen, Prof. Maozhi Xu, and Prof. Sihan Qing at PKU)<br>
-2010-2012, Mater Degree in Information Security, Supervised by Prof. <a href="http://machunguang.hrbeu.edu.cn/">Chunguang Ma</a>, <strong>Harbin Engineering University</strong>;<br>
+2010-2012, Master Degree in Information Security, Supervised by Prof. <a href="http://machunguang.hrbeu.edu.cn/">Chunguang Ma</a>, <strong>Harbin Engineering University</strong>;<br>
 2008-2009, BA. in Information Engineering, Supervised by Prof. Yuango Guo, <strong>Information Engineering University;</strong><br>
 2004-2008, BA. Degree in Information Security, Supervised by Prof. <a href="http://baike.baidu.com/view/9995870.htm">Chunfu Jia</a>, <strong>Nankai University</strong>, Tianjin.<br>
