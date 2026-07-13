@@ -139,6 +139,25 @@ permalink: /researches/
 </article>
 </div>
 
+### Some principles for designing secure and privacy-preserving 2FA
 
+<div class="publication-grid" markdown="0">
+https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/?425
+<article class="publication-card">
+  <div class="publication-card__image">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/3349556.jpg" />
+  </div>
+  <div class="publication-card__body">
+    <p><strong>Under the conditional non-tamper-resistance assumption of the smart cards, whether it is possible to construct a privacy-preserving two-factor authentication scheme by employing only light-weight symmetric cryptographic techniques, as most of the literature has done in the past?</strong> We give a negative answer to this question by empirically using two case studies and formally proving it in a widely accepted adversary model. (see more in <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/comnet14.pdf" target="_blank"><u>COMNET'14 paper</u></a>)</p>
+  </div>
+</article>
 
-
+<article class="publication-card">
+  <div class="publication-card__image">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/1824974.jpg" />
+  </div>
+  <div class="publication-card__body">
+    <p><strong>In this work, we, for the first time, put forward three general principles that are vital for designing secure smart-card-based password authentication schemes: </strong> (i) public-key techniques are indispensable to resist against ofﬂine password guessing attack and to preserve user anonymity under the non-tamper resistance assumption of the smart card; (ii) there is an unavoidable trade-off when fulﬁlling the goals of local password update and resistance to smart card loss attack; and (iii) at least two exponentiation (respectively elliptic curve point multiplication) operations conducted on the server side are necessary for achieving forward secrecy.  (see more in our <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ijcs_online_version.pdf" target="_blank"><u>IJCS'14 ESI highly cited paper</u></a>)</p>
+  </div>
+</article>
+</div>
