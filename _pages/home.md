@@ -22,10 +22,16 @@ permalink: /
 
 <span>Minds are like parachutes, they only function when open. I am looking forward to cooperating with those working on related areas. Being open minded, we together can exchange interesting ideas, perform individually insurmountable experiments, have a visit, etc. You are welcome to our lab. <a href='https://en.nankai.edu.cn/DiscoverNankai/list.htm'><u>NKU is beautiful</u></a>.</span>
 
+<figure class="word-cloud-right">
+  <img src="{{ site.baseurl }}/images/prof_pic.jpg" alt="Password cryptography word cloud">
+</figure>
+
 <strong><span style="font-size:24px;">Research Interests: </span></strong> We are devoted to authentication and related area (<u><a href="https://csslabnku.github.io/team"><span style="color:#a1a1a1">researches</span></a></u>):<br>
 <span>(1) Machine learning-based techniques for authentication;</span>  
 <span>​(2) Protocols, including Password-based, Blockchain-based, Lattice-based ones;</span>  
 <span>​(3) Multi-factor authentication, including passwords, devices, biometrics and others;</span>  
+
+<div style="clear: both;"></div>
 
 We are looking for promising <span style="color:#5848b7"><strong>Professors/ Associate Professors/ Assitant Professors/ PostDoc/ Lecturers</strong></span> and self-motivated <strong><span style="color:#5848b7">Ph.D/ Master students</span></strong> interested in the above research areas. We together do some great work and aim to <strong>make real impact</strong>! Feel free to drop me an email!
 
