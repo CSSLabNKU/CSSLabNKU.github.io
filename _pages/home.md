@@ -51,9 +51,11 @@ Doctoral Dissertation Award by Peking University, China Computer Federation, ACM
 <strong><span style="color:rgb(42, 42, 42); font-size:24px;">Recent Publications:</span></strong> <span style="color:rgb(42, 42, 42)">Our work gets 8000+ citations (<a href="https://scholar.google.com/citations?user=ccvj-2cAAAAJ" target="_blank"><span style="color:#818181">Google Scholar</span></a> [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3Dccvj-2cAAAAJ)](https://scholar.google.com/citations?user=ccvj-2cAAAAJ)), is covered by 200+ worldwide media, and appears in IEEE S&P'26, NDSS'26, IEEE S&P'25, NDSS'25, IEEE S&P'24, USENIX Security'24, USENIX Security'23abc, IEEE S&P'22, SRDS'22, ESORICS'22, IEEE TIFS'22, IEEE TIFS'21, IEEE TDSC'20 a~d, Usenix Security'19, NDSS'18, IEEE TSC'18, IEEE TDSC'18, IEEE TII'18, ACM ASIACCS'17,  IEEE TIFS'17, ACM CCS'16, IEEE/IFIP DSN'16, ESORICS'16, ACM ASIACCS'16,  IEEE TDSC'15, ESORICS'15, INS'15, COMNET'14, ISC'13, ICICS'12, DBSec'12, etc. (<u><a href="http://wangdingg.weebly.com/publications.html" target="_blank"><span style="color:#000000">Full List</span></a></u>): 
 <br>
 
-<span style="color:#2a2a2a">Yihe Duan, Ding Wang\*, Yutong Li. Credential Extraction Attacks Against <strong>Compromised Credential Checking Services</strong> of Password Managers. Proc. of 47th IEEE Symposium on Security and Privacy (<strong><span style="color:#5040ae">IEEE S&P 2026</span></strong>), pp. 1-20. to Appear.</span><br>
-<span style="color:#2a2a2a">(Full paper, acceptance rate: 118/925=12.8%) <u><a href="/uploads/2/0/3/6/20366987/ieeesp26-pm-full.pdf">pdf</a></u><br>
-<br>
+<div class="publication-list" markdown="0">
+
+<span>Yihe Duan, Ding Wang<sup>*</sup>, Yutong Li. Credential Extraction Attacks Against <strong>Compromised Credential Checking Services</strong> of Password Managers. Proc. of 47th IEEE Symposium on Security and Privacy (<strong><span style="color:#5040ae">IEEE S&P 2026</span></strong>), pp. 2977-2996.</span><br>
+<span style="color:#2a2a2a">(Full paper, acceptance rate: 118/925=12.8%) <u><a href=""><span style="color:#000000">pdf</span></a></u><br>
+
 Yunkai Zou, Maoxiang An, Ding Wang*.  Password Guessing Using<strong> Large Language Models​</strong>. Proc. of 34th USENIX Security Symposium (<strong><span style="color:#5040ae">USENIX Security 2025</span></strong>),  pp.1-24.   </span><a href="/uploads/2/0/3/6/20366987/passllm-full.pdf"><span style="color:#2a2a2a"> <u>pdf</u></span></a><br>
 <span style="color:#2a2a2a"> (Full paper<a href="/uploads/2/0/3/6/20366987/acm-csur-25.pdf">, </a>acceptance rate 17%)   </span>​<br>
 <br>
@@ -86,6 +88,7 @@ Ding Wang, Debiao He, Ping Wang, Chao-Hsien Chu<strong>. </strong><strong>Ano
 <br>
 <span style="color:#2a2a2a">Ding Wang, Ping Wang. <strong>On the Anonymity of Two-Factor Authentication Schemes for Wireless Sensor Networks: Attacks, Principle and Solution</strong><strong>s</strong>. <em>Elsevier  </em>Computer Networks, 2014(73): 41–57.   ﻿﻿<u><a href="/uploads/2/0/3/6/20366987/comnet2014.pdf">pdf</a>﻿﻿</u></span><br>
 <span style="color:#2a2a2a">​(180+ Citations; </span>This work investigates the inherent cryptographic complexity of designing a two-factor authentication scheme with user anonymity, and ​formally proves an impossibility result<span style="color:#2a2a2a"><strong>.</strong></span>  A number of <a href="http://dx.plos.org/10.1371/journal.pone.0116709"><span style="color:#a1a1a1">following works</span></a> write that our result is "somewhat <strong><span style="color:#5040ae">surprising</span></strong>" and "<span style="color:#2a2a2a"><strong><span style="color:#5040ae">an important finding</span></strong></span>"<span style="color:#2a2a2a"><strong>;</strong><strong> </strong></span> Also honored to appear in the  Elsevier 2017 list  of<span style="color:#5848b7"> "</span><a href="/uploads/2/0/3/6/20366987/comnet14selection.png"><span style="color:#818181">Article Selection Celebrating Computer Science Research in China</span></a>";) <br>
+</div>
 ​<br>
 ​​
 
