@@ -53,8 +53,8 @@ Doctoral Dissertation Award by Peking University, China Computer Federation, ACM
 
 <div class="publication-list" markdown="0">
 
-<span>Yihe Duan, Ding Wang*, Yutong Li. Credential Extraction Attacks Against <strong>Compromised Credential Checking Services</strong> of Password Managers. Proc. of 47th IEEE Symposium on Security and Privacy (<strong><span style="color:#5040ae">IEEE S&P 2026</span></strong>), pp. 2977-2996.</span><br>
-<span style="color:#2a2a2a">(Full paper, acceptance rate: 118/925=12.8%) <u><a href=""><span style="color:#2a2a2a"> <u>pdf</u></span></a><br><br>
+Yihe Duan, Ding Wang*, Yutong Li. Credential Extraction Attacks Against <strong>Compromised Credential Checking Services</strong> of Password Managers. Proc. of 47th IEEE Symposium on Security and Privacy (<strong><span style="color:#5040ae">IEEE S&P 2026</span></strong>), pp. 2977-2996.<br>
+<span style="color:#2a2a2a">(Full paper, acceptance rate: 118/925=12.8%)<a href=""><span style="color:#2a2a2a"><u>pdf</u></span></span></a><br><br>
 
 Yunkai Zou, Maoxiang An, Ding Wang*. Password Guessing Using <strong>Large Language Models​</strong>. Proc. of 34th USENIX Security Symposium (<strong><span style="color:#5040ae">USENIX Security 2025</span></strong>),  pp. 1-24.   </span><a href=""><span style="color:#2a2a2a"> <u>pdf</u></span></a><br>
 <span style="color:#2a2a2a"> (Full paper<a href="/uploads/2/0/3/6/20366987/acm-csur-25.pdf">, </a>acceptance rate 17%)   </span>​<br>
