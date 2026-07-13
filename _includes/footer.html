@@ -1,36 +1,84 @@
-<div id="footer" class="panel">
-	<!-- <div class="panel-footer">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-sm-4">
+<style>
+	.site-footer {
+		margin-top: 48px;
+		padding: 22px 0 24px;
+		border-top: 1px solid rgba(101, 85, 194, 0.22);
+		background: #faf9fd;
+		color: #555;
+		font-size: 14px;
+		line-height: 1.6;
+	}
 
-					<p>&copy 2016 Allan Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a>; <a
-							href="{{ site.url }}{{ site.baseurl }}/aboutwebsite.html">copy and modify it for your own
-							research group.</a></p>
+	.site-footer__inner {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: 20px;
+	}
 
+	.site-footer p {
+		margin: 0;
+	}
 
+	.site-footer__name {
+		font-weight: 600;
+		color: #2a2a2a;
+	}
 
-					<p> </p>
-					<p>
+	.site-footer__note {
+		color: #777;
+	}
 
+	.site-footer__links {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-end;
+		gap: 8px 18px;
+	}
 
-				</div>
-				<div class="col-sm-4">
-					<p>We are part of the <a href="https://www.physik.lmu.de/en//">Faculty of Physics</a> at the<a
-							href="https://www.lmu.de"> University of Munich (LMU)</a>. We are still associated with the
-						<a href="https://www.physics.leidenuniv.nl/">Leiden Institute of Physics</a>, where most of our
-						instrument are.</p>
-				</div>
-				<div class="col-sm-4">
-					Contact:<br />
-					Geschwister-Scholl-Platz 1<br />
-					80539 München<br />
-					Germany <br />
-				</div>
-			</div>
+	.site-footer__links a {
+		color: #6555c2;
+		text-decoration: none;
+	}
+
+	.site-footer__links a:hover,
+	.site-footer__links a:focus {
+		color: #5040ae;
+		text-decoration: underline;
+	}
+
+	@media screen and (max-width: 766px) {
+		.site-footer {
+			margin-top: 34px;
+			padding: 20px 0;
+			text-align: center;
+		}
+
+		.site-footer__inner {
+			flex-direction: column;
+			gap: 12px;
+		}
+
+		.site-footer__links {
+			justify-content: center;
+		}
+	}
+</style>
+
+<footer class="site-footer" role="contentinfo">
+	<div class="container-fluid site-footer__inner">
+		<div>
+			<p class="site-footer__name">Ding Wang · Password Cryptography</p>
+			<p class="site-footer__note">Nankai University · &copy; {{ site.time | date: "%Y" }}</p>
 		</div>
-	</div> -->
-</div>
+
+		<nav class="site-footer__links" aria-label="Footer navigation">
+			<a href="{{ site.url }}{{ site.baseurl }}/" target="_self">Home</a>
+			<a href="{{ site.url }}{{ site.baseurl }}/publications" target="_self">Publications</a>
+			<a href="mailto:wangding@nankai.edu.cn">Email</a>
+		</nav>
+	</div>
+</footer>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
