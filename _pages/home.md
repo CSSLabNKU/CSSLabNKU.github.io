@@ -34,17 +34,19 @@ We are looking for promising <span style="color:#5848b7"><strong>Professors/ Ass
 <span style="color:rgb(42, 42, 42)">(12) NSF of China, General Program, "<span style="color:#5040ae"><strong>Machine Learning based Authentication</strong></span>" (2022.01~2025.12);</span><br>
 <span style="color:rgb(42, 42, 42)">(11) Key Program of NSF, Tianjin, "<span style="color:#5040ae"><strong>Password Authentication</strong></span>" (2021.10~2024.09);</span><br>
 <span style="color:rgb(42, 42, 42)">(10) Research Program of Jing-Jin-Ji Cooperation, "<span style="color:#5040ae"><strong>Provable Authentication for Industrial IoT</strong></span>" (2022.01~2024.12);</span><br>
-<span style="color:rgb(42, 42, 42)">(9)  National Key R&D Plan, "<span style="color:#5040ae"><strong>Identity Security</strong></span>" (2021.11~2023.11);</span><br>
-<span style="color:rgb(42, 42, 42)">(8)  Research Project of CETC, "<strong>User Authentication</strong>" (2020.01~2021.12);</span><br>
-<span style="color:rgb(42, 42, 42)">(7)  Science Foundation of NKU, "Authentication Team Building" (2020.01~2022.12);</span><br>
-<span style="color:rgb(42, 42, 42)">(6)  NSF of China, "<strong>Authentication for mobile devices</strong>" under Grant No. 61802006 (2019.01~2020.12);</span><br>
-<span style="color:rgb(42, 42, 42)">(5)  State Key Lab of Crypto, "<strong>Leakage-resistant authentication</strong>" under Grant No. MMKT-2018-31 (2018.07~2020.06);</span><br>
-<span style="color:rgb(42, 42, 42)">(4)  China Postdoctoral Science Foundation, "<strong>Password authentication</strong>" under No. 2019T120019 (2019.06~2019.11);</span><br>
-<span style="color:rgb(42, 42, 42)">(3)  China Postdoctoral Science Foundation, "<strong>Multi-factor authentication</strong>" under No. 2018M640026 (2018.11~2019.11);</span><br>
-<span style="color:rgb(42, 42, 42)">(2)  National Key R&D Plan, "<strong>Multi-factor Auth for Virtual Concurrency</strong>" under No. 2016YFB0800603 (2016.07~2019.06);</span><br>
-<span style="color:rgb(42, 42, 42)">(1)  NSF of China, "<strong>Anonymous multi-factor authentication</strong>" under Grant No. 61472016 (2015.01~2018.12);</span><br>
+<span style="color:rgb(42, 42, 42)">(9) National Key R&D Plan, "<span style="color:#5040ae"><strong>Identity Security</strong></span>" (2021.11~2023.11);</span><br>
+<span style="color:rgb(42, 42, 42)">(8) Research Project of CETC, "<strong>User Authentication</strong>" (2020.01~2021.12);</span><br>
+<span style="color:rgb(42, 42, 42)">(7) Science Foundation of NKU, "Authentication Team Building" (2020.01~2022.12);</span><br>
+<span style="color:rgb(42, 42, 42)">(6) NSF of China, "<strong>Authentication for mobile devices</strong>" under Grant No. 61802006 (2019.01~2020.12);</span><br>
+<span style="color:rgb(42, 42, 42)">(5) State Key Lab of Crypto, "<strong>Leakage-resistant authentication</strong>" under Grant No. MMKT-2018-31 (2018.07~2020.06);</span><br>
+<span style="color:rgb(42, 42, 42)">(4) China Postdoctoral Science Foundation, "<strong>Password authentication</strong>" under No. 2019T120019 (2019.06~2019.11);</span><br>
+<span style="color:rgb(42, 42, 42)">(3) China Postdoctoral Science Foundation, "<strong>Multi-factor authentication</strong>" under No. 2018M640026 (2018.11~2019.11);</span><br>
+<span style="color:rgb(42, 42, 42)">(2) National Key R&D Plan, "<strong>Multi-factor Auth for Virtual Concurrency</strong>" under No. 2016YFB0800603 (2016.07~2019.06);</span><br>
+<span style="color:rgb(42, 42, 42)">(1) NSF of China, "<strong>Anonymous multi-factor authentication</strong>" under Grant No. 61472016 (2015.01~2018.12);</span><br>
 
-#### Ph.D. Dissertation
+<strong><span style="color:rgb(42, 42, 42); font-size:24px;">PhD Dissertation:</span></strong> <a href="uploads/phd_thesis0103.pdf">Research on Key Issues in Password Security (口令安全关键问题研究),</a> 2017.06. <u><a href="uploads/phd_thesis0103.pdf"><span style="color:#818181">PDF</span></a></u><br>
+ Doctoral Dissertation Award by Peking University, China Computer Federation, ACM SIGSAC China, and ACM China.<br>
+  (<span style="color:#a1a1a1"><a href="https://awards.acm.org/binaries/content/assets/awards/awards-booklet-2019.pdf" target="_blank">ACM</a></span><a href="https://awards.acm.org/binaries/content/assets/awards/awards-booklet-2019.pdf" target="_blank"><span style="color:#a1a1a1">中国优秀博士论文奖</span></a>; <a href="http://www.ccf.org.cn/c/2018-03-06/623465.shtml" target="_blank"><span style="color:#818181">中国计算机学会优秀博士论文奖</span></a><span style="color:#818181">; </span><span style="color:rgb(42, 42, 42)">ACM SIGSAC中国优秀博士论文奖; </span><a href="http://pkunews.pku.edu.cn/xwzh/2017-07/04/content_298534.htm" target="_blank">北京大学优秀博士论文奖</a>.)<br>
 
 **Research on Key Issues in Password Security (口令安全关键问题研究)**, June 2017.
 
