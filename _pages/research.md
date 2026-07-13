@@ -142,7 +142,7 @@ permalink: /researches/
 ### Some principles for designing secure and privacy-preserving 2FA
 
 <div class="publication-grid" markdown="0">
-https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/?425
+
 <article class="publication-card">
   <div class="publication-card__image">
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/3349556.jpg" />
@@ -157,7 +157,30 @@ https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/?425
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/1824974.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>In this work, we, for the first time, put forward three general principles that are vital for designing secure smart-card-based password authentication schemes: </strong> (i) public-key techniques are indispensable to resist against ofﬂine password guessing attack and to preserve user anonymity under the non-tamper resistance assumption of the smart card; (ii) there is an unavoidable trade-off when fulﬁlling the goals of local password update and resistance to smart card loss attack; and (iii) at least two exponentiation (respectively elliptic curve point multiplication) operations conducted on the server side are necessary for achieving forward secrecy.  (see more in our <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ijcs_online_version.pdf" target="_blank"><u>IJCS'14 ESI highly cited paper</u></a>)</p>
+    <p><strong>In this work, we, for the first time, put forward three general principles that are vital for designing secure smart-card-based password authentication schemes: </strong> (i) public-key techniques are indispensable to resist against ofﬂine password guessing attack and to preserve user anonymity under the non-tamper resistance assumption of the smart card; (ii) there is an unavoidable trade-off when fulﬁlling the goals of local password update and resistance to smart card loss attack; and (iii) at least two exponentiation (respectively elliptic curve point multiplication) operations conducted on the server side are necessary for achieving forward secrecy. (see more in our <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ijcs_online_version.pdf" target="_blank"><u>IJCS'14 ESI highly cited paper</u></a>)</p>
+  </div>
+</article>
+</div>
+
+### Investigations into the evaluation metrics for 2FA
+
+<div class="publication-grid" markdown="0">
+
+<article class="publication-card">
+  <div class="publication-card__image">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/2532685.jpg" />
+  </div>
+  <div class="publication-card__body">
+    <p>We further propose viable fixes and refinements to the state-of-the-art metric. The effectiveness of our refinements are tested by a comparative evaluation of 34 representative two-factor schemes. Particularly, <strong>we, for the ﬁrst time, provide a taxonomy of smart-card-loss attacks. </strong> We give a negative answer to this question by empirically using two case studies and formally proving it in a widely accepted adversary model. (see more in <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/asiaccs16v7.pdf" target="_blank"><u>ASIACCS'16 paper</u></a>; For a better metric and new scheme see our <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ieeetdsc16_v11.pdf" target="_blank"><u>IEEE TDSC'16 paper</u></a>)</p>
+  </div>
+</article>
+
+<article class="publication-card">
+  <div class="publication-card__image">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/841544.jpg" />
+  </div>
+  <div class="publication-card__body">
+    <p>Little attention has been given to the fundamental question: <strong>whether or not there are inherent limitations that prevent us from designing an “ideal” scheme that satisfies all the desirable goals?</strong> In this work, we aim to provide a deﬁnite answer to this question. (see more in our <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/tdsc15.pdf" target="_blank"><u>IEEE TDSC'15 paper</u></a>)</p>
   </div>
 </article>
 </div>
