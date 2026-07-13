@@ -6,6 +6,8 @@ sitemap: false
 permalink: /publications/
 ---
 
+<div class="publication-list" markdown="0">
+
 Yihe Duan, Ding Wang*, Yutong Li. Credential Extraction Attacks Against <strong>Compromised Credential Checking Services</strong> of Password Managers. Proc. of 47th IEEE Symposium on Security and Privacy (<strong><span style="color:#5040ae">IEEE S&amp;P 2026</span></strong>), pp. 1915-1934. <u><a href="/uploads/2/0/3/6/20366987/ieeesp26-pm-full.pdf">pdf</a></u><br>(Full paper, acceptance rate: 118/925=12.8%) <br><br>
 Zhen Li, Ding Wang*. <strong>Targeted Password Guessing</strong> Using k-Nearest Neighbors. In Proceedings of the 33nd Network and Distributed System Security Symposium (<strong><span style="color:#5040ae">NDSS 2026</span></strong>), pp. 1-23. <u><a href="/uploads/2/0/3/6/20366987/knnguess-ndss26-fullv1.pdf"> pdf</a></u><br> (Full paper<a href="/uploads/2/0/3/6/20366987/acm-csur-25.pdf">, </a>acceptance rate: 152/950=16.0%) <br><br>
 Yunkai Zou, Ding Wang*, Fei Duan. Success Rates Doubled with Only One Character: <strong>Mask Password Guessing</strong>. In Proceedings of the 33nd Network and Distributed System Security Symposium (<strong><span style="color:#5040ae">NDSS 2026</span></strong>), pp. 1-25. <u><a href="/uploads/2/0/3/6/20366987/mask-attack-ndss26-fullv1.pdf">pdf</a></u><br> (Full paper<a href="/uploads/2/0/3/6/20366987/acm-csur-25.pdf">, </a>acceptance rate: 152/950=16.0%) <br><br>
@@ -166,3 +168,5 @@ Ding Wang, Wenting Li, Ping Wang. Cryptanalysis of three anonymous authenticatio
 薛峰, 汪定*, 王立萍, 马春光. 对两个基于智能卡的远程用户口令认证协议的安全性分析. <strong>计算机应用,</strong> 2012, 32(7): 221-224.<br><br>
 薛峰, 汪定*, 王立萍. 一种基于公钥认证可恢复的半脆弱水印算法. <strong>计算机安全,</strong> 2011, 4(1): 25-28.<br><br>
 马春光, 汪定*, 张启明. 广域涉密信息系统域间授权研究. <strong>保密科学技术,</strong> 2011, 3(11): 50-52.
+
+</div>
