@@ -70,9 +70,12 @@ permalink: /researches/
   }
 </style>
 
-### Better understanding of user-chosen passwords
+
 
 <div class="publication-grid" markdown="0">
+
+### Better understanding of user-chosen passwords
+
 <article class="publication-card">
   <div class="publication-card__image">
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/our-cdf-zipf-model-performs-much-better-in-characterizing-password-distributions-as_orig.png"/>
@@ -91,7 +94,7 @@ permalink: /researches/
   </div>
 </article>
 
-<hr>
+
 
 <article class="publication-card">
   <div class="publication-card__image">
