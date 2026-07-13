@@ -56,8 +56,8 @@ Doctoral Dissertation Award by Peking University, China Computer Federation, ACM
 Yihe Duan, Ding Wang*, Yutong Li. Credential Extraction Attacks Against <strong>Compromised Credential Checking Services</strong> of Password Managers. Proc. of 47th IEEE Symposium on Security and Privacy (<strong><span style="color:#5040ae">IEEE S&P 2026</span></strong>), pp. 2977-2996.<br>
 <span style="color:#2a2a2a">(Full paper, acceptance rate: 118/925=12.8%)<a href=""><span style="color:#2a2a2a"><u>pdf</u></span></span></a><br><br>
 
-Yunkai Zou, Maoxiang An, Ding Wang*. Password Guessing Using <strong>Large Language Models​</strong>. Proc. of 34th USENIX Security Symposium (<strong><span style="color:#5040ae">USENIX Security 2025</span></strong>),  pp. 1-24.   </span><a href=""><span style="color:#2a2a2a"> <u>pdf</u></span></a><br>
-<span style="color:#2a2a2a"> (Full paper<a href="/uploads/2/0/3/6/20366987/acm-csur-25.pdf">, </a>acceptance rate 17%)   </span>​<br>
+Yunkai Zou, Maoxiang An, Ding Wang*. Password Guessing Using <strong>Large Language Models​</strong>. Proc. of 34th USENIX Security Symposium (<strong><span style="color:#5040ae">USENIX Security 2025</span></strong>),  pp. 1-24. <a href=""><span style="color:#2a2a2a"><u>pdf</u></span></a><br>
+<span style="color:#2a2a2a">(Full paper<a href="/uploads/2/0/3/6/20366987/acm-csur-25.pdf">, </a>acceptance rate 17%) </span>​<br>
 <br>
 <span style="color:#2a2a2a">Fei Duan, Ding Wang*, Chunfu Jia. A Security Analysis of <strong>Honey Vaults</strong>. Proc. 45th IEEE Symposium on Security and Privacy (<strong><span style="color:#5040ae">IEEE S&P 2024</span></strong>),  pp. 1-18.  </span><span style="color:#818181"><a href="https://www.computer.org/csdl/proceedings-article/sp/2024/313000a230/1WPcYSgCAi4" target="_blank">https://www.computer.org/csdl/proceedings-article/sp/2024/313000a230/1WPcYSgCAi4</a></span><span style="color:#2a2a2a">   <u><a href="/uploads/2/0/3/6/20366987/ieeesp24-final.pdf">pdf</a></u></span><br>
 <span style="color:#2a2a2a">(Full paper, winter circle acceptance rate: 70/601=11.6%)   </span><br>
