@@ -22,7 +22,7 @@ permalink: /
 
 <span style="color:rgb(42, 42, 42)">Minds are like parachutes, they only function when open. I am looking forward to cooperating with those working on related areas. Being open minded, we together can exchange interesting ideas, perform individually insurmountable experiments, have a visit, etc. You are welcome to our lab. <a href='https://en.nankai.edu.cn/DiscoverNankai/list.htm' target="_blank"><u style="color:rgb(0, 0, 0)" >NKU is beautiful</u></a>.</span>
 
-<strong><span style="color:rgb(42, 42, 42); font-size:20px;">Research Interests:</span></strong> We are devoted to authentication and related area(<u><a href="https://csslabnku.github.io/team" target="_blank"><span style="color:#a1a1a1">researches</span></a></u>):<br>
+<strong><span style="color:rgb(42, 42, 42); font-size:24px;">Research Interests:</span></strong> We are devoted to authentication and related area(<u><a href="https://csslabnku.github.io/team" target="_blank"><span style="color:#a1a1a1">researches</span></a></u>):<br>
 <span style="color:rgb(42, 42, 42)">(1) Machine learning-based techniques for authentication;</span>  
 <span style="color:rgb(42, 42, 42)">​(2) Protocols, including Password-based, Blockchain-based, Lattice-based ones;</span>  
 <span style="color:rgb(42, 42, 42)">​(3) Multi-factor authentication, including passwords, devices, biometrics and others;</span>  
