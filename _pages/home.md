@@ -85,7 +85,7 @@ Ding Wang, Haibo Cheng, Ping Wang, Jeff Yan, Xinyi Huang. <strong>A Security Ana
 Ding Wang, Haibo Cheng, Ping Wang, Xinyi Huang, Gaopeng Jian. <strong>Zipf’s Law in Passwords</strong>. IEEE Transactions on Information Forensics and Security (<strong>IEEE TIFS</strong>), 2017, 12(11): 2776-2791. <u><a href="404.md">codes</a></u> <u> <a href="404.md">pdf</a></u><br>
 (300+ citations, ESI Highly Cited Paper; Our <a href="/uploads/2/0/3/6/20366987/passwordzipf_v8.pdf">models</a> have been<strong><span style="color:#5040ae"> adopted</span></strong> <strong><span style="color:#5040ae">into over <u><a href="/uploads/2/0/3/6/20366987/papers-that-adopt-our-cdf-zipf-law-v5.txt">120 studies</a></u></span> </strong>worldwide such as <a href="http://infoscience.epfl.ch/record/206772/files/IEEE_SP2015_GenoGuard.pdf"><span style="color:#a1a1a1">GenoGuard</span> (IEEE S&P'15) by EPFL researchers</a>, <span style="color:#818181"><a href="https://www.cs.purdue.edu/homes/jblocki/papers/SP18EconomicsOfOfflinePasswordCracking.pdf">Password economics (IEEE S&P'18) by Purdue researchers</a>, and <a href="/uploads/2/0/3/6/20366987/why_botnets_work2.pdf">Distributed guessing</a></span> (IEEE TIFS'19) by MIT researchers)<br><br>
 
-Ding Wang, Zijian Zhang, Ping Wang, Jeff Yan, Xinyi Huang. <strong>Targeted Online Password Guessing</strong>: An Underestimated Threat. Proc. the 23nd ACM Conference on Computer and Communications Security (<strong>ACM CCS 2016</strong>), pp. 1242–1254. Oct 24, 2016 - Oct 28, 2016, Vienna, Austria. (Full paper, acceptance rate: 137/831=16.4%) <u><a href="/uploads/2/0/3/6/20366987/ccs16（1_hour_ding_wang）.ppt">slides</a></u> <u><a href="/uploads/2/0/3/6/20366987/ccs16_final_v12.pdf">pdf</a></u><br>
+Ding Wang, Zijian Zhang, Ping Wang, Jeff Yan, Xinyi Huang. <strong>Targeted Online Password Guessing</strong>: An Underestimated Threat. Proc. the 23nd ACM Conference on Computer and Communications Security (<strong>ACM CCS 2016</strong>), pp. 1242–1254. Oct 24, 2016 - Oct 28, 2016, Vienna, Austria. (Full paper, acceptance rate: 137/831=16.4%) <u><a href="/uploads/2/0/3/6/20366987/ccs16(1_hour_ding_wang).ppt">slides</a></u> <u><a href="/uploads/2/0/3/6/20366987/ccs16_final_v12.pdf">pdf</a></u><br>
 (300+ citations; Part of <strong>US <a href="https://pages.nist.gov/800-63-3/sp800-63b.html">NIST SP800-63-3 standard</a> has been revised</strong> on <a href="/uploads/2/0/3/6/20366987/nist800-63-3revised.png"><span style="color:#a1a1a1">Sep., 2016</span></a> according to our results. Covered by <strong><span style="color:#5040ae">200+ medias </span></strong>like <a href="http://www.dailymail.co.uk/sciencetech/article-3907088/The-secret-password-using-Password-Researchers- warn-internet-users-making-easy-hackers-access-accounts.html"><span style="color:#a1a1a1">Dailmail</span></a>, <a href="http://www.forbes.com/sites/leemathews/2016/11/10/100-guesses-is-enough-to-crack-your-password/#1f7e61c7e981"><span style="color:#a1a1a1">Forbes</span></a>, <a href="https://nakedsecurity.sophos.com/2016/11/09/would-your-password-withstand-100-guesses-from-a-hacker/"><span style="color:#a1a1a1">Naked securit</span>y</a>, <a href="https://www.sciencedaily.com/releases/2016/11/161107112626.htm"><span style="color:#a1a1a1">Science Daily</span></a>, <a href="http://cacm.acm.org/news/209702-online-password-guessing-threat-underestimated/fulltext"><span style="color:#a1a1a1">CACM</span></a>, <a href="https://blogs.technet.microsoft.com/germany/2016/11/28/so-lassen-sich-passwoerter-in-ueber-75-prozent-aller-faelle-knacken/"><span style="color:#a1a1a1">Microsoft</span></a>, <a href="https://www.thesun.co.uk/living/2121992/these-are-the-most-common-and-easiest-to-hack-passwords-is-yours-on-the-list/"><span style="color:#a1a1a1">theSun</span></a>,<a href="http://www.theregister.co.uk/2016/11/15/stop_using_birthday_in_password/"> </a><a href="http://www.alphr.com/science/1004706/this-algorithm-can-probably-guess-your-password"><span style="color:#a1a1a1">Alphr</span></a><span style="color:#a1a1a1">, <a href="https://www.scmagazine.com/guessing-passwords-of-targeted-users-easier-than-you-think-warn-researchers/article/571602/">SCMagazine</a></span>)<br><br>
 
 Ding Wang, Debiao He, Haibo Cheng, Ping Wang. <strong>fuzzyPSM: A New Password Strength Meter</strong> Using Fuzzy Probabilistic Context-Free Grammars. Proc. of the 46th IEEE/IFIP International Conference on Dependable Systems and Networks (<strong>IEEE/IFIP DSN 2016</strong>), pp.595-606. June 28-July 01, France. (Full paper, acceptance rate: 53/259=20.4%) <a href="https://github.com/NKUSec/fuzzyPSM"><u>Github</u></a> <u><a href="/uploads/2/0/3/6/20366987/fuzzypsm_dsn16.pptx">slides</a></u> <u><a href="/uploads/2/0/3/6/20366987/dsn16v9.pdf">pdf</a></u> (At <a href="https://www.ei.ruhr-uni-bochum.de/media/mobsec/veroeffentlichungen/2018/09/10/ccsf285-finalv2.pdf">ACM CCS'18, Golla and Durmuth</a> showed that our fuzzyPSM <a href="/uploads/2/0/3/6/20366987/gollaccs18.png"><strong><span style="color:#5040ae">performs the best</span> </strong>among 45 password strength meters</a> (81 variants), against both online guessing and offline guessing) <br><br>
@@ -99,33 +99,33 @@ Ding Wang, Ping Wang. <strong>On the Anonymity of Two-Factor Authentication Sc
 
 <strong><span style="font-size:24px;">Academic Awards: </span></strong><br>
 2025 AsiaCCS 2025 <strong><span style="color:#5040ae">Outstanding PC Member Award</span></strong>; <br>
-2025 <strong><span style="color:#5040ae">Outstanding Paper Award</span></strong><a href="/uploads/2/0/3/6/20366987/certificate_cose.pdf"> </a>for <span style="color:#a1a1a1">SCIENCE CHINA: Information Science </span>(中国科学：信息科学）; <br>
-2025 <strong><span style="color:#5040ae">Highly Cited Chinese Researchers</span></strong> by <span style="color:#a1a1a1">Elsevier </span>(爱思唯尔“中国高被引学者”); <br>
+2025 <strong><span style="color:#5040ae">Outstanding Paper Award</span></strong><a href="/uploads/2/0/3/6/20366987/certificate_cose.pdf"> </a>for <span style="color:#a1a1a1">SCIENCE CHINA: Information Science </span>(中国科学:信息科学); <br>
+2025 <strong><span style="color:#5040ae">Highly Cited Chinese Researchers</span></strong> by <span style="color:#a1a1a1">Elsevier </span>(爱思唯尔"中国高被引学者"); <br>
 2024 First prize of Innovation Award of China Association for Cryptologic Research(中国密码学会密码创新奖一等奖); <br>
 2024 <strong><a href="/uploads/2/0/3/6/20366987/s7seuoglm%60jp1ardkknhgb6.jpg"><span style="color:#5040ae">Best Paper Award</span></a> Honorary Mention</strong> of <a href="/uploads/2/0/3/6/20366987/inscrpt2018.pdf">INSCRYPT 2024 </a>(2/156); <br>
 2024 <strong>World's Top 2% Scientists of 2023</strong> by <span style="color:#818181"><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3">Elsevier Mendeley </a></span><a href="https://data.mendeley.com/datasets/btchxktzyw/2">& </a> John P.A. Ioannidis at <span style="color:#818181"><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4">Stanford Uni. </a></span> (全球前2%科学家); <br>
-2024 <strong><span style="color:#5040ae">Highly Cited Chinese Researchers</span></strong> by <span style="color:#a1a1a1">Elsevier </span>(爱思唯尔“中国高被引学者”); <br>
-2023 <strong><span style="color:#5040ae">Innovative Person of the Year</span></strong> in China's Intelligent Computing Technology (中国智能计算科技创新人物，全国30人)；<br>
-2023 <strong><span style="color:#5040ae">Highly Cited Chinese Researchers</span></strong> by <span style="color:#a1a1a1">Elsevier </span>(爱思唯尔“中国高被引学者”); <br>
+2024 <strong><span style="color:#5040ae">Highly Cited Chinese Researchers</span></strong> by <span style="color:#a1a1a1">Elsevier </span>(爱思唯尔"中国高被引学者"); <br>
+2023 <strong><span style="color:#5040ae">Innovative Person of the Year</span></strong> in China's Intelligent Computing Technology (中国智能计算科技创新人物，全国30人);<br>
+2023 <strong><span style="color:#5040ae">Highly Cited Chinese Researchers</span></strong> by <span style="color:#a1a1a1">Elsevier </span>(爱思唯尔"中国高被引学者"); <br>
 2023 <strong>World's Top 2% Scientists of 2023</strong> by <span style="color:#818181"><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3">Elsevier Mendeley </a></span><a href="https://data.mendeley.com/datasets/btchxktzyw/2">& </a> John P.A. Ioannidis at <span style="color:#818181"><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4">Stanford Uni. </a></span> (全球前2%科学家); <br>
-2023 <strong><span style="color:#5040ae">Most Innovative and Entrepreneurial Value Award</span></strong> at the 16th National College Student Information Security Competition (第16全国大学生信息安全竞赛最具创新创业价值奖，指导教师)；<br>
-2023 First Prize in National College Student Information Security Competition (第16届全国大学生信息安全竞赛一等奖，指导教师)；<br>
-2023 First Prize in National Cryptography Competition (第7届全国密码技术竞赛一等奖，指导教师）；<br>
+2023 <strong><span style="color:#5040ae">Most Innovative and Entrepreneurial Value Award</span></strong> at the 16th National College Student Information Security Competition (第16全国大学生信息安全竞赛最具创新创业价值奖，指导教师);<br>
+2023 First Prize in National College Student Information Security Competition (第16届全国大学生信息安全竞赛一等奖，指导教师);<br>
+2023 First Prize in National Cryptography Competition (第7届全国密码技术竞赛一等奖，指导教师);<br>
 2022 Young Scientist Nomination Award for Powerful Nation (强国青年科学家提名奖，全国40人); <br>
 2022 NSF of China Excellent Young Scientists Program (国家优青资助);<br>
-2022 <strong><span style="color:#5040ae">Highly Cited Chinese Researchers</span></strong> by <span style="color:#a1a1a1"><a href="https://news.sciencenet.cn/htmlnews/2022/4/477220.shtm">Elsevier</a> </span>(爱思唯尔“中国高被引学者”); <br>
+2022 <strong><span style="color:#5040ae">Highly Cited Chinese Researchers</span></strong> by <span style="color:#a1a1a1"><a href="https://news.sciencenet.cn/htmlnews/2022/4/477220.shtm">Elsevier</a> </span>(爱思唯尔"中国高被引学者"); <br>
 2022 <strong><span style="color:#5040ae">World's Top 2% Scientists of 2022 </span></strong>by <span style="color:#818181"><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3">Elsevier Mendeley </a></span><a href="https://data.mendeley.com/datasets/btchxktzyw/2">& </a> John P.A. Ioannidis at <span style="color:#818181"><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4">Stanford Uni. </a></span> (全球前2%科学家); <br>
-2021 Frontrunner 5000 --<span style="color:#a1a1a1"><a href="/uploads/2/0/3/6/20366987/软件学报2018论文入选“领跑者5000--—中国精品科技期刊顶尖论文”.pdf">Top Article</a></span> in Outstanding S&T Journals of China (领跑者5000-中国精品科技期刊顶尖学术论文）; <br>
+2021 Frontrunner 5000 --<span style="color:#a1a1a1"><a href="/uploads/2/0/3/6/20366987/软件学报2018论文入选“领跑者5000--—中国精品科技期刊顶尖论文”.pdf">Top Article</a></span> in Outstanding S&T Journals of China (领跑者5000-中国精品科技期刊顶尖学术论文); <br>
 2021 <strong><span style="color:#5040ae">Outstanding Youth Award</span></strong> of China Association for Cryptologic Research (中国密码学会优秀青年奖);<br>
 2021 The First Prize of Outstanding papers at 12th National Cryptography and Security Teaching Symposium(第十二届全国密码学与信息安全教学研讨会优秀论文一等奖); <br>
-2021 <strong><span style="color:#5040ae">Highly Cited Chinese Researchers</span></strong> by <span style="color:#a1a1a1"><a href="https://www.elsevier.com/zh-cn/solutions/scopus/most-cited">Elsevier</a> </span>(爱思唯尔“中国高被引学者”); <br>
+2021 <strong><span style="color:#5040ae">Highly Cited Chinese Researchers</span></strong> by <span style="color:#a1a1a1"><a href="https://www.elsevier.com/zh-cn/solutions/scopus/most-cited">Elsevier</a> </span>(爱思唯尔"中国高被引学者"); <br>
 2021 <strong><span style="color:#5040ae">World's Top 2% Scientists of 2020 </span></strong>by <span style="color:#818181"><a href="https://data.mendeley.com/datasets/btchxktzyw/2">Elsevier Mendeley</a></span><a href="https://data.mendeley.com/datasets/btchxktzyw/2">& </a> John P.A. Ioannidis at <span style="color:#818181"><a href="https://data.mendeley.com/datasets/btchxktzyw/2">Stanford Uni. </a></span> (全球前2%科学家); <br>
 2021 Our ninth paper <span style="color:#818181"><a href="/uploads/2/0/3/6/20366987/ieeetifs17_final.pdf">IEEE TIFS'17 paper</a></span> was selected as <strong>ESI </strong><strong>Highly Cited </strong><strong>Paper</strong><strong><a href="http://www.harzing.com/esi_highcite.htm"> </a></strong><strong><a href="http://www.harzing.com/esi_highcite.htm"> </a>(top 1%) </strong>by Clarivate Analytics;<br>
 2021 Our eighth paper <a href="/uploads/2/0/3/6/20366987/ieeetii18.pdf"><span style="color:#818181">IEEE TII'18 paper</span></a> was selected as <strong>ESI </strong><strong>Highly Cited </strong><strong>Paper</strong><strong><a href="http://www.harzing.com/esi_highcite.htm"> </a></strong><strong><a href="http://www.harzing.com/esi_highcite.htm"> </a>(top 1%) </strong>by Clarivate Analytics;<br>
 2020 <strong><span style="color:#5848b7">Outstanding Young Talent for Science & Technology</span></strong>, Tianjin City (天津市青年科技优秀人才，全市40人)<br>
 2020 <strong><span style="color:#5848b7">The Second Prize of </span></strong><strong><span style="color:#5040ae">Science & TechnologyAchievement</span></strong><strong><span style="color:#5040ae"> Award</span>, </strong>Tianjin City (天津市科技进步二<a href="http://www.moe.gov.cn/srcsite/A16/s7062/201802/t20180227_327879.html">等奖</a>, 排名第4)<br>
-2020 <span style="color:#a1a1a1"><a href="/uploads/2/0/3/6/20366987/scis-best-reviewer.pdf">Outstanding Reviewer Award</a></span><a href="/uploads/2/0/3/6/20366987/certificate_cose.pdf"> </a>for <span style="color:#a1a1a1"><a href="/uploads/2/0/3/6/20366987/scis-best-reviewer.pdf">SCIENCE CHINA: Information Science</a> </span>(中国科学：信息科学）; <br>
-2020 Tianjin Talent Introduction: Leading Talent (天津市人才引进领军人才）; <br>
+2020 <span style="color:#a1a1a1"><a href="/uploads/2/0/3/6/20366987/scis-best-reviewer.pdf">Outstanding Reviewer Award</a></span><a href="/uploads/2/0/3/6/20366987/certificate_cose.pdf"> </a>for <span style="color:#a1a1a1"><a href="/uploads/2/0/3/6/20366987/scis-best-reviewer.pdf">SCIENCE CHINA: Information Science</a> </span>(中国科学:信息科学); <br>
+2020 Tianjin Talent Introduction: Leading Talent (天津市人才引进领军人才); <br>
 2019 <a href="http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/phd_thesis0103.pdf"> </a><a href="https://awards.acm.org/binaries/content/assets/awards/awards-booklet-2019.pdf"><span style="color:#5848b7"><strong>ACM China </strong><strong>Doctoral Dissertation Award</strong></span></a> (<u><span style="color:#818181"><a href="http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/phd_thesis0103.pdf">PDF</a></span></u>), <a href="/uploads/2/0/3/6/20366987/微信图片_20190520185351.jpg"><span style="color:#818181">honored to get the award certificate</span></a> from Turing Award Laureate <span style="color:#a1a1a1"><a href="https://en.wikipedia.org/wiki/Manuel_Blum">Manuel Blum</a></span> at the award dinner (<a href="/uploads/2/0/3/6/20366987/微信图片_20190520185046.jpg">ACM China 优秀博士论文奖</a>, <a href="http://china.acm.org/awards.html"> <span style="color:#818181">two winners</span> each year</a>, first place in China); <br>
 2018 <strong><a href="/uploads/2/0/3/6/20366987/s7seuoglm`jp1ardkknhgb6.jpg"><span style="color:#5040ae">Best Paper Award</span></a></strong> of <a href="/uploads/2/0/3/6/20366987/inscrpt2018.pdf">INSCRYPT 2018 </a>(1/93), <span style="color:#a1a1a1"><a href="/uploads/2/0/3/6/20366987/inscrypt18.png">An existing photo</a></span> with PC Chair <a href="https://en.wikipedia.org/wiki/Moti_Yung"><span style="color:#a1a1a1">Moti Yung</span></a> at the award dinner; <br>
 2018 Our fourth paper <a href="/uploads/2/0/3/6/20366987/tdsc201801.pdf"><span style="color:#818181">IEEE TDSC'18 paper</span> </a>was selected as <strong>ESI Hot Paper</strong><strong><a href="http://www.harzing.com/esi_highcite.htm"> </a> (top 0.1%)</strong> by Clarivate Analytics;<br>
@@ -158,7 +158,7 @@ Ding Wang, Ping Wang. <strong>On the Anonymity of Two-Factor Authentication Sc
 2014 Graduate Scholarship for Outstanding Academic Innovations of Peking University;<br>
 2013 <a href="/uploads/2/0/3/6/20366987/outstandingcertificate.pdf">Outstanding Reviewer Award</a> from Elsevier Journal of Information Security and Applications;<br>
 2013 <strong>Excellent Master Thesis</strong> of the University (the only one awarded in our CS college);<br>
-2012 <span style="color:#5848b7"><strong>Top-10 Graduate Academic Star </strong></span> (十大学术之星，唯一硕士入选） of Harbin Engineering University;<br>
+2012 <span style="color:#5848b7"><strong>Top-10 Graduate Academic Star </strong></span> (十大学术之星，唯一硕士入选) of Harbin Engineering University;<br>
 2011 Outstanding Student Leaders of the Harbin Engineering University;<br>
 2009 Outstanding Graduates of Information Engineering University;<br>
 2008 <strong> Outstanding Graduates</strong> of Nankai University;<br>
@@ -166,24 +166,24 @@ Ding Wang, Ping Wang. <strong>On the Anonymity of Two-Factor Authentication Sc
 <br>
 
 <strong>Keynote talks/Invited speaker:<br>
-</strong>2024 Annual IACR Workshop on Big Data and AI Security (中国密码学会2024年大数据与人工智能安全青年论坛）;<br>
-2024 Annual IACR Conference on Cryptographic Protocols (中国密码学会安全协议专委会2024年学术年会）; <br>
+</strong>2024 Annual IACR Workshop on Big Data and AI Security (中国密码学会2024年大数据与人工智能安全青年论坛);<br>
+2024 Annual IACR Conference on Cryptographic Protocols (中国密码学会安全协议专委会2024年学术年会); <br>
 2024 Annual IACR Workshop for Chinese Young Cryptography Researchers (<u>中国密码学会2024青年论坛</u>);<br>
 5th International Conference on Blockchain and Trustworthy Systems (BlockSys'2023);<br>
 The 22nd International Conference on Algorithms and Architectures for Parallel Processing (<u><span style="color:#818181"><a href="https://ica3pp2022.compute.dtu.dk/keynote.html">ICA3PP 2022</a></span></u>), CCF Rank C.<br>
 14th Annual Conference of China Association for Cryptologic Research(第十四届中国密码学会年会, ChinaCrypt 2021);<br>
-2021 Annual IACR Conference on Cryptographic Protocols (中国密码学会安全协议专委会2021年学术年会）; <br>
-5th Forum on Frontiers in Theory and Technology of Cryptanalysis(第五届强网论坛“密码分析前沿理论与技术”分论坛); <br>
+2021 Annual IACR Conference on Cryptographic Protocols (中国密码学会安全协议专委会2021年学术年会); <br>
+5th Forum on Frontiers in Theory and Technology of Cryptanalysis(第五届强网论坛"密码分析前沿理论与技术"分论坛); <br>
 7th National Conference on Identification, Certification and Authentication (<u>中国密码学会第七届</u><u><a href="https://baijiahao.baidu.com/s?id=1680856938011287151&amp;wfr=spider&amp;for=pc">全国电子认证技术交流大会</a></u>);<br>
-3rd Zongheng Workshop on Cyber Security (<u><a href="http://www.81.cn/ss/2020-12/14/content_9952175.htm">第三届“纵横”网络空间安全创新论坛</a></u>);<br>
+3rd Zongheng Workshop on Cyber Security (<u><a href="http://www.81.cn/ss/2020-12/14/content_9952175.htm">第三届"纵横"网络空间安全创新论坛</a></u>);<br>
 2020 MIT Technology Review China Forum on Blockchain and Digital Economy (<u><a href="https://mp.weixin.qq.com/s/4-AM2v5lIk-yGInq7c39Pg##">MIT TR</a></u><u><a href="https://mp.weixin.qq.com/s/4-AM2v5lIk-yGInq7c39Pg##">2020年区块链与数字经济发展论坛</a></u>); <br>
 2020 InForSec Workshop at Wuhan (<u><a href="https://zhuanlan.zhihu.com/p/280743014?utm_source=wechat_session">2020江夏晴川网安论坛</a></u>);<br>
 11th International Symposium on Cyberspace Safety and Security (<u><a href="http://nsclab.org/css2019/index.html">CSS 2019</a></u>);<br>
 2019 7th Annual CCF BigData Conference <a href="http://grid.hust.edu.cn/bigdata2019/content/guest.html">(</a><u><a href="http://grid.hust.edu.cn/bigdata2019/content/guest.html">第七届CCF大数据学术会议</a></u><a href="http://grid.hust.edu.cn/bigdata2019/content/guest.html">)</a>; <br>
 2019 10th Annual CCF Outstanding Phd Dissertation Award Winner Forum (<u><a href="https://mp.weixin.qq.com/s/j40PvkVK8L8reP9YLyZoqQ">CCF优博2019年会</a></u>); <br>
-2019 5th <span style="color:#3e4d5c">Let's GoSSIP Software security </span>Summer School (<u><a href="https://loccs.sjtu.edu.cn/summerschool/speakers/">第五届上海交通大学 “Let's GoSSIP软件安全”暑期学校</a></u>); <br>
+2019 5th <span style="color:#3e4d5c">Let's GoSSIP Software security </span>Summer School (<u><a href="https://loccs.sjtu.edu.cn/summerschool/speakers/">第五届上海交通大学 "Let's GoSSIP软件安全"暑期学校</a></u>); <br>
 2019 ACM Turing Celebration Conference - China: <span style="color:#404040">SIGSAC China Symposium</span> (<u><a href="https://www.acmturc.com/2019/en/SIGSAC.html">ACM TURC</a></u><u><a href="https://www.acmturc.com/2019/en/SIGSAC.html"> 2019 </a></u><u><a href="https://www.acmturc.com/2019/en/SIGSAC.html">中国图灵大会</a></u>); <br>
-2019 Annual Forum of the 111 Project "Mobile Intenet Security" (<a href="https://mis.xidian.edu.cn/html/news/lecture/2019/1009/117.html"> <u>“移动互联网安全”111学科创新引智基地2019学术年会</u></a>);<br>
+2019 Annual Forum of the 111 Project "Mobile Intenet Security" (<a href="https://mis.xidian.edu.cn/html/news/lecture/2019/1009/117.html"> <u>"移动互联网安全"111学科创新引智基地2019学术年会</u></a>);<br>
 2019 Forum on Frontiers of Cryptography&Coding and Its Applications ( <u><a href="https://www.gliet.edu.cn/info/1157/49000.htm">密码与编码及其应用前沿学术论坛</a></u>);<br>
 2019 Pengcheng Lab Young Researcher Workshop on Cyber Security (首届<u><a href="http://www.pcl.ac.cn/index.php/Home/Index/views/id/876.html">鹏城实验室网络空间安全青年学者论坛</a></u>);<br>
 2018 11th China Computer Networks and Information Security Conference (<u><a href="http://ccnis.xintongconference.com/zh-CN/web/page?mid=239&amp;pid=Home">CCNIS 2018</a></u>);<br>
@@ -201,12 +201,12 @@ The 22nd International Conference on Algorithms and Architectures for Parallel P
 
 <strong>Academic Services: </strong>I am honored to be invited as editor, TPC member and reviewer for a number of venues:<br>
 <strong><span style="color:#5040ae">Award Comittee:</span></strong><br>
-2025 AsiaCCS 2025 Best Paper Award Committee；<br>
+2025 AsiaCCS 2025 Best Paper Award Committee;<br>
 <br>
 <span style="color:#5040ae"><strong>Journal Editor</strong>:</span><br>
-<strong>IEEE Transactions on Information Forensics & Security</strong> （<a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board"><span style="color:#818181">IEEE TIFS</span></a>), SCI, EI, CCF/CACR Rank A; <br>
+<strong>IEEE Transactions on Information Forensics & Security</strong> (<a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board"><span style="color:#818181">IEEE TIFS</span></a>), SCI, EI, CCF/CACR Rank A; <br>
 <strong>Theoretical Computer Science </strong>(<span style="color:#818181">TCS</span>), SCI, EI, CCF Rank B; <br>
-<strong>International Journal of Information Security</strong>（<a href="https://link.springer.com/journal/10207/editors">IJIS</a>), SCI, EI, CACR Rank B; <br>
+<strong>International Journal of Information Security</strong>(<a href="https://link.springer.com/journal/10207/editors">IJIS</a>), SCI, EI, CACR Rank B; <br>
 <a href="https://www.igi-global.com/journal/international-journal-information-security-privacy/1096">International Journal of Information Security and Privacy (<span style="color:#818181">IJISP</span>)</a>, EI, CCF Rank C;<br>
 <a href="https://www.hindawi.com/journals/wcmc/">Wireless Communications and Mobile Computing(<span style="color:#818181">WCMC</span>)</a>, CCF Rank C, SCI,=2.336, Wiley; <br>
 Human-centric Computing and Information Sciences (<a href="https://hcis-journal.springeropen.com/">HCIS</a>), SCI IF=3.700, Springer; <br>
@@ -214,14 +214,14 @@ Human-centric Computing and Information Sciences (<a href="https://hcis-journal.
 <a href="https://benthamopen.com/TOCSJ/indexing-agencies/">The Open Cybernetics & Systemics Journal</a><span style="color:#868686">; <br>
 <a href="https://benthamscience.com/journals/current-chinese-computer-science/editorial-board/">C</a></span><a href="https://benthamscience.com/journals/current-chinese-computer-science/editorial-board/">urrent Chinese Computer Science</a><span style="color:#868686"><a href="https://benthamscience.com/journals/current-chinese-computer-science/editorial-board/"> Journal;</a> </span><br>
 <span style="color:#222222"><a href="http://airccse.org/journal/ijans/ijans.html">International Journal on AdHoc Networking Systems </a>; </span><br>
-<a href="http://www.jsjkx.com/EN/1002-137X/home.shtml">Chinese Journal of Computer Science</a> (<span style="color:#818181"><a href="/uploads/2/0/3/6/20366987/jcs_editor.jpg">《计算机科学》</a></span>杂志, 中文核心期刊，CSCD核心期刊, CCF Rank B）; <br>
-<a href="http://www.jsjkx.com/EN/1002-137X/home.shtml">Chinese Journal of Computer </a>Engineering(<span style="color:#818181"><a href="/uploads/2/0/3/6/20366987/jcs_editor.jpg">《计算机工程》</a></span>杂志, 中文核心期刊，CSCD核心期刊, CCF Rank C）; <br>
+<a href="http://www.jsjkx.com/EN/1002-137X/home.shtml">Chinese Journal of Computer Science</a> (<span style="color:#818181"><a href="/uploads/2/0/3/6/20366987/jcs_editor.jpg">《计算机科学》</a></span>杂志, 中文核心期刊，CSCD核心期刊, CCF Rank B); <br>
+<a href="http://www.jsjkx.com/EN/1002-137X/home.shtml">Chinese Journal of Computer </a>Engineering(<span style="color:#818181"><a href="/uploads/2/0/3/6/20366987/jcs_editor.jpg">《计算机工程》</a></span>杂志, 中文核心期刊，CSCD核心期刊, CCF Rank C); <br>
 <a href="https://oaepublish.com/index.php/jsss">Journal of Surveillance, Security and Safety</a>; <br>
-<a href="https://www.ccf.org.cn/dl/technews/jsdtd285q/">Chinese Computer Federation Digital </a>(CCF《技术动态》)；<br>
-Journal of Electronics & Information Technology （《电子与信息学报》中文核心期刊，EI 期刊, CCF Rank B）; <br>
+<a href="https://www.ccf.org.cn/dl/technews/jsdtd285q/">Chinese Computer Federation Digital </a>(CCF《技术动态》);<br>
+Journal of Electronics & Information Technology (《电子与信息学报》中文核心期刊，EI 期刊, CCF Rank B); <br>
 <br>
 <strong><span style="color:#5040ae">Lead Guest Editor:</span></strong><br>
-International Journal of Information Security : Special Issue on <u>Emerging Encryption Techniques for Big Data Security</u> , 2025, see <a href="http://link.springer.com/collections/gfgiffbabf">https://link.springer.com/collections/gfgiffbabf</a> ; DDL 01 January 2026；CACR Rank B <br>
+International Journal of Information Security : Special Issue on <u>Emerging Encryption Techniques for Big Data Security</u> , 2025, see <a href="http://link.springer.com/collections/gfgiffbabf">https://link.springer.com/collections/gfgiffbabf</a> ; DDL 01 January 2026;CACR Rank B <br>
 <br>
 Mobile Networks and Applications : Special Issues on <u>Security and Privacy in New Computing Environments </u>, 2022, https://www.springer.com/journal/11036/updates/20191654 DDL Oct 2022; CCF Rank C <br>
 <br>
@@ -248,7 +248,7 @@ Chinese Journal of Computer Science-<a href="https://mp.weixin.qq.com/s/HfGx_zUA
 <br>
 <strong>Guest Editor:</strong><br>
 IET Smart Cities -Special Issue on security and privacy in smart cities. Submission DDL: Nov. 30th, 2019, see Details <u><a href="https://digital-library.theiet.org/files/IET_SMC_CFP_SPSC.pdf">CFP</a></u>. <br>
-Journal of Cryptologic Research -<a href="https://dspp2025.xidian.edu.cn/">Special Issue on</a><a href="https://mp.weixin.qq.com/s/qi6WjPLnl4bDs58QcEoD3A"> Cryptologic Applications Security</a> (密码学报. DDL：2020年3月31日)<br>
+Journal of Cryptologic Research -<a href="https://dspp2025.xidian.edu.cn/">Special Issue on</a><a href="https://mp.weixin.qq.com/s/qi6WjPLnl4bDs58QcEoD3A"> Cryptologic Applications Security</a> (密码学报. DDL:2020年3月31日)<br>
 <br>
 <br>
 <br>
@@ -263,7 +263,7 @@ Journal of Cryptologic Research -<a href="https://dspp2025.xidian.edu.cn/">Spec
 6th International Symposium on Security and Privacy in Social Networks and Big Data (<u><a href="http://nsclab.org/socialsec2020/">SocialSec 2020</a></u>), Aug 22-23, Tianjin, China. DDL: May 10th, 2020 <br>
 <br>
 <strong>Program Vice-Chair:</strong><br>
-第十四届中国可信计算与信息安全学术会议（<u><a href="http://ctcis.hbu.cn/index.html">CTCIS 2021</a>);</u><br>
+第十四届中国可信计算与信息安全学术会议(<u><a href="http://ctcis.hbu.cn/index.html">CTCIS 2021</a>);</u><br>
 <br>
 <strong>Session Chair:</strong><br>
 29th ACM Conference on Computer and Communications Security (<strong><u><a href="https://www.sigsac.org/ccs/CCS2022/call-for-papers.html">ACM CCS 2022</a></u></strong>), CCF Rank A, CACR Rank A.<br>
