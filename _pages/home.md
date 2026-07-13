@@ -29,23 +29,20 @@ permalink: /
 
 We are looking for promising <span style="color:rgb(88, 72, 183)"><strong>Professors</strong></span><span style="color:#5848b7">/</span><span style="color:rgb(88, 72, 183)"><strong>Associate Professors/Assitant Professors/ PostDoc/Lecturers</strong></span><span style="color:#5848b7"> </span>and self-motivated <strong><span style="color:#5848b7">Ph.D/Master students</span> </strong>interested in the above research areas.<span style="color:#5848b7"> </span>We together do some great work and aim to <strong>make real impact</strong>! Feel free to drop me an email!
 
-#### Research Funding
-
-Our work is supported by the National Natural Science Foundation of China (NSFC), the State Key Laboratory of Cryptology, and the National Key R&D Program of China.
-
-- NSFC Excellent Young Scientists Fund, **Secret Key Security** (2023–2025)
-- NSFC General Program, **Machine-Learning-Based Authentication** (2022–2025)
-- Key Program of the Natural Science Foundation of Tianjin, **Password Authentication** (2021–2024)
-- Beijing–Tianjin–Hebei Collaborative Research Program, **Provable Authentication for Industrial IoT** (2022–2024)
-- National Key R&D Program, **Identity Security** (2021–2023)
-- CETC Research Project, **User Authentication** (2020–2021)
-- Nankai University Science Foundation, **Authentication Team Building** (2020–2022)
-- NSFC, **Authentication for Mobile Devices**, Grant No. 61802006 (2019–2020)
-- State Key Laboratory of Cryptology, **Leakage-Resistant Authentication**, Grant No. MMKT-2018-31 (2018–2020)
-- China Postdoctoral Science Foundation, **Password Authentication**, Grant No. 2019T120019 (2019)
-- China Postdoctoral Science Foundation, **Multi-Factor Authentication**, Grant No. 2018M640026 (2018–2019)
-- National Key R&D Program, **Multi-Factor Authentication for Virtual Concurrency**, Grant No. 2016YFB0800603 (2016–2019)
-- NSFC, **Anonymous Multi-Factor Authentication**, Grant No. 61472016 (2015–2018)
+<strong><span style="color:rgb(42, 42, 42); font-size:24px;">Research Funding:</span></strong> <span style="color:rgb(42, 42, 42)">Our work is supported by NSF of China,  State Key Lab of Cryptography, and National Key R&D Plan.</span><br>
+<span style="color:rgb(42, 42, 42)">(13) </span><span style="color:rgb(42, 42, 42)">NSF of China</span>,  Excellent Young Scientists Program， "<span style="color:#5040ae"><strong>Secret Key Security</strong></span><span style="color:rgb(42, 42, 42)">" (2023.01~2025.12);</span><br>
+<span style="color:rgb(42, 42, 42)">(12) NSF of China</span>, General<span style="color:rgb(42, 42, 42)"> Program</span><span style="color:rgb(42, 42, 42)">，</span>"<span style="color:#5040ae"><strong>Machine Learning based </strong><strong>A</strong></span><span style="color:#5040ae"><strong>uthentication</strong></span><span style="color:rgb(42, 42, 42)">" (2022.01~2025.12);</span><br>
+<span style="color:rgb(42, 42, 42)">(11) Key Program of NSF, Tianjin</span>, "<span style="color:#5040ae"><strong>Password Authentication</strong></span><span style="color:rgb(42, 42, 42)">" (2021.10~2024.09);</span><br>
+<span style="color:rgb(42, 42, 42)">(10) </span><span style="color:rgb(42, 42, 42)">Research</span><span style="color:rgb(42, 42, 42)"> Program</span><span style="color:rgb(42, 42, 42)"> </span><span style="color:rgb(42, 42, 42)">of Jing-Jin-Ji </span><span style="color:rgb(42, 42, 42)"> </span><span style="color:rgb(42, 42, 42)">Cooperation</span><span style="color:rgb(42, 42, 42)">, "</span><span style="color:#5040ae"><strong>Provable </strong><strong>Authentication for Industrial IoT</strong></span><span style="color:rgb(42, 42, 42)">" (2022.01~2024.12);</span><br>
+<span style="color:rgb(42, 42, 42)">(9)  </span><span style="color:rgb(42, 42, 42)">National Key R&D Plan</span><span style="color:rgb(42, 42, 42)">, "<span style="color:#5040ae"><strong>Identity Security</strong></span></span><span style="color:rgb(42, 42, 42)">" (2021.11~2023.11);</span><br>
+<span style="color:rgb(42, 42, 42)">(8)  </span><span style="color:rgb(42, 42, 42)"> Research Project </span><span style="color:rgb(42, 42, 42)">of CETC</span><span style="color:rgb(42, 42, 42)">, "<strong>User </strong><strong>A</strong></span><span style="color:rgb(42, 42, 42)"><strong>uthentication</strong>" (2020.01~2021.12);</span><br>
+<span style="color:rgb(42, 42, 42)">(7)  </span><span style="color:rgb(42, 42, 42)"> </span><span style="color:rgb(42, 42, 42)">Science Foundation of NKU</span><span style="color:rgb(42, 42, 42)">, "<strong>A</strong></span><span style="color:rgb(42, 42, 42)"><strong>uthentication Team Building</strong>" (2020.01~2022.12);</span><br>
+<span style="color:rgb(42, 42, 42)">(6)  </span><span style="color:rgb(42, 42, 42)"> </span><span style="color:rgb(42, 42, 42)">NSF of China</span><span style="color:rgb(42, 42, 42)">, "<strong>A</strong></span><span style="color:rgb(42, 42, 42)"><strong>uthentication for mobile devices</strong>" under Grant No. 61802006 (2019.01~2020.12);</span><br>
+<span style="color:rgb(42, 42, 42)">(5)  </span><span style="color:rgb(42, 42, 42)"> </span><span style="color:rgb(42, 42, 42)">State Key Lab of Crypto,</span><span style="color:rgb(42, 42, 42)"> "</span><span style="color:rgb(42, 42, 42)"><strong>Leakage-resistant </strong></span><span style="color:rgb(42, 42, 42)"><strong>authentication</strong>" under Grant No. MM</span>KT-2018-31<span style="color:rgb(42, 42, 42)"> (2018.07~2020.06);</span><br>
+<span style="color:rgb(42, 42, 42)">(4)  </span><span style="color:rgb(42, 42, 42)"> </span><span style="color:rgb(42, 42, 42)">China  Postdoctoral Science Foundation,</span><span style="color:rgb(42, 42, 42)"> "</span><span style="color:rgb(42, 42, 42)"><strong>Password </strong></span><span style="color:rgb(42, 42, 42)"><strong>authentication</strong>" </span><span style="color:rgb(42, 42, 42)"> under No. </span><span style="color:rgb(42, 42, 42)">2019T120019  </span><span style="color:rgb(42, 42, 42)">(2019.06~2019.11);</span><br>
+<span style="color:rgb(42, 42, 42)">(3)  </span><span style="color:rgb(42, 42, 42)"> </span><span style="color:rgb(42, 42, 42)">China  </span><span style="color:rgb(42, 42, 42)">Postdoctoral Science Foundation,</span><span style="color:rgb(42, 42, 42)"> "</span><span style="color:rgb(42, 42, 42)"><strong>Multi-factor </strong></span><span style="color:rgb(42, 42, 42)"><strong>authentication</strong>" </span><span style="color:rgb(42, 42, 42)"> under No. </span>2018M640026  <span style="color:rgb(42, 42, 42)">(2018.11~2019.11);</span><br>
+<span style="color:rgb(42, 42, 42)">(2)  National Key R&D Plan, "<strong>Multi-factor </strong><strong>Auth for Virtual Concurrency</strong>"  under No. 2016YFB0800603 (2016.07~</span><span style="color:rgb(42, 42, 42)">2019.06).<br>
+(1)  </span><span style="color:rgb(42, 42, 42)"> NSF of China, "</span><span style="color:rgb(42, 42, 42)"><strong>Anonymous multi-factor </strong></span><span style="color:rgb(42, 42, 42)"><strong>authentication</strong>" under Grant No. 61472016 (2015.01~2018.12);</span><br>
 
 #### Ph.D. Dissertation
 
