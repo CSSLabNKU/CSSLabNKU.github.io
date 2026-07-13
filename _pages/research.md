@@ -33,11 +33,13 @@ permalink: /researches/
     background: #f7f7f7;
   }
 
-  .publication-card__image img {
+  #gridid .publication-card__image img {
     display: block;
     width: 100%;
     height: 100%;
     margin: 0;
+    border-radius: 0;
+    box-shadow: none;
     object-fit: contain;
   }
 
@@ -72,7 +74,7 @@ permalink: /researches/
 
 **At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
 
-<div class="publication-grid">
+<div class="publication-grid" markdown="0">
 <article class="publication-card">
   <div class="publication-card__image">
     <img src="{{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png" alt="Nanofabricated Smart Tips" />
