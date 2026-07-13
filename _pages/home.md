@@ -16,7 +16,7 @@ permalink: /
 <span style="color:rgb(42, 42, 42)">2019–Now, Professor, Nankai University; Deputy-director of Tianjin Key Laboratory of Network and Data Security Technology;</span>  
 <span style="color:rgb(42, 42, 42)">2017-2019,  Lecturer & Boya Postdoctoral Fellowship, <a href='http://english.pku.edu.cn/' target="_blank"><span style="color:rgb(42, 42, 42)">Peking University</span></a>, Beijing;</span>  
 <span style="color:rgb(42, 42, 42)">2013-2017, PhD. in Information Security, <a href='http://english.pku.edu.cn/' target="_blank"><span style="color:rgb(42, 42, 42)">Peking University</span></a>, Beijing;</span>  
-<span style="color:rgb(42, 42, 42)">2010-2012, MS. in Information Security, <a href='http://english.hrbeu.edu.cn/' target="_blank"><span style="color:rgb(42, 42, 42)">Harbin Engineering University</span</a>;</span>  
+<span style="color:rgb(42, 42, 42)">2010-2012, MS. in Information Security, <a href='http://english.hrbeu.edu.cn/' target="_blank"><span style="color:rgb(42, 42, 42)">Harbin Engineering University</span></a>;</span>  
 <span style="color:rgb(42, 42, 42)">2008-2009, BA. in Information Engineering, Information Engineering University;</span>  
 <span style="color:rgb(42, 42, 42)">2004-2008, BA. in Information Security, Nankai University, Tianjin.</span>  
 
