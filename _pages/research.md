@@ -77,7 +77,7 @@ permalink: /researches/
 <div class="publication-grid" markdown="0">
 <article class="publication-card">
   <div class="publication-card__image">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png" alt="Nanofabricated Smart Tips" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/our-cdf-zipf-model-performs-much-better-in-characterizing-password-distributions-as_orig.png"/>
   </div>
   <div class="publication-card__body">
     <pubtit>Nanofabricated "Smart Tips"</pubtit>
