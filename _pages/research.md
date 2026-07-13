@@ -26,7 +26,7 @@ permalink: /researches/
 
   .publication-card__image {
     display: flex;
-    height: 240px;
+    height: 290px;
     align-items: center;
     justify-content: center;
     padding: 16px;
@@ -65,14 +65,12 @@ permalink: /researches/
     }
 
     .publication-card__image {
-      height: 220px;
+      height: 260px;
     }
   }
 </style>
 
 ### Better understanding of user-chosen passwords
-
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
 
 <div class="publication-grid" markdown="0">
 <article class="publication-card">
