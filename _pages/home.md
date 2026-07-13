@@ -97,8 +97,7 @@ Ding Wang, Ping Wang. <strong>On the Anonymity of Two-Factor Authentication Sc
 </div>
 <br>
 
-
-<strong>Academic Awards: </strong> <br>
+<strong><span style="font-size:24px;">Academic Awards: </span></strong><br>
 2025 AsiaCCS 2025 <strong><span style="color:#5040ae">Outstanding PC Member Award</span></strong>; <br>
 2025 <strong><span style="color:#5040ae">Outstanding Paper Award</span></strong><a href="/uploads/2/0/3/6/20366987/certificate_cose.pdf"> </a>for <span style="color:#a1a1a1">SCIENCE CHINA: Information Science </span>(中国科学：信息科学）; <br>
 2025 <strong><span style="color:#5040ae">Highly Cited Chinese Researchers</span></strong> by <span style="color:#a1a1a1">Elsevier </span>(爱思唯尔“中国高被引学者”); <br>
