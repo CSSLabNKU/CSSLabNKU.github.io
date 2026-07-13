@@ -91,6 +91,8 @@ permalink: /researches/
   </div>
 </article>
 
+<hr>
+
 <article class="publication-card">
   <div class="publication-card__image">
     <img src="{{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png" alt="Magnetic fluctuations and electron spin resonance" />
