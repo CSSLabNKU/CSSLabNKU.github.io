@@ -51,10 +51,10 @@ Doctoral Dissertation Award by Peking University, China Computer Federation, ACM
 <strong><span style="color:rgb(42, 42, 42); font-size:24px;">Recent Publications:</span></strong> <span style="color:rgb(42, 42, 42)">Our work gets 8000+ citations (<a href="https://scholar.google.com/citations?user=ccvj-2cAAAAJ" target="_blank"><span style="color:#818181">Google Scholar</span></a> [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3Dccvj-2cAAAAJ)](https://scholar.google.com/citations?user=ccvj-2cAAAAJ)), is covered by 200+ worldwide media, and appears in IEEE S&P'26, NDSS'26, IEEE S&P'25, NDSS'25, IEEE S&P'24, USENIX Security'24, USENIX Security'23abc, IEEE S&P'22, SRDS'22, ESORICS'22, IEEE TIFS'22, IEEE TIFS'21, IEEE TDSC'20 a~d, Usenix Security'19, NDSS'18, IEEE TSC'18, IEEE TDSC'18, IEEE TII'18, ACM ASIACCS'17,  IEEE TIFS'17, ACM CCS'16, IEEE/IFIP DSN'16, ESORICS'16, ACM ASIACCS'16,  IEEE TDSC'15, ESORICS'15, INS'15, COMNET'14, ISC'13, ICICS'12, DBSec'12, etc. (<u><a href="http://wangdingg.weebly.com/publications.html" target="_blank"><span style="color:#000000">Full List</span></a></u>): 
 <br>
 
-<div markdown="0">
+<div class="publication-list" markdown="0">
 
 Yihe Duan, Ding Wang*, Yutong Li. Credential Extraction Attacks Against <strong>Compromised Credential Checking Services</strong> of Password Managers. Proc. of 47th IEEE Symposium on Security and Privacy (<strong><span style="color:#5040ae">IEEE S&P 2026</span></strong>), pp. 2977-2996.<br>
-<span style="color:#2a2a2a">(Full paper, acceptance rate: 118/925=12.8%) <a href=""><span style="color:#2a2a2a"><u>pdf</u></span></a></span><br><br>
+(Full paper, acceptance rate: 118/925=12.8%) <a href=""><u>pdf</u><br><br>
 
 Yunkai Zou, Maoxiang An, Ding Wang*. Password Guessing Using <strong>Large Language Models​</strong>. Proc. of 34th USENIX Security Symposium (<strong><span style="color:#5040ae">USENIX Security 2025</span></strong>),  pp. 1-24. <a href=""><span style="color:#2a2a2a"><u>pdf</u></span></a><br>
 <span style="color:#2a2a2a">(Full paper<a href="/uploads/2/0/3/6/20366987/acm-csur-25.pdf">, </a>acceptance rate 17%) </span>​<br>
