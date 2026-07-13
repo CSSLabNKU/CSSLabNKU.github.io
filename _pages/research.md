@@ -7,47 +7,94 @@ permalink: /researches/
 ---
 
 
-# Publications
+<style>
+  .publication-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 24px;
+    margin-top: 24px;
+  }
 
-## Group highlights
+  .publication-card {
+    display: flex;
+    min-width: 0;
+    flex-direction: column;
+    overflow: hidden;
+    border: 1px solid #e2e2e2;
+    border-radius: 4px;
+    background: #fff;
+  }
+
+  .publication-card__image {
+    display: flex;
+    height: 240px;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    background: #f7f7f7;
+  }
+
+  .publication-card__image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    object-fit: contain;
+  }
+
+  .publication-card__body {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .publication-card__body pubtit {
+    display: block;
+    margin-bottom: 12px;
+  }
+
+  .publication-card__body p:last-child {
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 767px) {
+    .publication-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .publication-card__image {
+      height: 220px;
+    }
+  }
+</style>
+
+### Better understanding of user-chosen passwords
 
 **At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
 
-{% assign number_printed = 0 %}
+<div class="publication-grid">
 {% for publi in site.data.publist %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
 
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+<article class="publication-card">
+  <div class="publication-card__image">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" alt="{{ publi.title | escape }}" />
+  </div>
+  <div class="publication-card__body">
+    <pubtit>{{ publi.title }}</pubtit>
+    <p>{{ publi.description }}</p>
+    <p><em>{{ publi.authors }}</em></p>
+    <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+    {% if publi.news1 %}<p class="text-danger"><strong>{{ publi.news1 }}</strong></p>{% endif %}
+    {% if publi.news2 %}<p>{{ publi.news2 }}</p>{% endif %}
+  </div>
+</article>
 
 {% endif %}
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
 </div>
-{% endif %}
 
 <p> &nbsp; </p>
 
