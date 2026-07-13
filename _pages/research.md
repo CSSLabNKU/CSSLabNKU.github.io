@@ -70,11 +70,9 @@ permalink: /researches/
   }
 </style>
 
-
+### Better understanding of user-chosen passwords
 
 <div class="publication-grid" markdown="0">
-
-### Better understanding of user-chosen passwords
 
 <article class="publication-card">
   <div class="publication-card__image">
@@ -90,38 +88,30 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/3618436.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>We have conducted a systematic investigation into the characteristics, distribution and security of PINs chosen by English user and Chinese users.</strong> By employing NLP techniques, we have revealed that PINs follow a Zipf distribution; By adopting both statistic metrics and state-of-the-art cracking algorithms, we have highlighted that 6-digit PINs offer marginally improved security over 4-digit PINs. (see more in our <a href="[/uploads/2/0/3/6/20366987/passwordzipf15.pdf](https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/asiaccs17_v12.pdf)" target="_blank"><u>ASIACCS'17 paper</u></a>) </p>
-  </div>
-</article>
-
-
-
-<article class="publication-card">
-  <div class="publication-card__image">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png" alt="Magnetic fluctuations and electron spin resonance" />
-  </div>
-  <div class="publication-card__body">
-    <pubtit>Magnetic fluctuations and electron spin resonance</pubtit>
-    <p>We investigate magnetic fluctuations and electron spin resonance using advanced scanning probe techniques.</p>
-  </div>
-</article>
-
-<article class="publication-card">
-  <div class="publication-card__image">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png" alt="Twisted bilayer graphene" />
-  </div>
-  <div class="publication-card__body">
-    <pubtit>Twisted bilayer graphene and super-periodicities</pubtit>
-    <p>We have proposed that artificial super-periodicities can lead to improved superconductivity through an increased density of states and phase-space effects.</p>
+    <p><strong>We have conducted a systematic investigation into the characteristics, distribution and security of PINs chosen by English user and Chinese users.</strong> By employing NLP techniques, we have revealed that PINs follow a Zipf distribution; By adopting both statistic metrics and state-of-the-art cracking algorithms, we have highlighted that 6-digit PINs offer marginally improved security over 4-digit PINs. (see more in our <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/asiaccs17_v12.pdf" target="_blank"><u>ASIACCS'17 paper</u></a>) </p>
   </div>
 </article>
 </div>
 
-<p> &nbsp; </p>
+### Understanding and improving password creation policies
 
+<div class="publication-grid" markdown="0">
 
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
+<article class="publication-card">
+  <div class="publication-card__image">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/8259798.jpg" />
+  </div>
+  <div class="publication-card__body">
+    <p><strong>In this work, we conduct an extensive empirical study of 50 password creation policies that are currently imposed on high-proﬁle web services,</strong> including 20 policies mainly from US and 30 ones from mainland China. Our results show that the policies enforced in leading sites largely fail to serve their purposes, especially vulnerable to targeted online guessing attacks.  (see more in <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/esorics15conf0827.pdf" target="_blank"><u>ESORICS'15 paper</u></a>)</p>
+  </div>
+</article>
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
-
+<article class="publication-card">
+  <div class="publication-card__image">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/4121880_orig.png" />
+  </div>
+  <div class="publication-card__body">
+    <p><strong>We propose a simple yet effective password strength meter, fuzzyPSM,</strong> to give users reliable feedbacks when they select passwords. Inspired by a user survey on password practice, FuzzyPSM takes the ﬁrst step towards characterizing realistic user behaviors in password creation: Generally users do not build new passwords from scratch for a new service by combining segments of words, digits and/or symbols, instead they reuse or simply modify existing passwords for new services. (see more in <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/dsn16v9.pdf" target="_blank"><u>DSN'16 paper</u></a>)</p>
+  </div>
+</article>
+</div>
