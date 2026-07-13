@@ -115,3 +115,30 @@ permalink: /researches/
   </div>
 </article>
 </div>
+
+### New two-factor authentication (2FA) schemes
+
+<div class="publication-grid" markdown="0">
+
+<article class="publication-card">
+  <div class="publication-card__image">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/970052_orig.jpg" />
+  </div>
+  <div class="publication-card__body">
+    <p>We propose a new 2FA scheme with provable security, and what we believe is most interesting is that superior security and privacy can be achieved at nearly no additional communication or computation cost. As far as we know, <strong>this work is the ﬁrst one that deﬁnes a formal model to capture the feature of user un-traceability</strong> and that highlights the damaging threat of de-synchronization attack on privacy-preserving two-factor authentication schemes. (see more in <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/infosci14.pdf" target="_blank"><u>INS'15 paper</u></a>)</p>
+  </div>
+</article>
+
+<article class="publication-card">
+  <div class="publication-card__image">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/3625851_orig.jpg" />
+  </div>
+  <div class="publication-card__body">
+    <p><strong>We presented an  new 2FA scheme to cope with the various identiﬁed security defects without sacriﬁcing any desirable feature of Li et al.'s scheme.</strong> We conjecture that the strategy of only using symmetric-key techniques to achieve user anonymity is intrinsically infeasible, and pose its rigorous justiﬁcation as one interesting (and fundamental) open problem. (see more in <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/wcnc2014.pdf" target="_blank"><u>IEEE WCNC'14 paper</u></a>; <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ieeesyst2015.pdf" target="_blank"><u>IEEE Systems Journal'16 paper</u></a>)</p>
+  </div>
+</article>
+</div>
+
+
+
+
