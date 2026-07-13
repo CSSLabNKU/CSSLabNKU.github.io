@@ -20,7 +20,7 @@ permalink: /
 <span style="color:rgb(42, 42, 42)">2008-2009, BA. in Information Engineering, Information Engineering University;</span>  
 <span style="color:rgb(42, 42, 42)">2004-2008, BA. in Information Security, Nankai University, Tianjin.</span>  
 
-Minds are like parachutes, they only function when open. I am looking forward to cooperating with those working on related areas. Being open minded, we together can exchange interesting ideas, perform individually insurmountable experiments, have a visit, etc. You are welcome to our lab. <a href='https://en.nankai.edu.cn/DiscoverNankai/list.htm'>NKU is beautiful</a>.
+<span style="color:rgb(42, 42, 42)">Minds are like parachutes, they only function when open. I am looking forward to cooperating with those working on related areas. Being open minded, we together can exchange interesting ideas, perform individually insurmountable experiments, have a visit, etc. You are welcome to our lab. <a href='https://en.nankai.edu.cn/DiscoverNankai/list.htm' target="_blank"><u>NKU is beautiful</u></a>.</span>
 
 <span style="font-size:15px;">Research Interests:</span>  
 We are devoted to authentication and related area([researches](http://wangdingg.weebly.com/researches.html)):  
