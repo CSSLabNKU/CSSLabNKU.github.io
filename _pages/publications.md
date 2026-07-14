@@ -1,5 +1,5 @@
 ---
-title: "Publications - Welcome to Ding Wang's Homepage -- Password Cryptography"
+title: "Publication - Welcome to Ding Wang's Homepage -- Password Cryptography"
 layout: publications
 excerpt: ""
 sitemap: false
