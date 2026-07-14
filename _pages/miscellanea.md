@@ -6,7 +6,7 @@ sitemap: false
 permalink: /miscellanea/
 ---
 
-<h1 style="text-align: center;">计算机各类期刊、会议总结</h1>
+<h2 style="text-align: center;">计算机各类期刊、会议总结</h2>
 
 <div class="miscellanea-content">
 <strong><span style="color: #5040ae;">A. <a href="http://loccs.sjtu.edu.cn/typecho/index.php/archives/188/"><span style="color: #5040ae;">信息安全国际学术会议讨论</span></a></span></strong><br/>
