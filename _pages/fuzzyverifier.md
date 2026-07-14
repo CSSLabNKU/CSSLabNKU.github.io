@@ -35,6 +35,20 @@ permalink: /fuzzyverifier/
     line-height: 1.35;
   }
 
+  .fuzzyverifier-related-paper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 10px;
+    margin: 18px 0;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  .fuzzyverifier-related-paper strong {
+    font-size: 16px;
+  }
+
   .fuzzyverifier-archive .paragraph {
     margin: 0;
     color: #2a2a2a;
@@ -77,7 +91,7 @@ permalink: /fuzzyverifier/
 </figure>
 
 <div class="fuzzyverifier-archive">
-<h2 class="wsite-content-title" style="text-align:left;"><font size="3">Related paper: </font></h2><font size="2">Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound</font>&nbsp;&nbsp;<font size="2"><u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/ieeetdsc16_v11.pdf"><font color="#5848b7">Main.pdf</font></a></u>&nbsp;&nbsp;<u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf"><font color="#5848b7">Appendix.pdf</font></a></u></font>
+<div class="fuzzyverifier-related-paper"><strong>Related paper:</strong><span>Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound</span><u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/ieeetdsc16_v11.pdf"><font color="#5848b7">Main.pdf</font></a></u><u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf"><font color="#5848b7">Appendix.pdf</font></a></u></div>
 <hr class="styled-hr" style="width:100%;"/>
 
 
