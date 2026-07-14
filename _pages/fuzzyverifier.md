@@ -192,7 +192,7 @@ Qwerty
 13856
 </div>
 </td>
-<td class="wsite-multicol-col" style="width:75.547201519761%; padding:0 15px;">
+<td class="wsite-multicol-col" style="width:76%; padding:0 15px;">
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
@@ -221,7 +221,7 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 36810ED90AA5DE17CBC1B471B999EC6B53B7C602
 </div>
 </td> 
-<td class="wsite-multicol-col" style="width:27.956989247312%; padding:0 15px;">
+<td class="wsite-multicol-col" style="width:28%; padding:0 15px;">
 <div class="paragraph" style="text-align:left;"><strong><font size="2">Password Pool</font></strong><br/>
 <u>
 <a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/27.txt" style="color: rgb(30, 42, 241);" title="">27.txt</a><br/>
