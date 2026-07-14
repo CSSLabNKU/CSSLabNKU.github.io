@@ -111,9 +111,9 @@ Accordingly, we can determine the <b>guessing entropy</b> [2] of POOL0 by comput
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
 <tr class="wsite-multicol-tr">
-<td class="wsite-multicol-col" style="width:9.2672413793103%; padding:0 15px;">
+<td class="wsite-multicol-col" style="width:12%; padding:0 15px;">
 <div class="paragraph" style="text-align:left;">
-<strong><font size="2">Rank</font></strong><br/><strong><font size="2">(top 20)</font></strong><br/>
+<strong><font size="2">Rank (top 20)</font></strong><br/>
 1<br/>
 2<br/>
 3<br/>
@@ -135,7 +135,7 @@ Accordingly, we can determine the <b>guessing entropy</b> [2] of POOL0 by comput
 19<br/>
 20
 </div>
-</td> <td class="wsite-multicol-col" style="width:90.73275862069%; padding:0 15px;">
+</td> <td class="wsite-multicol-col" style="width:92%; padding:0 15px;">
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
@@ -163,7 +163,7 @@ Ashley<br/>
 654321
 Qwerty
 </div>
-</td> <td class="wsite-multicol-col" style="width:87.142857142857%; padding:0 15px;">
+</td> <td class="wsite-multicol-col" style="width:95%; padding:0 15px;">
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
