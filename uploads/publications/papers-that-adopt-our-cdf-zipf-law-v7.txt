@@ -1,0 +1,306 @@
+As of August 2025, a total of 273 published papers have cited and adopted Wang et al.'s CDF-Zipf model (and/or PDF-Zipf model). These papers can be categorized into eight groups according to their domains: Password cracking, cryptographic protocol, policy, leakage detection, encryption, PINs, and characteristic analysis. The details are as follows:
+
+1 Password cracking
+1.1   [IEEE S&P'18] "On the Economics of Offline Password Cracking",  https://ieeexplore.ieee.org/abstract/document/8418642/
+1.2   [RAID'24] "Prob-Hashcat: Accelerating Probabilistic Password Guessing with Hashcat by Hundreds of Times", https://dl.acm.org/doi/abs/10.1145/3678890.3678919
+1.3   [IEEE TIFS'24] "GuessFuse: Hybrid Password Guessing with Multi-View", https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10466588
+1.4   [IEEE TIFS'20] "Centralized vs decentralized targeted brute-force attacks: Guessing with side-information"，https://ieeexplore.ieee.org/document/9127480
+1.5   [IEEE TIFS'19] "Why Botnets Work: Distributed Brute-force Attacks Need No Synchronization", https://ieeexplore.ieee.org/abstract/document/8629000 
+1.6   [IEEE TIFS'20] "TransPCFG: Transferring the Grammars from Short Passwords to Guess Long Passwords Effectively", https://ieeexplore.ieee.org/abstract/document/9121288
+1.7   [IEEE TIFS'21] "Leet Usage and Its Effect on Password Security", https://ieeexplore.ieee.org/abstract/document/9316928
+1.8   [ICICS'21] "Studies of Keyboard Patterns in Passwords: Recognition, Characteristics and Strength Evolution", https://link.springer.com/chapter/10.1007/978-3-030-86890-1_9
+1.9   [ICICS'22] "Improving Deep Learning Based Password Guessing Models Using Pre-processing", https://link.springer.com/chapter/10.1007/978-3-031-15777-6_10
+1.10   [COSE'22] "Cognitively Reconfigurable Mimic-Based Heterogeneous Password Recovery System", https://www.sciencedirect.com/science/article/abs/pii/S0167404822000669 
+1.11  [IEEE CyberC'18] "An Algorithm to Generate Password Structure Dictionary Based on Gene Bank", https://ieeexplore.ieee.org/abstract/document/8644557 
+1.12  [IEEE Access'21] "Reconfigurable and High-Efficiency Password Recovery Algorithms Based on HRCA", https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9328759 
+1.13  [HPSC'20] "PassGAN Based Honeywords System for Machine-Generated Passwords Database", https://ieeexplore.ieee.org/abstract/document/9123038 
+1.14  [CSAE'20] "Trie Tree Probabilistic Password Cracking Method Based on FPGA", https://dl.acm.org/doi/pdf/10.1145/3424978.3425021
+1.15  [JISA'23] "Using language-specific input methods and pronunciation rules to improve the guesses of passwords", https://www.sciencedirect.com/science/article/pii/S2214212623001722
+1.16  [J. Supercomputing'24] "An efficient heterogeneous parallel password recovery system on MT-3000", https://dl.acm.org/doi/10.1007/s11227-024-06532-9
+1.17  [EIECT'24] "Ru-PCFG: Password Guessing Model Combining PCFG and Word Transformation", https://ieeexplore.ieee.org/abstract/document/10866533
+1.18  [Electronics'25] "Similarities: The Key Factors Influencing Cross-Site Password Guessing Performance", https://www.mdpi.com/2079-9292/14/5/945
+
+
+
+2 Password-based cryptographic protocols
+2.1   [IEEE S&P'25] "Security Analysis of Master-Password-Protected Password Management Protocols", https://ieeexplore.ieee.org/abstract/document/11023515
+2.2   [ACM CCS'19] "How to (not) Share a Password: Privacy Preserving Protocols for Finding Heavy Hitters with Adversarial Behavior", https://dl.acm.org/doi/abs/10.1145/3319535.3363204
+2.3   [ESORICS'22] "Quantum-Resistant Password-Based Threshold Single-Sign-On Authentication with Updatable Server Private Key", https://link.springer.com/chapter/10.1007/978-3-031-17146-8_15
+2.4   [IEEE TIFS'25] "Healthcare Security: Post-Quantum Continuous Authentication With Behavioral Biometrics Using Vector Similarity Search", https://ieeexplore.ieee.org/abstract/document/10844884
+2.5   [IEEE TITS'25] "An Intelligent Blockchain-Enabled Authentication Protocol for Transportation Cyber-Physical Systems", https://ieeexplore.ieee.org/abstract/document/10897323
+2.6   [IEEE TDSC'25] "Practical two-factor authentication protocol for real-time data access in WSNs", https://ieeexplore.ieee.org/abstract/document/10976572
+2.7   [IEEE TIFS'25] "HTOTP: Honey time-based one-time passwords", https://ieeexplore.ieee.org/document/10919149
+2.8   [IEEE TMC'25] "PAC-MC: An Efficient Password-Based Access Control Framework for Time Sequence Aware Media Cloud", https://ieeexplore.ieee.org/abstract/document/10856390
+2.9   [IEEE TIFS'24] "SAE+: One-Round Provably Secure Asymmetric SAE Protocol for Client-Server Model", https://ieeexplore.ieee.org/document/10458084
+2.10  [IEEE TIFS'24] "AB-PAKE: Achieving Fine-Grained Access Control and Flexible Authentication", https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10531284
+2.11  [IEEE TIFS'24] "Robust Multi-Factor Authentication for WSNs With Dynamic Password Recovery", https://xplorestaging.ieee.org/document/10654322
+2.12  [IEEE TIFS'24] "An Efficient Privacy-Preserving Scheme for Weak Password Collection in Internet of Things Against Perpetual Leakage", https://ieeexplore.ieee.org/abstract/document/10816436
+2.13  [IEEE TIFS'23] "Secure and Lightweight User Authentication Scheme for Cloud-Assisted Internet of Things", https://ieeexplore.ieee.org/document/10114980
+2.14  [ACM TOSN'23] "Privacy-Preserving Three-Factor Authentication Protocol for Wireless Sensor Networks Deployed in Agricultural Field", https://dl.acm.org/doi/abs/10.1145/3607142
+2.15  [IEEE TITS'23] "An Authentication and Key Management Framework for Secure and Intelligent Transportation of Internet of Space Things", https://ieeexplore.ieee.org/abstract/document/10359447
+2.16  [IEEE TDSC'23] "The Resilience of DoS Attacks in User-Authentication to Preserving The Availability", 
+https://d197for5662m48.cloudfront.net/documents/publicationstatus/160723/preprint_pdf/0c6d73a6b6ba069a9c000e9eaaecf019.pdf
+2.17  [IEEE TDSC'22] "Practical and Provably Secure Three-Factor Authentication Protocol Based on Extended Chaotic-Maps for Mobile Lightweight Devices", https://ieeexplore.ieee.org/abstract/document/9187988
+2.18  [IEEE TIFS'24] "QPASE: Quantum-Resistant Password-Authenticated Searchable Encryption for Cloud Storage", https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10458707
+2.19  [IEEE TSC'23] "CS-LAKA: A Lightweight Authenticated Key Agreement Protocol With Critical Security Properties for IoT Environments", https://ieeexplore.ieee.org/document/10234025
+2.20  [IEEE TMC'23] "EAKE-WC: Efficient and Anonymous Authenticated Key Exchange Scheme for Wearable Computing", https://ieeexplore.ieee.org/document/10190158
+2.21  [IEEE TSC'23] "QPause: Quantum-Resistant Password-Protected Data Outsourcing for Cloud Storage", https://ieeexplore.ieee.org/document/10313065
+2.22  [IEEE TITS'24] "Design of Blockchain-Based Multi-Domain Authentication Protocol for Secure EV Charging Services in V2G Environments", https://ieeexplore.ieee.org/document/10713831
+2.23  [IEEE TITS'25] "An Intelligent Blockchain-Enabled Authentication Protocol for Transportation Cyber-Physical Systems", https://ieeexplore.ieee.org/document/10897323
+2.24  [JSA'25] "Lightweight batch authentication and key agreement scheme for IIoT gateways", https://www.sciencedirect.com/science/article/pii/S1383762125000402
+2.25  [IEEE TII'18] "Measuring Two-Factor Authentication Schemes for Real-Time Data Access in Industrial Wireless Sensor Networks", https://ieeexplore.ieee.org/abstract/document/8356145
+2.26  [IEEE TSUSC'18] "A Mobile Intelligent Terminal Based Anonymous Authenticated Key Exchange Protocol for Roaming Service in Global Mobility Networks", https://ieeexplore.ieee.org/abstract/document/8320857 
+2.27  [IEEE TII'18] "Provably Secure Fine-Grained Data Access Control Over Multiple Cloud Servers in Mobile Cloud Computing Based Healthcare Applications", https://ieeexplore.ieee.org/abstract/document/8334302 
+2.28   [IEEE TCE'25] "A Machine Learning Attack Resilient Authentication Protocol for AI-Driven Consumer Wearable Health Monitoring", https://ieeexplore.ieee.org/abstract/document/11099547
+2.29    [IEEE IoTJ'25] "N3PA-STIN: A Novel Three-Party Authentication Protocol for Multiuser Access in Satellite–Terrestrial-Integrated Networks", https://ieeexplore.ieee.org/abstract/document/10833874
+2.30   [IEEE IoTJ'25] "PLAKA-MD: PUF-Based Lightweight Authentication and Key Agreement Scheme for Medical Devices in IoHT", https://ieeexplore.ieee.org/abstract/document/10906502
+2.31   [IEEE TMC'25] "PAC-MC: An Efficient Password-Based Access Control Framework for Time Sequence Aware Media Cloud", https://ieeexplore.ieee.org/abstract/document/10856390
+2.32   [IEEE TITS'21] "Authenticated Key Agreement Scheme with User Anonymity and Untraceability for 5G-Enabled Softwarized Industrial Cyber-Physical Systems", https://ieeexplore.ieee.org/abstract/document/9356467 
+2.33   [IEEE TDSC'21] "Quantum2FA: Efficient Quantum-Resistant Two-Factor Authentication Scheme for Mobile Devices", https://ieeexplore.ieee.org/abstract/document/9623421 
+2.34   [IEEE TVT'21] "Block-CLAP: Blockchain-Assisted Certificateless Key Agreement Protocol for Internet of Vehicles in Smart Transportation", https://ieeexplore.ieee.org/abstract/document/9462433 
+2.35   [IEEE TII'22] "An Efficient and Provably Secure Certificateless Protocol for Industrial Internet of Things", https://ieeexplore.ieee.org/abstract/document/9729405
+2.36  [IEEE TII'19] "Lightweight and Physically Secure Anonymous Mutual Authentication Protocol for Real-Time Data Access in Industrial Wireless Sensor Networks", https://ieeexplore.ieee.org/abstract/document/8625559/
+2.37  [ICICS'18] "Revisiting Anonymous Two-Factor Authentication Schemes for Multi-Server Environment", https://link.springer.com/chapter/10.1007/978-3-030-01950-1_50 
+2.38  [ICISC'21] "Practical Post-quantum Password-Authenticated Key Exchange Based-on Module-Lattice", https://link.springer.com/chapter/10.1007/978-3-031-08896-4_7
+2.39  [IEEE TVT'19] "TCALAS: Temporal Credential-Based Anonymous Lightweight Authentication Scheme for Internet of Drones Environment", https://ieeexplore.ieee.org/abstract/document/8693567 
+2.40  [IEEE IoT J'19] "A Provably Secure and Lightweight Anonymous User Authenticated Session Key Exchange Scheme for Internet of Things Deployment", https://ieeexplore.ieee.org/abstract/document/8737718
+2.41  [IEEE IoT J'19] "Shake to Communicate: Secure Handshake Acceleration-Based Pairing Mechanism for Wrist Worn Devices", https://ieeexplore.ieee.org/abstract/document/8664100
+2.42  [SCN'19] "A Lightweight Secure User Authentication and Key Agreement Protocol for Wireless Sensor Networks", https://onlinelibrary.wiley.com/doi/full/10.1155/2019/2136506 
+2.43  [IEEE TSC'19] "Achieving One-Round Password-Based Authenticated Key Exchange over Lattices", https://ieeexplore.ieee.org/abstract/document/8826379 
+2.44  [Inscrypt'18] "Two-Round PAKE Protocol over Lattices Without NIZK", https://link.springer.com/chapter/10.1007/978-3-030-14234-6_8
+2.45  [IEEE JSYST'19] "Insider Attack Protection: Lightweight Password-Based Authentication Techniques Using ECC", https://ieeexplore.ieee.org/abstract/document/8820037  
+2.46  [SCN'19] "A Generic Multifactor Authenticated Key Exchange with Physical Unclonable Function", https://onlinelibrary.wiley.com/doi/10.1155/2019/5935292 
+2.47  [IJCS'19] "An Efficient Anonymous User Authentication and Key Agreement Protocol for Wireless Sensor Networks", https://onlinelibrary.wiley.com/doi/full/10.1002/dac.4724
+2.48  [MBE'19] "Verifier-Based Anonymous Password-Authenticated Key Exchange Protocol in the Standard Model", https://pdfs.semanticscholar.org/504d/8343b6ca964bc9a37064847ae4bcfab372bd.pdf
+2.49  [SCN'19] "Efficient Hierarchical Authentication Protocol for Multiserver Architecture", https://onlinelibrary.wiley.com/doi/10.1155/2020/2523834
+2.50  [ISPEC'19] "Provably Secure Three-party Password-based Authenticated Key Exchange from RLWE", https://link.springer.com/chapter/10.1007/978-3-030-34339-2_4
+2.51  [IEEE Access'19] "A Dynamic Privacy-Preserving Key Management Protocol for V2G in Social Internet of Thing", https://ieeexplore.ieee.org/abstract/document/8732338/
+2.52  [IEEE Access'19] "A Secure Authentication Protocol for Multi-Server-Based E-Healthcare Using a Fuzzy Commitment Scheme", https://ieeexplore.ieee.org/abstract/document/8620682
+2.53  [IEEE Access'19] "Physically Secure Lightweight Anonymous User Authentication Protocol for Internet of Things Using Physically Unclonable Functions", https://ieeexplore.ieee.org/abstract/document/8754672
+2.54  [Comput. Netw.'20] "A Lightweight and Secure Two-Factor Authentication Scheme for Wireless Body Area Networks in Health-Care IoT", https://www.sciencedirect.com/science/article/pii/S1389128619316457  
+2.55  [IEEE IoT J'20] "Certificateless-Signcryption-Based Three-Factor User Access Control Scheme for IoT Environment", https://ieeexplore.ieee.org/abstract/document/8957688
+2.56  [Computer&Security'20] "Understanding Security Failures of Multi-Factor Authentication Schemes for Multi-Server Environments", https://www.sciencedirect.com/science/article/pii/S016740481930166X
+2.57  [TCPS'20] "Efficient Multi-Factor User Authentication Protocol with Forward Secrecy for Real-Time Data Access in WSNs", https://dl.acm.org/doi/abs/10.1145/3325130
+2.58  [IEEE TDSC'20] "Quantum-safe round-optimal password authentication for mobile devices", https://ieeexplore.ieee.org/abstract/document/9272675
+2.59  [JISA'20] "Multi-Authority CP-ABE-Based User Access Control Scheme with Constant-Size Key and Ciphertext for IoT Deployment", https://www.sciencedirect.com/science/article/pii/S2214212619310178 
+2.60  [WCMC'20] "A Robust IoT-Based Three-Factor Authentication Scheme for Cloud Computing Resistant to Session Key Exposure", https://onlinelibrary.wiley.com/doi/10.1155/2020/3805058
+2.61  [SCN'20] "Cryptanalysis and Security Improvement of Two Authentication Schemes for Healthcare Systems Using Wireless Medical Sensor Networks", https://onlinelibrary.wiley.com/doi/10.1155/2020/5047379
+2.62  [WCMC'20] "An Improved Anonymous Authentication Protocol for Wearable Health Monitoring Systems", https://onlinelibrary.wiley.com/doi/10.1155/2020/5686498
+2.63  [SciChina'20] "A Privacy Preserving Two-Factor Authentication Protocol for the Bitcoin SPV Nodes", http://scis.scichina.com/en/2020/130103.pdf
+2.64  [Cryptologia'20] "Cryptanalysis and Improvement of Authentication Scheme for Roaming Service in Ubiquitous Network", https://www.tandfonline.com/doi/abs/10.1080/01611194.2019.1706061 
+2.65  [JAIHC'20] "ILAS-IoT: An Improved and Lightweight Authentication Scheme for IoT Deployment", https://link.springer.com/article/10.1007/s12652-020-02349-5 
+2.66  [IoT'20] "Security and Privacy-Preserving in E-health: a New Framework for Patient",https://www.sciencedirect.com/science/article/abs/pii/S2542660520301220 
+2.67  [JSSS'20] "Revisiting Three Anonymous Two-Factor Authentication Schemes for Roaming Service in Global Mobility Networks",  https://jsssjournal.com/article/view/4153 
+2.68  [IJCA'20] "Cryptanalysis and Improvement of Mutual Authentication Protocol for Real-Time Data Access in Industrial Wireless Sensor Networks",  https://www.tandfonline.com/doi/abs/10.1080/1206212X.2020.1825159 
+2.69   [PCS'25] "Lightweight identity authentication protocol for Internet of Things devices", https://www.sciencedirect.com/science/article/pii/S1877050925011226
+2.70   [CCPE'25] "A Robust Lattice Based Post-Quantum Three-Party Key Exchange Scheme for Mobile Devices", https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/cpe.70036
+2.71   [Computer Networks'25] "An enhanced mutual authentication scheme with perfect forward secrecy for UAV networks", https://www.sciencedirect.com/science/article/pii/S1389128625005377
+2.72   [JNCA'25] " Addressing security requirements in industrial IoT: A robust three-factor authentication scheme with enhanced features", https://www.sciencedirect.com/science/article/pii/S1084804525000979
+2.73   [CMC'25] "Unleashing the Potential of Metaverse in Social IoV: An Authentication Protocol Based on Blockchain", https://www.techscience.com/cmc/v84n2/62921/pdf
+2.74   [CSI'25] "AHA-BV:Access and handover authentication protocol with batch verification for satellite–terrestrial integrated networks", https://www.sciencedirect.com/science/article/pii/S0920548924000394
+2.75   [AEJ'25] "Provably secure biometric and PUF-based authentication for roaming service in global mobility network", https://www.sciencedirect.com/science/article/pii/S1110016824014947
+2.76   [Nature report'25] "Provably secure and lightweight blockchain based cross hospital authentication scheme for IoMT-based healthcare", https://www.nature.com/articles/s41598-025-90219-5.pdf
+2.77   [Mathematics'25] "Blockchain-Based Secure Authentication Protocol for Fog-Enabled IoT Environments", https://www.mdpi.com/2227-7390/13/13/2142
+2.78   [ApplSci'20] "Privacy-Preserving Lightweight Authentication Protocol for Demand Response Management in Smart Grid Environment", https://www.mdpi.com/2076-3417/10/5/1758/htm 
+2.79   [Sensors'20] "An Efficient, Anonymous and Robust Authentication Scheme for Smart Home Environments", https://www.mdpi.com/1424-8220/20/4/1215/htm 
+2.80   [ApplSci'20] "A Secure and Efficient Three-Factor Authentication Protocol in Global Mobility Networks", https://www.mdpi.com/2076-3417/10/10/3565/htm 
+2.81   [Sensors'20] "SLUA-WSN: Secure and Lightweight Three-Factor-Based User Authentication Protocol for Wireless Sensor Networks", https://www.mdpi.com/1424-8220/20/15/4143/htm 
+2.82   [ApplSci'20] "Secure Key Agreement and Authentication Protocol for Message Confirmation in Vehicular Cloud Computing", https://www.mdpi.com/2076-3417/10/18/6268/htm 
+2.83   [IEEE Access'20] "Securing Smart City Surveillance: A Lightweight Authentication Mechanism for Unmanned Vehicles", https://ieeexplore.ieee.org/abstract/document/9020140
+2.84   [IEEE Access'20] "IoV-SMAP: Secure and Efficient Message Authentication Protocol for IoV in Smart City Environment", https://ieeexplore.ieee.org/abstract/document/9187911
+2.85   [IEEE Access'20] "On the Design of Secure and Efficient Three-Factor Authentication Protocol Using Honey List for Wireless Sensor Networks", https://ieeexplore.ieee.org/abstract/document/9110891
+2.86   [IEEE Access'20] "LAKS-NVT: Provably Secure and Lightweight Authentication and Key Agreement Scheme without Verification Table in Medical Internet of Things", https://ieeexplore.ieee.org/abstract/document/9127942 
+2.87   [IEEE Access'20] "A Physically Secure, Lightweight Three-Factor and Anonymous User Authentication Protocol for IoT", https://ieeexplore.ieee.org/abstract/document/9240926
+2.88   [IEEE Access'20] "Efficient and Provably Secure Anonymous User Authentication Scheme for Patient Monitoring Using Wireless Medical Sensor Networks", https://ieeexplore.ieee.org/abstract/document/9026939
+2.89   [SCN'21] "Improved ECC-Based Three-Factor Multiserver Authentication Scheme",  https://onlinelibrary.wiley.com/doi/10.1155/2021/6627956 
+2.90   [IEEE IoT'21] "Secure Multifactor Authenticated Key Agreement Scheme for Industrial IoT", https://ieeexplore.ieee.org/abstract/document/9199812 
+2.91   [IEEE IoT'21] "Designing Secure User Authentication Protocol for Big Data Collection in IoT-Based Intelligent Transportation System", https://ieeexplore.ieee.org/abstract/document/9272616
+2.92   [MISY'21] "A Lightweight Authenticated Key Agreement Protocol Using Fog Nodes in Social Internet of Vehicles", https://onlinelibrary.wiley.com/doi/10.1155/2021/3277113
+2.93   [IEEE TVT'21] "On the Design of Mutual Authentication and Key Agreement Protocol in Internet of Vehicles-Enabled Intelligent Transportation System", https://ieeexplore.ieee.org/abstract/document/9319539 
+2.94   [ETT'21] "Fuzzy Vault-Based Three-Factor Authentication and Key Exchange for 5G-Integrated Wireless Sensor Networks", https://onlinelibrary.wiley.com/doi/epdf/10.1002/ett.3925?saml_referrer
+2.95   [FGCS'21] "Security Preservation in Industrial Medical CPS Using Chebyshev map: An AI Approach", https://www.sciencedirect.com/science/article/pii/S0167739X21000881 
+2.96   [PPNA'21] "An Efficient Three-Factor Remote User Authentication Protocol Based on BPV-FourQ for Internet of Drones", https://link.springer.com/article/10.1007/s12083-021-01130-5 
+2.97   [SCN'21] "A Provably Secure Authentication and Key Exchange Protocol in Vehicular Ad Hoc Networks", https://onlinelibrary.wiley.com/doi/10.1155/2021/9944460 
+2.98   [CPE'21] "Provably Secure Signature-Based Anonymous User Authentication Protocol in an Internet of Things-Enabled Intelligent Precision Agricultural Environment", https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.6187 
+2.99   [IEEE TNSE'21] "Secure and Efficient Honey List-Based Authentication Protocol for Vehicular Ad Hoc Networks", https://ieeexplore.ieee.org/abstract/document/9468344 
+2.100  [SYSARC'21] "ICAS: Two-Factor Identity-Concealed Authentication Scheme for Remote-Servers", https://www.sciencedirect.com/science/article/pii/S1383762121000655 
+2.101  [SCN'21] "Fog-Driven Secure Authentication and Key Exchange Scheme for Wearable Health Monitoring System", https://onlinelibrary.wiley.com/doi/10.1155/2021/8368646 
+2.102  [FCS'21] "On Designing an Unaided Authentication Service with Threat Detection and Leakage Control for Defeating Opportunistic Adversaries", https://link.springer.com/article/10.1007/s11704-019-9134-9 
+2.103  [SCN'21] "Revisiting a Multifactor Authentication Scheme in Industrial IoT", https://www.hindawi.com/journals/scn/2021/9995832/
+2.104  [Sysarc'21] "Understanding Security Failures of Anonymous Authentication Schemes for Cloud Environments", https://www.sciencedirect.com/science/article/pii/S1383762121001478 
+2.105  [JISA'21] "A Blockchain Based Secure Communication Framework for Community Interaction", https://www.sciencedirect.com/science/article/pii/S2214212621000351 
+2.106  [IEEE JSYST'21] "DssP: Efficient Dual-Server Secret Sharing Protocol Based on Password Authentication for Cloud Storage Services", https://ieeexplore.ieee.org/abstract/document/9598891 
+2.107  [SCN'21] "Attacks and Solutions for a Two-Factor Authentication Protocol for Wireless Body Area Networks", https://onlinelibrary.wiley.com/doi/10.1155/2021/3116593
+2.108  [Sysarc'21] "Secure User Authentication Mechanism for IoT-enabled Wireless Sensor Networks Based on Multiple Bloom Filters", https://www.sciencedirect.com/science/article/pii/S1383762121002058 
+2.109  [Sysarc'21] "BUAKA-CS: Blockchain-Enabled User Authentication and Key Agreement Scheme for Crowdsourcing System", https://www.sciencedirect.com/science/article/pii/S1383762121002563 
+2.110  [WCMC'21] "Provably Secure Client-Server Key Management Scheme in 5G Networks", https://onlinelibrary.wiley.com/doi/10.1155/2021/4083199 
+2.111  [WCMC'21] "A Provably Secure Three-Factor Authentication Protocol for Wireless Sensor Networks", https://www.proquest.com/docview/2518013358?pq-origsite=gscholar&fromopenview=true 
+2.112  [WCMC'21] "Provably Secure ECC-Based Three-Factor Authentication Scheme for Mobile Cloud Computing with Offline Registration Centre", https://onlinelibrary.wiley.com/doi/10.1155/2021/8848032
+2.113  [SCN'21] "A Blockchain-Based Hierarchical Authentication Scheme for Multiserver Architecture", https://onlinelibrary.wiley.com/doi/10.1155/2021/5592119 
+2.114  [ISPEC'21] "PUOKMS: Password-Protected Updatable Oblivious Key Management System for Cloud Storage", https://link.springer.com/chapter/10.1007/978-3-030-93206-0_8 
+2.115  [SCN'21] "Improved Secure and Lightweight Authentication Scheme for Next-Generation IoT Infrastructure", https://onlinelibrary.wiley.com/doi/10.1155/2021/6537678 
+2.116  [IEEE Access'21] "On the Design of Lightweight and Secure Mutual Authentication System for Global Roaming in Resource-Limited Mobility Networks",  https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9319149
+2.117  [IEEE Access'21] "Lightweight three-factor-based Privacy-Preserving Authentication Scheme for IoT-Enabled Smart Homes", https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9531969
+2.118  [Sensors'18] "A Multi-Server Two-Factor Authentication Scheme with Un-Traceability Using Elliptic Curve Cryptography", https://www.mdpi.com/1424-8220/18/7/2394/htm 
+2.119  [Sensors'21] "WSN-SLAP: Secure and Lightweight Mutual Authentication Protocol for Wireless Sensor Networks", https://www.mdpi.com/1424-8220/21/3/936/htm
+2.120  [Sensors'21] "A Secure and Lightweight Authentication Protocol for IoT-Based Smart Homes", https://www.mdpi.com/1424-8220/21/4/1488/htm  
+2.121  [Drones'21] "Amassing the Security: An Enhanced Authentication Protocol for Drone Communications over 5G Networks", https://www.mdpi.com/2504-446X/6/1/10/htm 
+2.122  [Sensors'21] "Provably Secure Three-Factor-Based Mutual Authentication Scheme with PUF for Wireless Medical Sensor Networks", https://www.mdpi.com/1424-8220/21/18/6039/htm 
+2.123  [SciChina'22] "Efficient Privacy-Preserving User Authentication Scheme with Forward Secrecy for Industry 4.0", http://scis.scichina.com/en/2022/112301.pdf
+2.124  [COMNET'22] "SETCAP: Service-Based Energy-Efficient Temporal Credential Authentication Protocol for Internet of Drones", https://www.sciencedirect.com/science/article/pii/S1389128622000305 
+2.125  [Supercomput'22] "A Provably Secure Lightweight Authentication Protocol in Mobile Edge Computing Environments", https://link.springer.com/article/10.1007/s11227-022-04411-9 
+2.126 [Ad Hoc Networks'22] "A Secure Three-Factor Authentication Scheme for Multi-Gateway Wireless Sensor Networks Based on Elliptic Curve Cryptography", https://www.sciencedirect.com/science/article/pii/S1570870521002481 
+2.127 [Computers & Electrical Engineering'22] "A Low-Cost Privacy Preserving User Access in Mobile Edge Computing Framework", https://www.sciencedirect.com/science/article/pii/S0045790622000143 
+2.128 [CMC'22] "Blockchain-Based Robust Data Security Scheme in IoT-Enabled Smart Home", https://techscience.com/cmc/v72n2/47203/pdf
+2.129 [WCMC'18] "Trusted Authority Assisted Three-Factor Authentication and Key Agreement Protocol for the Implantable Medical System", https://www.hindawi.com/journals/wcmc/2018/7579161/ 
+2.130 [IEEE IoTJ'22] "A Robust Authentication Protocol for Wireless Medical Sensor Networks Using Blockchain and Physically Unclonable Functions", https://ieeexplore.ieee.org/abstract/document/9766168
+2.131 [IEEE TNSE'22] "EV-PUF: Lightweight Security Protocol for Dynamic Charging System of Electric Vehicles Using Physical Unclonable Functions", https://ieeexplore.ieee.org/abstract/document/9809791
+2.132 [IEEE TVT'22] "SLAP-IoD: Secure and Lightweight Authentication Protocol Using Physical Unclonable Functions for Internet of Drones in Smart City Environments", https://ieeexplore.ieee.org/document/9816023
+2.133 [IEEE TVT'22] "HOOPOE: High Performance and Efficient Anonymous Handover Authentication Protocol for Flying Out of Zone UAVs", https://ieeexplore.ieee.org/abstract/document/10082875
+2.134 [JISA'22] "A Large-scale Analysis of Wi-Fi Passwords", https://www.sciencedirect.com/science/article/pii/S2214212622000722
+2.135 [CEE'22] "A low-cost privacy preserving user access in mobile edge computing framework", https://www.sciencedirect.com/science/article/pii/S0045790622000143
+2.136 [IJDSN'22] "A provably secure and lightweight mutual authentication protocol in fog-enabled social Internet of vehicles", https://journals.sagepub.com/doi/pdf/10.1177/15501329221104332
+2.137 [PPNA'22] "A secure andÃ‚ efficient authentication protocol forÃ‚ wireless applications inÃ‚ multi-server environment", https://link.springer.com/article/10.1007/s12083-022-01323-6
+2.138 [CEE'22] "A secure and efficient computation based multifactor authentication scheme for Intelligent IoT-enabled WSNs", https://www.sciencedirect.com/science/article/pii/S0045790622007108?via%3Dihub
+2.139 [MTA'22] "A secure elliptic curve based anonymous authentication and key establishment mechanism for IoT and cloud", https://link.springer.com/article/10.1007/s11042-022-14140-z
+2.140 [SCN'22] "An Enhanced RFID-Based Authentication Protocol using PUF for Vehicular Cloud Computing", https://downloads.hindawi.com/journals/scn/2022/8998339.pdf
+2.141 [SCN'22] "Extremely Lightweight PUF-based Batch Authentication Protocol for End-Edge-Cloud Hierarchical Smart Grid", https://downloads.hindawi.com/journals/scn/2022/9774853.pdf
+2.142 [JSA'22] "ISG-SLAS: Secure and lightweight authentication and key agreement schemefor industrial smart grid using fuzzy extractor", https://www.sciencedirect.com/science/article/pii/S1383762122001965?via%3Dihub
+2.143 [IEEE TII'22] "An Efficient and Provably Secure Certificateless Protocol for Industrial Internet of Things", https://ieeexplore.ieee.org/abstract/document/9729405
+2.144 [CCPE'22] "A secure protocol for patient monitoring in wireless body area networks", https://onlinelibrary.wiley.com/doi/10.1002/cpe.7676
+2.145 [IET IS'22] "Efficient module learning with errors-based post-quantum password-authenticated key exchange", https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ise2.12094
+2.146 [COMNET'22] "LAKA-UAV: Lightweight authentication and key agreement scheme for cloud-assisted Unmanned Aerial Vehicle using blockchain in flying ad-hoc networks", https://www.sciencedirect.com/science/article/pii/S1389128623000579?via%3Dihub
+2.147 [IEEE Sensors J'23] "Untraceable and Unclonable Sensor Movement in the Distributed IoT Environment", https://ieeexplore.ieee.org/abstract/document/9970525
+2.148 [IEEE TIFS'23] "Understanding Failures in Security Proofs of Multi-Factor Authentication for Mobile Devices", https://ieeexplore.ieee.org/document/9975323
+2.149 [Veh. Commun.'23] "A provably secure key transfer protocol for the fog-enabled Social Internet of Vehicles based on a confidential computing environment", https://www.sciencedirect.com/science/article/pii/S2214209622001140
+2.150 [JSA'23] "TBVPAKE: An efficient and provably secure verifier-based PAKE protocol for IoT applications", https://linkinghub.elsevier.com/retrieve/pii/S138376212300053X
+2.151 [IEEE IoTJ'23] "A Provably Secure and Lightweight Access Control Protocol for EI-based Vehicle to Grid Environment", https://ieeexplore.ieee.org/document/10106407
+2.152 [TMTT'23] "Privacy-preserving authentication scheme for digital twin-enabled autonomous vehicle environments", https://onlinelibrary.wiley.com/doi/10.1002/ett.4751
+2.153 [Multimed'23] "Quantum-safe multi-server password-based authenticated key exchange protocol", https://link.springer.com/article/10.1007/s11042-023-17984-1
+2.154 [Expert Syst. Appl'23] "An efficient and secure CLAKA protocol for blockchain-aided wireless body area networks", https://www.sciencedirect.com/science/article/pii/S0957417423032426
+2.155 [JISA'23] "Provably secure and lightweight three-factor authentication scheme for industrial medical CPS", https://www.sciencedirect.com/science/article/pii/S2214212623002405
+2.156 [JAIT'23] "The Improvement of PUF-Based Authentication in IoT Systems", https://www.researchgate.net/publication/374123046_The_Improvement_of_PUF-Based_Authentication_in_IoT_Systems
+2.157 [CMC-COMPUT MATER CON'23] "A Secure and Efficient Information Authentication Scheme for E-Healthcare System", https://www.techscience.com/cmc/v76n3/54323
+2.158 [Comput Commun'23] "Honey-list based authentication protocol for industrial IoT swarms", https://www.sciencedirect.com/science/article/pii/S0140366423003225
+2.159 [IEEE IoTJ'23] "A Post-Quantum Compliant Authentication Scheme for IoT Healthcare Systems", https://ieeexplore.ieee.org/document/10241298
+2.160 [IEEE Access'17] "On the Design of Provably Secure Lightweight Remote User Authentication Scheme for Mobile Cloud Computing Services", https://ieeexplore.ieee.org/abstract/document/8076841
+2.161 [IEEE Trans. Veh'23] "SPAKE-DC: A Secure PUF Enabled Authenticated Key Exchange for 5G-based Drone Communications", https://ieeexplore.ieee.org/document/10336553
+2.162 [J King Saud Univ Sci'23] "Provably secure authentication for the internet of vehicles", https://www.sciencedirect.com/science/article/pii/S1319157823002756
+2.163 [IEEE Access'17] "Provably Secure and Efficient Authentication Protocol for Roaming Service in Global Mobility Networks", https://ieeexplore.ieee.org/abstract/document/8107484
+2.164 [Sensors'17] "An Enhanced Three-Factor User Authentication Scheme Using Elliptic Curve Cryptosystem for Wireless Sensor Networks", https://www.mdpi.com/1424-8220/17/12/2946/htm 
+2.165 [Secur&Priv'23] "A robust and secure user authentication scheme based on multifactor and multi-gateway in IoT enabled sensor networks", https://onlinelibrary.wiley.com/doi/full/10.1002/spy2.335
+2.166 [Mathematics'23] "Enhancing the Security: A Lightweight Authentication and Key Agreement Protocol for Smart Medical Services in the IoHT", https://www.mdpi.com/2227-7390/11/17/3701
+2.167 [Sensors'23] "Provably Secure Lightweight Mutual Authentication and Key Agreement Scheme for Cloud-Based IoT Environments", https://www.mdpi.com/1424-8220/23/24/9766
+2.168 [CMES'23] "Amassing the Security: An Enhanced Authentication and Key Agreement Protocol for Remote Surgery in Healthcare Environment", https://www.techscience.com/CMES/v134n1/49449/pdf
+2.169 [J. Supercomput.'24] "TFAS: two factor authentication scheme for blockchain enabled IoMT using PUF and fuzzy extractor", https://link.springer.com/article/10.1007/s11227-023-05507-6
+2.170 [Electronics'23] "Secure and Privacy-Preserving Authentication Scheme Using Decentralized Identifier in Metaverse Environment", https://www.mdpi.com/2079-9292/12/19/4073
+2.171 [Sensors'23] "A Rivestâ€“Shamirâ€“Adleman-Based Robust and Effective Three-Factor User Authentication Protocol for Healthcare Use in Wireless Body Area Networks", https://www.mdpi.com/1424-8220/23/21/8992
+2.172 [Sensors'23] "Robust and Efficient Authentication and Groupâ€“Proof Scheme Using Physical Unclonable Functions for Wearable Computing", https://www.mdpi.com/1424-8220/23/12/5747
+2.173 [IEEE TCE'23] "Sustainable Secure Communication in Consumer-Centric Electric Vehicle Charging in Industry 5.0 Environments", https://ieeexplore.ieee.org/abstract/document/10345490
+2.174 [PMC'24] "A provably secure and practical end-to-end authentication scheme for tactile Industrial Internet of Things", https://www.sciencedirect.com/science/article/pii/S1574119224000038
+2.175 [EURASIP JWCN'23] "Rotating behind security: an enhanced authentication protocol for IoT-enabled devices in distributed cloud computing architecture", https://link.springer.com/article/10.1186/s13638-023-02245-4
+2.176 [Sensors'23] "Provably Secure Mutual Authentication and Key Agreement Scheme Using PUF in Internet of Drones Deployments", https://www.mdpi.com/1424-8220/23/4/2034
+2.177 [IEEE Access'23] "A Construction of Three Party Post Quantum Secure Authenticated Key Exchange Using Ring Learning With Errors and ECC Cryptography", https://ieeexplore.ieee.org/abstract/document/10287947
+2.178 [ApplSci'23] "Fine-Auth: A Fine-Grained User Authentication and Key Agreement Protocol Based on Physical Unclonable Functions for Wireless Body Area Networks", https://www.mdpi.com/2076-3417/13/22/12376
+2.179 [Sustainability'23] "Provably Secure Dynamic Anonymous Authentication Protocol for Wireless Sensor Networks in Internet of Things", https://www.mdpi.com/2071-1050/15/7/5734
+2.180 [ApplSci'23] "A Robust and Effective Two-Factor Authentication (2FA) Protocol Based on ECC for Mobile Computing", https://www.mdpi.com/2076-3417/13/7/4425
+2.181 [Mathematics'23] "A Lightweight and Privacy-Preserving Authentication Protocol for Healthcare in an IoT Environment", https://www.mdpi.com/2227-7390/11/18/3857
+2.182 [TETT'23] "Privacy-preserving authentication scheme for digitaltwin-enabled autonomous vehicle environments", https://onlinelibrary.wiley.com/doi/full/10.1002/ett.4751
+2.183 [IEEE TNSM'23] "SecEdge: Secure Edge-Computing Based Hybrid Approach for Data Collection and Searching in IoV", https://ieeexplore.ieee.org/abstract/document/10196053
+2.184 [IC2IE'23] "Secure Authentication in an IoT-Based Healthcare Environment with Strong Anonymity and Unclonable Device", https://ieeexplore.ieee.org/abstract/document/10331538
+2.185 [JAIT'23] "The Improvement of PUF-Based Authentication in IoT Systems", https://pdfs.semanticscholar.org/dbcb/4e91c3c7cb031794f60c7e3d9eb72d3333d0.pdf
+2.186 [Trans Emerging Tel Tech.'24] "A probably secure biometric-based authentication and key agreement scheme for Internet of Drones", https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.4893
+2.187 [JSA'24] "A portable blind cloud storage scheme against compromised servers", https://www.sciencedirect.com/science/article/pii/S1383762123002163
+2.188 [IEEE IoT J'24] "PUF-Based Robust and Anonymous Authentication and Key Establishment Scheme for V2G Networks", https://ieeexplore.ieee.org/document/10380752
+2.189 [ESWA'24] "A blockchain-enabled privacy-preserving authentication management protocol for Internet of Medical Things", https://www.sciencedirect.com/science/article/pii/S0957417423018316
+2.190  [WCMC'18] "Cryptanalysis and Security Enhancement of Three Authentication Schemes in Wireless Sensor Networks", https://www.hindawi.com/journals/wcmc/2018/8539674/
+2.191 [IEEE IoTJ'24] "A Privacy-Preserving Authentication Protocol for Electric Vehicle Battery Swapping Based on Intelligent Blockchain", https://ieeexplore.ieee.org/document/10423784
+2.192 [IEEE TVT] "Provably Secure Authentication Scheme for Fog Computing-Enabled Intelligent Social Internet of Vehicles", https://ieeexplore.ieee.org/abstract/document/10487900
+2.193 [Comput. Netw.'24] "Secure and efficient communication approaches for Industry 5.0 in edge computing", https://www.sciencedirect.com/science/article/pii/S1389128624000768
+2.194 [JSA'24] "VSPAKE: Provably secure verifier-based PAKE protocol for client/server model in TLS ciphersuite", https://www.sciencedirect.com/science/article/pii/S1383762124000195
+2.195 [PeerJ Comput. Sci.'24] A new lattice-based password authenticated key exchange scheme with anonymity and reusable key, https://peerj.com/articles/cs-1791.pdf
+2.196 [IEEE TITS'24] "A Secure Self-Certified Broadcast Authentication Protocol for Intelligent Transportation Systems in UAV-Assisted Mobile Edge Computing Environments", https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10606320
+2.197 [Veh. Commun.'24] "Multi-TA model-based conditional privacy-preserving authentication protocol for fog-enabled VANET", https://www.sciencedirect.com/science/article/pii/S2214209624000603
+2.198 [IEEE IoTJ'24] "Blockchain-Based Mutual Authentication Protocol for IoT-Enabled Decentralized Healthcare Environment", https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10530180
+2.199 [CSI'24] "AHA-BV: Access and handover authentication protocol with batch verification for satelliteâ€“terrestrial integrated networks", https://www.sciencedirect.com/science/article/pii/S0920548924000394
+2.200 [SCN'18] "A Secure and Anonymous Two-Factor Authentication Protocol in Multiserver Environment", https://www.hindawi.com/journals/scn/2018/9062675/ 
+2.201 [IEEE IoTJ'24] "Cost-effective Authenticated Solution (CAS) for 6G-enabled Artificial Intelligence of Medical Things (AIoMT)". https://ieeexplore.ieee.org/abstract/document/10496997
+2.202 [WCMC'18] "A Provably Secure Anonymous Authenticated Key Exchange Protocol Based on ECC for Wireless Sensor Networks", https://www.hindawi.com/journals/wcmc/2018/2484268/
+2.203 [JSA'24] "TBVPAKE: An efficient and provably secure verifier-based PAKE protocol for IoT applications", https://www.sciencedirect.com/science/article/pii/S138376212300053X
+2.204 [AEEE'24] "A biometric and physically unclonable functionâ€“Based authentication protocol for payload exchanges in internet of drones", https://www.sciencedirect.com/science/article/pii/S2772671124000536
+2.205 [JISA'16] "Design of a Secure Smart Card-Based Multi-Server Authentication Scheme", https://www.sciencedirect.com/science/article/pii/S2214212616300758
+2.206 [JSA'24] "An improved lightweight and privacy preserving authentication scheme for smart grid communication", https://www.sciencedirect.com/science/article/pii/S1383762124001139
+2.207 [EURASIP J. Wirel. Commun. Netw.'24] "Rotating behind security: an enhanced authentication protocol for IoT-enabled devices in distributed cloud computing architecture", https://link.springer.com/article/10.1186/s13638-023-02245-4
+2.208 [PeerJ Comput. Sci.'24] "Password authenticated key exchangebased on Kyber for mobile devices", https://peerj.com/articles/cs-1960.pdf
+2.209 [IJIT'24] "IFTTTâ€‘based secure smart farming monitoring system: data integrity and agricultural optimization", https://link.springer.com/article/10.1007/s41870-024-01894-y
+2.210 [JCSS'24] "User-Authentication Protocol to Secure Wireless Sensor Network Access in the Internet of Things Context", https://hrcak.srce.hr/file/459193
+2.211 [IEEE Access'24] "Trust-Enabled Energy Efficient Protocol for Secure Remote Sensing in Supply Chain Management", https://ieeexplore.ieee.org/document/10634105
+2.212 [IEEE IOT'24] "VC-MAKA: Mutual Authentication and Key Agreement Protocol Based on Verifiable Commitment for Internet of Vehicles", https://ieeexplore.ieee.org/document/10677410
+2.213 [IEEE TNSM'24] "SECURE: Secure and Efficient ProtoCol Using Randomness and Edge-Computing for Drone-Assisted Internet of Vehicles", https://ieeexplore.ieee.org/document/10681459
+2.214 [IEEE IOT'24] "A Multi Server Authentication Protocol With Integrated Monitoring for IoMT Based Healthcare System", https://ieeexplore.ieee.org/abstract/document/10697094
+2.215 [IEEE IOT'24] "A secure user anonymity-preserving biometrics and PUFs-based multi-server authentication scheme with key agreement in 5G Networks", https://ieeexplore.ieee.org/document/10734318
+2.216 [IEEE IOT'24] "FA-SMW: Fog-driven Anonymous Lightweight Access Control for Smart Medical Wearables", https://ieeexplore.ieee.org/document/10738468
+2.217 [IEEE Access'24] "Physical-Unclonable-Function-based Secure and Anonymous User Authentication for Smart Homes", https://ieeexplore.ieee.org/document/10757410
+2.218 [IEEE IOT'25] "N3PA-STIN: A Novel Three-Party Authentication Protocol for Multi-User Access in Satellite-Terrestrial Integrated Networks", https://ieeexplore.ieee.org/document/10833874
+2.219 [IEEE IOT'25] "A Machine Learning Attack-Resistant PUF-based Robust and Efficient Mutual Authentication Scheme in Fog-enabled IoT Environments", https://ieeexplore.ieee.org/document/10897832
+2.220 [IEEE IOT'25] "PLAKA-MD: PUF-Based Lightweight Authentication and Key Agreement Scheme for Medical Devices in IoHT", https://ieeexplore.ieee.org/abstract/document/10906502
+2.221 [PPNA'25] "An enhanced three-factor based authentication and key agreement protocol using PUF in IoMT", https://link.springer.com/article/10.1007/s12083-024-01839-z
+2.222 [IEEE IOT'24] "Physical unclonable functions and QKD-based authentication scheme for IoT devices using blockchain", https://www.sciencedirect.com/science/article/pii/S2542660524003457
+2.223 [IEEE JSYST'24] "An Adaptive Synchronous Lightweight AKA Protocol With Authority Management for Wireless Medical Sensor Networks", https://ieeexplore.ieee.org/document/10818977
+2.224 [Heliyon'24] "Securing the IoT-enabled smart healthcare system: A PUF-based resource-efficient authentication mechanism", https://www.cell.com/heliyon/fulltext/S2405-8440(24)13608-0
+2.225 [Alexandria Engineering Journal'25] "Provably secure biometric and PUF-based authentication for roaming service in global mobility network", https://www.sciencedirect.com/science/article/pii/S1110016824014947
+2.226 [Ain Shams Engineering Journal'24] "A biometric and PUF-based authentication with Preserving anonymity in smart grid environment", https://www.sciencedirect.com/science/article/pii/S2090447924004672
+2.227 [CCPE'25] "Three Party Post Quantum Secure Lattice Based Construction of Authenticated Key Establishment Protocol for Mobile Communication", https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.8369
+2.229 [Applied Sciences'25] "A Secure and Efficient Authentication Scheme for Fog-Based Vehicular Ad Hoc Networks", https://www.mdpi.com/2076-3417/15/3/1229
+2.230 [Sensors'25] "A PUF-Based Secure Authentication and Key Agreement Scheme for the Internet of Drones", https://www.mdpi.com/1424-8220/25/3/982
+2.231 [Scientific Reports'25] "An Intelligent Blockchain-Enabled Authentication Protocol for Transportation Cyber-Physical Systems", https://www.nature.com/articles/s41598-025-90219-5
+2.232 [Cluster Computing'25] "K-PAKE: post quantum password authentication key exchange protocol for satellite networks", https://link.springer.com/article/10.1007/s10586-024-04942-1
+
+
+
+3 Password policy
+3.1 [IEEE TIFS'22] "Dynamically Generate Password Policy via Zipf Distribution", https://ieeexplore.ieee.org/abstract/document/9715109 
+3.2 [J. Cybersecurity'23] "A Generator Framework for Password Policy Based on Frequency and Entropy", https://www.journalofcybersec.com/EN/Y2023/V1/I2/73
+3.3 [COSE'24] "Decoding developer password patterns: A comparative analysis of password extraction and selection practices", https://www.sciencedirect.com/science/article/pii/S0167404824002797
+
+4 Password-leakage detection
+4.1 [IEEE S&P'22] "How to Attack and Generate Honeywords", https://ieeexplore.ieee.org/abstract/document/9833598
+4.2 [NDSS'18] "A Security Analysis of Honeyword", https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02B-2_Wang_paper.pdf
+4.3 [USENIX SEC'20] "Detecting Stuffing of a User's Credentials at Her Own Account", https://www.usenix.org/system/files/sec20-wang.pdf 
+4.4 [USENIX SEC'22] "Might I Get Pwned: A Second Generation Compromised Credential Checking Service", https://www.usenix.org/system/files/sec22-pal.pdf
+4.5 [Arxiv'23] "Reveal the Mathematical Structures of Honeyword Security Metrics", https://arxiv.org/abs/2311.10960
+4.6 [ACM CSUR'22] "Honeyword-based Authentication Techniques for Protecting Passwords: A Survey", https://dl.acm.org/doi/abs/10.1145/3552431
+
+
+
+5 Password hashing algorithms/online throttling
+5.1 [IEEE CSF'16] "CASH: A Cost Asymmetric Secure Hash Algorithm for Optimal Password Protection", https://ieeexplore.ieee.org/abstract/document/7536388 
+5.2 [PETS'22] "DALock: Password Distribution Aware Throttling", https://petsymposium.org/popets/2022/popets-2022-0084.php
+5.3 [TOMM'25] "Pivot: Panoramic-Image-Based VR User Authentication against Side-Channel Attacks", https://dl.acm.org/doi/pdf/10.1145/3694975
+
+
+
+6 Password encryption
+6.1 [IEEE S&P'15] "GenoGuard: Protecting Genomic Data against Brute-Force Attacks", https://ieeexplore.ieee.org/abstract/document/7163041/ 
+6.2 [JISA'19] "Freestyle, a Randomized Version of ChaCha for Resisting Offline Brute-Force and Dictionary Attacks", https://www.sciencedirect.com/science/article/pii/S2214212618307634
+
+
+
+7 Password characteristic analysis
+7.1 [ACM TOPS'24] "The Effect of Domain Terms on Password Security", https://dl.acm.org/doi/full/10.1145/3703350
+7.2 [IEEE S&P'23] "Towards a Rigorous Statistical Analysis of Empirical Password Datasets", https://ieeexplore.ieee.org/abstract/document/10179431
+7.3 [USENIX SEC'19] "Birthday, Name and Bifacial-Security: Understanding Passwords of Chinese Web Users", https://www.usenix.org/system/files/sec19-wang-ding.pdf
+7.4 [IEEE TIFS'23] "New Observations on Zipfs Law in Passwords", https://ieeexplore.ieee.org/document/9777714
+7.5 [SecureComm'17] "Exploring the Network of Real-World Passwords: Visualization and Estimation", https://link.springer.com/chapter/10.1007/978-3-319-78813-5_8
+7.6 [COSE'20] "Passphrase and Keystroke Dynamics Authentication: Usable Security",  https://www.sciencedirect.com/science/article/pii/S0167404820302017 
+7.7 [CVHT'22] "Zipf's Law Analysis on the Leaked Iranian Users' Passwords", https://link.springer.com/article/10.1007/s11416-021-00397-9 
+7.8 [KBS'24] "Marshall–Olkin power-law distributions in length-frequency of entities", https://www.sciencedirect.com/science/article/pii/S0950705123006925
+
+
+
+8 PINs
+8.1 [AsiaCCS'17] "Understanding Human-Chosen PINs: Characteristics, Distribution and Security", https://dl.acm.org/doi/abs/10.1145/3052973.3053031
+
+
+
+
