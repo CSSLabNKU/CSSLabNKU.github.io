@@ -26,7 +26,7 @@ Minds are like parachutes, they only function when open. I am looking forward to
 <img src="{{ site.baseurl }}/images/word-cloud2.png" alt="Password cryptography word cloud">
 </figure>
 
-<strong><span style="font-size:24px;">Research Interests: </span></strong> We are devoted to authentication and related area (<u><a href="https://csslabnku.github.io/team"><span style="color:#a1a1a1">researches</span></a></u>):<br>
+<strong><span style="font-size:24px;">Research Interests: </span></strong> We are devoted to authentication and related area (<u><a href="https://cssnku.github.io/publications"><span style="color:#a1a1a1">researches</span></a></u>):<br>
 (1) Machine learning-based techniques for authentication;  
 (2) Protocols, including Password-based, Blockchain-based, Lattice-based ones;  
 (3) Multi-factor authentication, including passwords, devices, biometrics and others;  
@@ -50,7 +50,7 @@ We are looking for promising <span style="color:#5848b7"><strong>Professors/ Ass
 (2) National Key R&D Plan, "<strong>Multi-factor Auth for Virtual Concurrency</strong>" under No. 2016YFB0800603 (2016.07~2019.06);<br>
 (1) NSF of China, "<strong>Anonymous multi-factor authentication</strong>" under Grant No. 61472016 (2015.01~2018.12);<br>
 
-<strong><span style="font-size:24px;">PhD Dissertation:</span></strong> <a href="uploads/phd_thesis0103.pdf"><span style="color:rgb(0, 0, 0)">Research on Key Issues in Password Security (口令安全关键问题研究),</span></a> 2017.06. <u><a href="uploads/phd_thesis0103.pdf"><span style="color:#818181">PDF</span></a></u><br>
+<strong><span style="font-size:24px;">PhD Dissertation:</span></strong> <a href="{{ site.url }}{{ site.baseurl }}/uploads/home/phd_thesis0103.pdf"><span style="color:rgb(0, 0, 0)">Research on Key Issues in Password Security (口令安全关键问题研究),</span></a> 2017.06. <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/phd_thesis0103.pdf"><span style="color:#818181">PDF</span></a></u><br>
 Doctoral Dissertation Award by Peking University, China Computer Federation, ACM SIGSAC China, and ACM China.<br>
 (<a href="https://awards.acm.org/binaries/content/assets/awards/awards-booklet-2019.pdf"><span style="color:rgb(0, 0, 0)">ACM</span></a> <a href="https://awards.acm.org/binaries/content/assets/awards/awards-booklet-2019.pdf"><span style="color:#a1a1a1">中国优秀博士论文奖</span></a>; <a href="http://www.ccf.org.cn/c/2018-03-06/623465.shtml"><span style="color:#818181">中国计算机学会优秀博士论文奖</span></a>; ACM SIGSAC中国优秀博士论文奖; <a href="http://pkunews.pku.edu.cn/xwzh/2017-07/04/content_298534.htm"><span style="color:rgb(0, 0, 0)">北京大学优秀博士论文奖</span></a>.)<br>
 

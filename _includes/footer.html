@@ -1,5 +1,22 @@
 <style>
+	html,
+	body {
+		min-height: 100%;
+	}
+
+	body {
+		display: flex;
+		flex-direction: column;
+		min-height: 100vh;
+	}
+
+	body > .container-fluid {
+		width: 100%;
+		flex: 1 0 auto;
+	}
+
 	.site-footer {
+		flex-shrink: 0;
 		margin-top: 48px;
 		padding: 22px 0 24px;
 		border-top: 1px solid rgba(101, 85, 194, 0.22);
