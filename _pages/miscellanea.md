@@ -10,7 +10,7 @@ permalink: /miscellanea/
 
 <div class="miscellanea-content">
 <strong><span style="color: #5040ae;">A.</span> </strong><a href="http://loccs.sjtu.edu.cn/typecho/index.php/archives/188/"><span style="color: #5040ae;"><strong>信息安全国际学术会议讨论</strong></span></a><br/>
- (Part of this blog is my personal opinion,  while part of it comes from <a href="http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/">http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/</a>.   部分为个人见解，部分转自：<a href="http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/">http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/</a>,  一介学生眼光，三五好友讨论结果，不妥不当之处难免，欢迎批评指正。 )<br/>
+ (Part of this blog is my personal opinion, while part of it comes from <a href="http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/">http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/</a>.   部分为个人见解，部分转自：<a href="http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/">http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/</a>,  一介学生眼光，三五好友讨论结果，不妥不当之处难免，欢迎批评指正。 )<br/>
  <br/>
 <u>信息安全</u>是一个比较复杂的主题，包括了传统的密码学、安全攻击等内容，同时又包括了大量和操作系统、网络、计算机体系结构、硬件（不仅限于计算机，包括各类计算设备，智能卡等等），甚至金融、法律相关的内容，因此，在这些领域，同样有很多顶级学术会议值得我们关注。众所周知，期刊会议的档次无法代表论文的质量，只是在一流会议中出现一流成果的可能性要大一些。很多有开创性的一流成果没有发表在一流会议上，在一流会议中也不并少见长像好看、但实际没什么意义的文章。<strong>无论如何，了解会议的大致水平和特点，对初学者还是很有用的 (T</strong><strong>he true value of this list, we hope, mainly lies in providing some preliminary guidance for NEW guys in Information Security, and particularly, <span style="color: #5040ae;">for new students of our group</span>.</strong><strong>)</strong>。<br/>
 <br/>
