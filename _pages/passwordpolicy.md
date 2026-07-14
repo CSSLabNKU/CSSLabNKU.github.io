@@ -56,7 +56,8 @@ permalink: /password-policy/
     box-sizing: border-box;
   }
 
-  .password-policy-hero__copy h2 {
+  .password-policy-hero__copy h2,
+  .password-policy-hero__copy h3 {
     margin: 0;
     padding: 0;
     color: #5a5a5a;
@@ -197,7 +198,8 @@ permalink: /password-policy/
       padding: 24px;
     }
 
-    .password-policy-hero__copy h2 {
+    .password-policy-hero__copy h2,
+    .password-policy-hero__copy h3 {
       font-size: 26px;
       line-height: 1.15;
     }
@@ -208,7 +210,7 @@ permalink: /password-policy/
   }
 </style>
 
-<div class="password-policy-page" markdown="0">
+<div class="password-policy-page">
 
 <section class="password-policy-hero" aria-label="Password policy introduction">
   <div class="password-policy-hero__visual">
@@ -246,63 +248,71 @@ permalink: /password-policy/
 
 <p class="password-policy-intro">This is a big project encouraged by some wonderful reviewers and of my personal interest: it will be useful for the community and industry. It may take 3 year or 5 years to finish. Currently, I am performing related research (e.g., my <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/passwordpolicy/esorics16full_v9.pdf">ESORICS'15 paper</a></u> on password policies of 100+ leading sites, <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/passwordpolicy/ccs16_final_v12.pdf">ACM CCS'16 paper</a></u> on targeted online guessing threat, <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/passwordpolicy/asiaccs17_v12.pdf">ACM ASIACCS'17 paper</a></u> on human-chosen PINs and <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/passwordpolicy/ndss18v7.pdf">NDSS'18 paper</a></u> on password storage) and collecting related materials (e.g., evidence for over 30+ debates from the literature). Thanks for the great help from my team members. I am also grateful to many constructive feedbacks.</p>
 
-## 1. The problems in the current password policies
+<h3>1. The problems in the current password policies</h3>
 
-### 1.1. A quote from the famous writer Geoffrey A. Landis
+<h4>1.1. A quote from the famous writer Geoffrey A. Landis</h4>
 
-“It has to have upper case, lower case, special characters, and at least one numeral. Also, spaces aren't allowed. It's not enough to come up with *a* secure password. You have to come up with a secure password that follows the arcane rules, different for each site, and you have to change it every 90 days. Then you have to do this fifty more times, because you probably log into at least fifty sites and the worst thing you can do is re-use a password.”
+<p>“It has to have upper case, lower case, special characters, and at least one numeral. Also, spaces aren't allowed. It's not enough to come up with <em>a</em> secure password. You have to come up with a secure password that follows the arcane rules, different for each site, and you have to change it every 90 days. Then you have to do this fifty more times, because you probably log into at least fifty sites and the worst thing you can do is re-use a password.”</p>
 
 <div class="password-policy-arrow" aria-hidden="true">||<br>∨</div>
 
 <p class="password-policy-emphasis">High complexity + Not reuse + Frequent expiration = Not usable policy</p>
 
-### 1.2. What users actually do?
+<h4>1.2. What users actually do?</h4>
 
 <p class="password-policy-emphasis">Circumvent high complexity + highly re-use + recycling/write down = common user practice</p>
 
-<span style="color: #8273da;">A user survey:</span>
+<p><span style="color: #8273da;">A user survey:</span></p>
 
-- [http://www.sojump.com/jq/6443561.aspx](http://www.sojump.com/jq/6443561.aspx) (Chinese version)
-- [http://www.sojump.com/jq/7005139.aspx](http://www.sojump.com/jq/7005139.aspx) (English version)
+<ul>
+  <li><a href="http://www.sojump.com/jq/6443561.aspx">http://www.sojump.com/jq/6443561.aspx</a> (Chinese version)</li>
+  <li><a href="http://www.sojump.com/jq/7005139.aspx">http://www.sojump.com/jq/7005139.aspx</a> (English version)</li>
+</ul>
 
-So far, we have got 500+ effective responses. Thanks for your participation!
+<p>So far, we have got 500+ effective responses. Thanks for your participation!</p>
 
-### 1.3. The current crux
+<h4>1.3. The current crux</h4>
 
-Despite many pioneering works, there is still a lack of both theoretic and empirical academic exploration:
+<p>Despite many pioneering works, there is still a lack of both theoretic and empirical academic exploration:</p>
 
-- Threat [models]({{ '/uploads/passwordpolicy/long_pw_recovered.jpg' | relative_url }})
-- Risk analysis
-- Basic metrics
-- Debates
-- Fundamental issues
-- A whole picture about the password ecosystem......
+<ul>
+  <li>Threat <a href="{{ site.url }}{{ site.baseurl }}/uploads/passwordpolicy/long_pw_recovered.jpg">models</a></li>
+  <li>Risk analysis</li>
+  <li>Basic metrics</li>
+  <li>Debates</li>
+  <li>Fundamental issues</li>
+  <li>A whole picture about the password ecosystem......</li>
+</ul>
 
-#### 1.3.1. Known results
+<h5>1.3.1. Known results</h5>
 
-- Password strength metrics
-- True strength of user passwords
-- Password probability distribution function
-- Rational user
-- Password reuse behavior
-- (Dis)advantages of password expiration
-- Effects of specific password composition rule
-- Effects of password strength meter
+<ul>
+  <li>Password strength metrics</li>
+  <li>True strength of user passwords</li>
+  <li>Password probability distribution function</li>
+  <li>Rational user</li>
+  <li>Password reuse behavior</li>
+  <li>(Dis)advantages of password expiration</li>
+  <li>Effects of specific password composition rule</li>
+  <li>Effects of password strength meter</li>
+</ul>
 
-#### 1.3.2. Unknown results
+<h5>1.3.2. Unknown results</h5>
 
-- User security budget
-- Risks on the server
-- Stochastic process of password evolution
+<ul>
+  <li>User security budget</li>
+  <li>Risks on the server</li>
+  <li>Stochastic process of password evolution</li>
+</ul>
 
-## 2. Evidence-grounded recommendations
+<h3>2. Evidence-grounded recommendations</h3>
 
-### 2.1. Recommendations for password composition rules
+<h4>2.1. Recommendations for password composition rules</h4>
 
-### 2.2. Sensible algorithms for password strength meters
+<h4>2.2. Sensible algorithms for password strength meters</h4>
 
-### 2.3. Source codes for password strength meters
+<h4>2.3. Source codes for password strength meters</h4>
 
-Under constructing......
+<p>Under constructing......</p>
 
 </div>
