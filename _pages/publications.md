@@ -8,7 +8,7 @@ permalink: /publications/
 
 <div class="publication-list" markdown="0">
 
-Yihe Duan, Ding Wang*, Yutong Li. Credential Extraction Attacks Against <strong>Compromised Credential Checking Services</strong> of Password Managers. Proc. of 47th IEEE Symposium on Security and Privacy (<strong><span style="color:#5040ae">IEEE S&P 2026</span></strong>), pp. 1915-1934. <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/ieeesp26-pm-full.pdf">pdf</a></u><br>(Full paper, acceptance rate: 118/925=12.8%) 
+Yihe Duan, Ding Wang*, Yutong Li. Credential Extraction Attacks Against <strong>Compromised Credential Checking Services</strong> of Password Managers. Proc. of 47th IEEE Symposium on Security and Privacy (<strong><span style="color:#5040ae">IEEE S&P 2026</span></strong>), pp. 2977-2996. <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/ieeesp26-pm-full.pdf">pdf</a></u><br>(Full paper, acceptance rate: 118/925=12.8%) 
 <br><br>
 Zhen Li, Ding Wang*. <strong>Targeted Password Guessing</strong> Using k-Nearest Neighbors. Proc. of the 33rd Network and Distributed System Security Symposium (<strong><span style="color:#5040ae">NDSS 2026</span></strong>), pp. 1-23. <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/knnguess-ndss26-fullv1.pdf">pdf</a></u><br> (Full paper, acceptance rate: 152/950=16.0%) 
 <br><br>
