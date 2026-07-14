@@ -105,7 +105,7 @@ Accordingly, we can determine the <strong>guessing entropy</strong> [2] of POOL0
 <hr class="styled-hr" style="width:100%;"/>
 
 <h3><strong><font color="#350df8">Experimental 1.&nbsp;</font></strong>Results from top 1 million most popular passwords of Rockyou dataset</h3><br/>
-Note: Since <u>h(123456) mod 256</u> = <u>(7C4A8D09CA3762AF61E59520943DC26494F8941B) mod 256</u> = <u>27</u>, the password pool of 123456 is denoted by 27.txt
+<font style="font-size:8px;">Note: Since <u>h(123456) mod 256</u> = <u>(7C4A8D09CA3762AF61E59520943DC26494F8941B) mod 256</u> = <u>27</u>, the password pool of 123456 is denoted by 27.txt</font>
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
