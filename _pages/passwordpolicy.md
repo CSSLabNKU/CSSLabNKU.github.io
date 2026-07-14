@@ -128,8 +128,14 @@ permalink: /password-policy/
     margin: 20px 0;
   }
 
+  .password-policy-figure--center {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+
   .password-policy-figure--center img {
-    margin: 0 auto;
+    margin: 0 !important;
   }
 
   .password-policy-figure--right img {
@@ -209,8 +215,8 @@ permalink: /password-policy/
     <img src="{{ site.url }}{{ site.baseurl }}/images/1435750564.jpg" alt="A character saying that 12345 is the password on his luggage">
   </div>
   <div class="password-policy-hero__copy">
-    <h2>Building sensible password policies for the emperor</h2>
-    <p class="password-policy-hero__quotes">“Self-chosen passwords are often surprisingly easy to guess.” — Jerome H., Comm. ACM, 1974<br><br>“The only secure password is the one you can’t remember.” — Troy Hunt, Blog, 2011.<br><br>“Example of cyber resilience. Password policy too complex couldn't be bothered to comment on blog.” — A tweet by Gamingworks, June, 2015.</p>
+    <h3>Building sensible password policies for the emperor</h3>
+    <p class="password-policy-hero__quotes">“Self-chosen passwords are often surprisingly easy to guess.” — Jerome H., Comm. ACM, 1974<br>“The only secure password is the one you can’t remember.” — Troy Hunt, Blog, 2011.<br>“Example of cyber resilience. Password policy too complex couldn't be bothered to comment on blog.” — A tweet by Gamingworks, June, 2015.</p>
     <a class="password-policy-hero__button" href="{{ site.url }}{{ site.baseurl }}/uploads/passwordpolicy/esorics15conf0827.pdf" target="_blank" rel="noopener">Password policy: A real world problem</a>
   </div>
 </section>
