@@ -78,7 +78,7 @@ Jingwei Jiang, Ding Wang*. <strong>QPASE</strong>: Quantum-Resistant Password-Au
 <br><br>
 Yunkai Zou, Ding Wang*. <strong><span style="color:#c23b3b">Advances in Password Guessing Attacks</span></strong>. <strong>Journal of Cryptologic Research</strong>, 10th Anniversary Commemorative Special Issue (<strong><span style="color:#5040ae">《密码学报》</span></strong><strong><span style="color:#5040ae">创刊10周年纪念特刊特邀论文</span></strong>), 2024, 11(1): 67-100 (in Chinese) <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/jcr24.pdf">pdf</a></u>
 <br><br>
-Liufu Zhu, Ding Wang*. A Multi-Factor Authentication Scheme Under the SM9 Algorithm Framework[J]. Journal of Electronics & Information Technology, <strong> </strong>45th Anniversary Commemorative Special Issue (<strong><span style="color:#5040ae">《电子与信息学报》创刊45周年纪念特刊特邀论文</span></strong>), 2024, 46(5): 2137-2148. (in Chinese) <u><a href="https://www.bilibili.com/video/BV1gx4y1n79N/">video</a></u> <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/jeit24.pdf">pdf</a></u>
+Liufu Zhu, Ding Wang*. A Multi-Factor Authentication Scheme Under the SM9 Algorithm Framework[J]. Journal of Electronics & Information Technology,  45th Anniversary Commemorative Special Issue (<strong><span style="color:#5040ae">《电子与信息学报》创刊45周年纪念特刊特邀论文</span></strong>), 2024, 46(5): 2137-2148. (in Chinese) <u><a href="https://www.bilibili.com/video/BV1gx4y1n79N/">video</a></u> <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/jeit24.pdf">pdf</a></u>
 <br><br>
 Jingwei Jiang, Ding Wang*, Guoyin Zhang. <strong>QPause</strong>: Quantum-resistant password-protected data outsourcing for cloud storage, IEEE Transactions on Services Computing (<strong>TSC</strong>), 2024, 17(3): 1140-1153. <a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/tsc23-n2-v1.pdf"><u>pdf</u></a>
 <br><br>
@@ -106,7 +106,7 @@ Zengpeng Li, Ding Wang*, and Eduardo Morais. <strong>Quantum-Safe Round-Optima
 <br><br>
 Chenyu Wang, Ding Wang*, Yi Tu, Guoai Xu, Huaxiong Wang. <strong>Understanding Node Capture Attacks in User Authentication</strong> Schemes for Wireless Sensor Networks, <strong>IEEE Transactions on Dependable and Secure Computing</strong>, 2022, 19(1): 507-523 (<span style="color:#8d2424">100+ Citations</span>, <span style="color:#5040ae">ESI highly cited paper</span>) <a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/tdsc22-wd1.pdf"><u>pdf</u></a> <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/ieeetdsc20-supplementary-file.pdf">Appendix</a></u>
 <br><br>
-Shuming Qiu, Ding Wang*, Guoai Xu, and Saru Kumari. <strong>Practical and Provably Secure Three-Factor Authentication</strong> Protocol Based on Extended Chaotic-Maps for Mobile Lightweight Devices,<strong> IEEE Transactions on Dependable and Secure Computing</strong>, 2022, 19(2): 1338-1351 <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/tdsc-wang2020-n2-v2.pdf">pdf</a></u><br><strong> </strong>(<span style="color:#8d2424">200+ Citations</span>, <span style="color:#5040ae">ESI highly cited paper</span>, ESI hotspot paper (top 0.1%))
+Shuming Qiu, Ding Wang*, Guoai Xu, and Saru Kumari. <strong>Practical and Provably Secure Three-Factor Authentication</strong> Protocol Based on Extended Chaotic-Maps for Mobile Lightweight Devices,<strong> IEEE Transactions on Dependable and Secure Computing</strong>, 2022, 19(2): 1338-1351 <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/tdsc-wang2020-n2-v2.pdf">pdf</a></u><br> (<span style="color:#8d2424">200+ Citations</span>, <span style="color:#5040ae">ESI highly cited paper</span>, ESI hotspot paper (top 0.1%))
 <br><br>
 Ding Wang*, Yunkai Zou, Qiying Dong, Yuanming Song, Xinyi Huang. <strong>How to Attack and Generate Honeywords</strong>. Proceedings of the 43rd IEEE Symposium on Security and Privacy (<strong><span style="color:#5040ae">IEEE S&P 2022</span></strong>), pp. 966-983. (Full paper, acceptance rate: 147/1012=14.5%) <a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/sp22n1-wd6.pdf"><u>pdf</u></a>
 <br><br>
@@ -318,18 +318,32 @@ Chenyu Wang, Ding Wang*, Feifei Wang, Guoai Xu. Multi-factor user authentication
 <br><br>
 李文婷, 汪定, 王平. 无线传感器网络环境下多因素身份认证协议的内部人员攻击研究. <strong>软件学报,</strong> 2019, 30(8): 2375-2391. <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/jos19.pdf">pdf</a></u>
 <br><br>
-Ding Wang. Data-driven Targeted Online Password Guessing. Development Report on Frontiers of Science and Technology: China Cyberspace Security. Book chapter, edited by Hai Jin, Peng Xu and Deqing Zou. China Industry and Information Technology Publishing Press, 2019, pp. 64-68. (in Chinese) <u><a href="/uploads/2/0/3/6/20366987/targeted-guessing-book-chapter.pdf">pdf</a></u><br>(汪定. 数据驱动的定向在线口令猜测研究. <strong>中国网络空间安全前言科技发展报告,</strong> 金海, 徐鹏, 邹德清主编. 中国工信出版社, 2019, pp. 64-68.)<br><br>
-Ding Wang, Wenting Li, Ping Wang. Cryptanalysis of three anonymous authentication schemes for multi-server environment. Chinese Journal of Software, 2018, 29(7): 1937-1952 (Tier-1 Chinese Journal) <u><a href="/uploads/2/0/3/6/20366987/jos18.pdf">pdf</a></u><br>(汪定, 李文婷, 王平. 对三个多服务器环境下匿名认证协议的分析. <strong>软件学报,</strong> 2018, 29(7): 1937-1952. (入选“<strong><span style="color:#543fad">中国精品科技期刊顶尖学术论文</span></strong>”, CCF A类中文期刊, EI))<br><br>
-王平, 汪定*, 黄欣沂. 口令安全研究进展. <strong>计算机研究与发展,</strong> 2016, 53(10): 2173-2188. (CCF A类中文期刊, EI) <u><a href="/uploads/2/0/3/6/20366987/crad16.pdf">pdf</a></u><br><br>
-汪定, 王平, 雷鸣. 基于RSA的网关口令认证协议的分析与改进. <strong>电子学报,</strong><strong> </strong>2015 43(1): 176-184. (CCF A类中文期刊, EI, 被中国密码学会通讯报道) <u><a href="/uploads/2/0/3/6/20366987/ee2015.pdf">pdf</a></u> <br><br>
-汪定, 王平*, 李增鹏, 马春光. 可证明安全的基于RSA的远程用户口令认证协议. <strong>系统工程理论与实践,</strong> 2015, 35(1): 191-204. (国家一级学报，EI) <u><a href="/uploads/2/0/3/6/20366987/system_engineering.pdf">pdf</a></u><br><br>
-薛峰, 汪定*, 曹品军, 李勇. 对两个传感器环境下远程用户口令认证协议的安全性分析. <strong>计算机应用</strong>, 2015, 35(12): 3424-3428+3436.<br><br>
-汪定, 马春光, 翁臣, 贾春福. 一种适于受限资源环境的远程用户认证方案的分析与改进. <strong>电子与信息学报,</strong> 2012, 34(10): 2520-2526 (国家一级学报, EI收录) <u><a href="/uploads/2/0/3/6/20366987/electronic_information2012.pdf">pdf</a></u><br><br>
-汪定, 薛峰, 王立萍, 马春光. 改进的具有PFS特性的口令认证密钥协商方案. <strong>山东大学学报 </strong>(理学版), 47(9): 19-25. (中文核心) <u><a href="/uploads/2/0/3/6/20366987/jsd2012.pdf">pdf</a></u><br><br>
-汪定, 马春光, 张启明. 一种强口令认证协议的攻击与改进. <strong>计算机科学,</strong> 2012, 39(6): 72-76 (中文核心). <u><a href="/uploads/2/0/3/6/20366987/cjcs2012.pdf">pdf</a></u><br><br>
-汪定, 马春光, 翁臣, 贾春福. 强健安全网络中间人攻击研究. <strong>计算机应用,</strong> 2012, 32(1): 42-44, 65 (中文核心). <u><a href="/uploads/2/0/3/6/20366987/cjca2012.pdf">pdf</a></u> <br><br>
-薛峰, 汪定*, 王立萍, 马春光. 对两个基于智能卡的远程用户口令认证协议的安全性分析. <strong>计算机应用,</strong> 2012, 32(7): 221-224.<br><br>
-薛峰, 汪定*, 王立萍. 一种基于公钥认证可恢复的半脆弱水印算法. <strong>计算机安全,</strong> 2011, 4(1): 25-28.<br><br>
+Ding Wang. Data-driven Targeted Online Password Guessing. Development Report on Frontiers of Science and Technology: China Cyberspace Security. Book chapter, edited by Hai Jin, Peng Xu and Deqing Zou. China Industry and Information Technology Publishing Press, 2019, pp. 64-68. (in Chinese) <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/targeted-guessing-book-chapter.pdf">pdf</a></u><br>
+(汪定. 数据驱动的定向在线口令猜测研究. <strong>中国网络空间安全前言科技发展报告,</strong> 金海, 徐鹏, 邹德清主编. 中国工信出版社, 2019, pp. 64-68.)
+<br><br>
+Ding Wang, Wenting Li, Ping Wang. Cryptanalysis of three anonymous authentication schemes for multi-server environment. Chinese Journal of Software, 2018, 29(7): 1937-1952 (Tier-1 Chinese Journal) <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/jos18.pdf">pdf</a></u><br>
+(汪定, 李文婷, 王平. 对三个多服务器环境下匿名认证协议的分析. <strong>软件学报,</strong> 2018, 29(7): 1937-1952. (入选“<strong><span style="color:#543fad">中国精品科技期刊顶尖学术论文</span></strong>”, CCF A类中文期刊, EI))
+<br><br>
+王平, 汪定*, 黄欣沂. 口令安全研究进展. <strong>计算机研究与发展,</strong> 2016, 53(10): 2173-2188. (CCF A类中文期刊, EI) <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/crad16.pdf">pdf</a></u>
+<br><br>
+汪定, 王平, 雷鸣. 基于RSA的网关口令认证协议的分析与改进. <strong>电子学报,</strong> 2015 43(1): 176-184. (CCF A类中文期刊, EI, 被中国密码学会通讯报道) <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/ee2015.pdf">pdf</a></u>
+<br><br>
+汪定, 王平*, 李增鹏, 马春光. 可证明安全的基于RSA的远程用户口令认证协议. <strong>系统工程理论与实践,</strong> 2015, 35(1): 191-204. (国家一级学报，EI) <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/system_engineering.pdf">pdf</a></u>
+<br><br>
+薛峰, 汪定*, 曹品军, 李勇. 对两个传感器环境下远程用户口令认证协议的安全性分析. <strong>计算机应用</strong>, 2015, 35(12): 3424-3428+3436.
+<br><br>
+汪定, 马春光, 翁臣, 贾春福. 一种适于受限资源环境的远程用户认证方案的分析与改进. <strong>电子与信息学报,</strong> 2012, 34(10): 2520-2526 (国家一级学报, EI收录) <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/electronic_information2012.pdf">pdf</a></u>
+<br><br>
+汪定, 薛峰, 王立萍, 马春光. 改进的具有PFS特性的口令认证密钥协商方案. <strong>山东大学学报 </strong>(理学版), 47(9): 19-25. (中文核心) <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/jsd2012.pdf">pdf</a></u>
+<br><br>
+汪定, 马春光, 张启明. 一种强口令认证协议的攻击与改进. <strong>计算机科学,</strong> 2012, 39(6): 72-76 (中文核心). <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/cjcs2012.pdf">pdf</a></u>
+<br><br>
+汪定, 马春光, 翁臣, 贾春福. 强健安全网络中间人攻击研究. <strong>计算机应用,</strong> 2012, 32(1): 42-44, 65 (中文核心). <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/cjca2012.pdf">pdf</a></u>
+<br><br>
+薛峰, 汪定*, 王立萍, 马春光. 对两个基于智能卡的远程用户口令认证协议的安全性分析. <strong>计算机应用,</strong> 2012, 32(7): 221-224.
+<br><br>
+薛峰, 汪定*, 王立萍. 一种基于公钥认证可恢复的半脆弱水印算法. <strong>计算机安全,</strong> 2011, 4(1): 25-28.
+<br><br>
 马春光, 汪定*, 张启明. 广域涉密信息系统域间授权研究. <strong>保密科学技术,</strong> 2011, 3(11): 50-52.
 
 </div>
