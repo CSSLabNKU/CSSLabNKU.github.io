@@ -8,12 +8,13 @@ permalink: /miscellanea/
 
 # 计算机各类期刊、会议总结
 
-A. 信息安全国际学术会议讨论
- (Part of this blog is my personal opinion,  while part of it comes from http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/.   部分为个人见解，部分转自：http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/,  一介学生眼光，三五好友讨论结果，不妥不当之处难免，欢迎批评指正。 )
- 
-信息安全是一个比较复杂的主题，包括了传统的密码学、安全攻击等内容，同时又包括了大量和操作系统、网络、计算机体系结构、硬件（不仅限于计算机，包括各类计算设备，智能卡等等），甚至金融、法律相关的内容，因此，在这些领域，同样有很多顶级学术会议值得我们关注。众所周知，期刊会议的档次无法代表论文的质量，只是在一流会议中出现一流成果的可能性要大一些。很多有开创性的一流成果没有发表在一流会议上，在一流会议中也不并少见长像好看、但实际没什么意义的文章。无论如何，了解会议的大致水平和特点，对初学者还是很有用的 (The true value of this list, we hope, mainly lies in providing some preliminary guidance for NEW guys in Information Security, and particularly, for new students of our group.)。
+## A. 信息安全国际学术会议讨论
 
-首先是信息安全四大安全会议+ 三大密码会（美密，欧密，亚密）
+(Part of this blog is my personal opinion, while part of it comes from [http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/](http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/). 部分为个人见解，部分转自：[http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/](http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/),  一介学生眼光，三五好友讨论结果，不妥不当之处难免，欢迎批评指正。)
+
+<u>信息安全</u>是一个比较复杂的主题，包括了传统的密码学、安全攻击等内容，同时又包括了大量和操作系统、网络、计算机体系结构、硬件（不仅限于计算机，包括各类计算设备，智能卡等等），甚至金融、法律相关的内容，因此，在这些领域，同样有很多顶级学术会议值得我们关注。众所周知，期刊会议的档次无法代表论文的质量，只是在一流会议中出现一流成果的可能性要大一些。很多有开创性的一流成果没有发表在一流会议上，在一流会议中也不并少见长像好看、但实际没什么意义的文章。无论如何，了解会议的大致水平和特点，对初学者还是很有用的 <b>(The true value of this list, we hope, mainly lies in providing some preliminary guidance for NEW guys in Information Security, and particularly, for new students of our group.</b>)。
+
+首先是信息安全<b>四大安全会议+ 三大密码会</b>（美密，欧密，亚密）
 S&P IEEE Symposium on Security and Privacy
 每年11月截稿，第二年5月开会，永远在美国开会
 CCS ACM Conference on Computer and Communications Security
