@@ -61,7 +61,7 @@ permalink: /password-policy/
     margin: 0;
     padding: 0;
     color: #5a5a5a;
-    font-size: 32px;
+    font-size: 20px;
     font-weight: normal;
     line-height: 1;
   }
