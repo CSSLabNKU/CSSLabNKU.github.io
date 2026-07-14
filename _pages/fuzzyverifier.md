@@ -105,7 +105,7 @@ Accordingly, we can determine the <b>guessing entropy</b> [2] of POOL0 by comput
 <hr class="styled-hr" style="width:100%;"/>
 
 <br/>
-<div class="paragraph" style="text-align:left;"><strong><font color="#350df8">Experimental 1.&nbsp;</font></strong>Results from top 1 million most popular passwords of Rockyou dataset<br/>
+<div class="paragraph" style="text-align:left;"><strong><font color="#350df8">Experimental 1.&nbsp;</font>Results from top 1 million most popular passwords of Rockyou dataset</strong><br/>
 <font style="font-size:12px;">Note: Since <u>h(123456) mod 256</u> = <u>(7C4A8D09CA3762AF61E59520943DC26494F8941B) mod 256</u> = <u>27</u>, the password pool of 123456 is denoted by 27.txt</font>
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
@@ -252,9 +252,7 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 </table>
 </div></div></div>
 </td> <td class="wsite-multicol-col" style="width:0.21647143419566%; padding:0 15px;">
-<div class="wsite-spacer" style="height:50px;"></div>
 </td> <td class="wsite-multicol-col" style="width:1.1293991086812%; padding:0 15px;">
-<div class="wsite-spacer" style="height:50px;"></div>
 </td> </tr>
 </tbody>
 </table>
@@ -267,7 +265,7 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 </tbody>
 </table>
 </div></div></div>
-<h2 class="wsite-content-title" style="text-align:left;"><br/><font size="4">Guessing&nbsp;entropy computed from top 1 million most popular passwords of Rockyou dataset</font></h2>
+<h2 class="wsite-content-title" style="text-align:left;"><br/><font size="4">Guessing entropy computed from top 1 million most popular passwords of Rockyou dataset</font></h2>
 <div class="paragraph" style="text-align:left;"><font size="3"><span style="font-weight: normal;"><span style="text-align: center; line-height: 1.2;">(1) The&nbsp;<span style="line-height: 0; display: none;">﻿</span>minimum&nbsp;</span><font style="text-align: center; line-height: 1.2;"><span style="line-height: 23.33px;">password number<span style="line-height: 0; display: none;">﻿</span><font color="#fc0606">&nbsp;</font><font color="#2a2a2a">of the 256 password pools is 3739, and the&nbsp;</font>maximum<font color="#2a2a2a">&nbsp;is 4141;&nbsp;</font></span></font></span><br/><font style="font-weight: normal;">(2) The&nbsp;<span style="line-height: 0; display: none;">﻿</span>minimum guessing&nbsp;</font><font style="font-weight: normal;">expectation (entropy)</font><font style="font-weight: normal;">&nbsp;<span style="line-height: 0; display: none;">﻿</span>of the 256 password pools is&nbsp;</font><font style="font-weight: normal;">111.300</font><font style="font-weight: normal;">, and the&nbsp;<span style="line-height: 0; display: none;">﻿</span>maximum&nbsp;<span style="line-height: 0; display: none;">﻿</span>is 750.603, which </font><strong><font>fails to&nbsp;gu</font><font>arantee</font></strong><font style="font-weight: normal;"> that&nbsp;</font><span style='color: rgb(42, 42, 42); line-height: 33.33px; font-family: "Crimson Text"; font-weight: normal;'>the success probability of one online guessing attempt using password candidate in any pool by the adversary is no more than 1/1024.&nbsp;</span><br/><span style="font-weight: normal;">(3) Due to storage space constraints of this site, we only upload 10% of the password pool files.</span></font></div>
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
