@@ -112,35 +112,17 @@ Accordingly, we can determine the <b>guessing entropy</b> [2] of POOL0 by comput
 <tbody class="wsite-multicol-tbody">
 <tr class="wsite-multicol-tr">
 <td class="wsite-multicol-col" style="width:9.2672413793103%; padding:0 15px;">
-<div class="paragraph" style="text-align:left;"><strong>Rank</strong><br/><strong>(top 20)</strong><br/>1<br/>
-
-
-
-  2<br/>
-
-
-
-  3<br/>
-
-
-
-  4<br/>
-
-
-
-  5<br/>
-
-
-
-  6<br/>
-
-
-
-  7<br/>
-
-
-
-  8<br/>&nbsp;9<br/>
+<div class="paragraph" style="text-align:left;">
+<strong style="font-size:12px">Rank</strong><br/><strong style="font-size:12px">(top 20)</strong><br/>
+1<br/>
+2<br/>
+3<br/>
+4<br/>
+5<br/>
+6<br/>
+7<br/>
+8<br/>
+9<br/>
 
 
 
