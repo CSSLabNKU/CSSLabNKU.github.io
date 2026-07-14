@@ -113,7 +113,7 @@ Accordingly, we can determine the <b>guessing entropy</b> [2] of POOL0 by comput
 <tr class="wsite-multicol-tr">
 <td class="wsite-multicol-col" style="width:12%; padding:0 15px;">
 <div class="paragraph" style="text-align:left;">
-<strong><font size="2">Rank (top 20)</font></strong><br/>
+<strong><font size="2">Rank<br/>(top 20)</font></strong><br/>
 1<br/>
 2<br/>
 3<br/>
@@ -141,7 +141,7 @@ Accordingly, we can determine the <b>guessing entropy</b> [2] of POOL0 by comput
 <tbody class="wsite-multicol-tbody">
 <tr class="wsite-multicol-tr">
 <td class="wsite-multicol-col" style="width:12.857142857143%; padding:0 15px;">
-<div class="paragraph" style="text-align:justify;"><strong><font size="2">Password</font></strong><br/>
+<div class="paragraph" style="text-align:justify;"><strong><font size="2">Password</font></strong><br/><br/>
 123456<br/>
 12345<br/>
 123456789<br/>
@@ -198,7 +198,7 @@ Qwerty
 <tbody class="wsite-multicol-tbody">
 <tr class="wsite-multicol-tr">
 <td class="wsite-multicol-col" style="width:72.043010752688%; padding:0 15px;">
-<div class="paragraph" style="text-align:left;"><strong><font size="2">Hash value of the password (SHA-1)</font></strong><br/>
+<div class="paragraph" style="text-align:left;"><strong><font size="2">Hash value of the password (SHA-1)</font></strong><br/><br/>
 7C4A8D09CA3762AF61E59520943DC26494F8941B<br/>
 8CB2237D0679CA88DB6464EAC60DA96345513964<br/>
 F7C3BC1D808E04732ADF679965CCC34CA7AE3448<br/>
@@ -222,7 +222,7 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 </div>
 </td> 
 <td class="wsite-multicol-col" style="width:28%; padding:0 15px;">
-<div class="paragraph" style="text-align:left;"><strong><font size="2">Password Pool</font></strong><br/>
+<div class="paragraph" style="text-align:left;"><strong><font size="2">Password Pool</font></strong><br/><br/>
 <u>
 <a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/27.txt" style="color: rgb(30, 42, 241);" title="">27.txt</a><br/>
 <a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/100.txt" style="color: rgb(30, 42, 241);" title="">100.txt</a><br/>
@@ -269,7 +269,9 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 
 <div class="paragraph" style="text-align:left;"><strong>Guessing entropy computed from top 1 million most popular passwords of Rockyou dataset </strong></div>
 <div class="paragraph" style="text-align:left;">(1) The minimum password number of the 256 password pools is 3739, and the maximum is 4141;<br/>
-<font style="font-weight: normal;">(2) The&nbsp;<span style="line-height: 0; display: none;">﻿</span>minimum guessing&nbsp;</font><font style="font-weight: normal;">expectation (entropy)</font><font style="font-weight: normal;">&nbsp;<span style="line-height: 0; display: none;">﻿</span>of the 256 password pools is&nbsp;</font><font style="font-weight: normal;">111.300</font><font style="font-weight: normal;">, and the&nbsp;<span style="line-height: 0; display: none;">﻿</span>maximum&nbsp;<span style="line-height: 0; display: none;">﻿</span>is 750.603, which </font><strong><font>fails to&nbsp;gu</font><font>arantee</font></strong><font style="font-weight: normal;"> that&nbsp;</font><span style='color: rgb(42, 42, 42); line-height: 33.33px; font-family: "Crimson Text"; font-weight: normal;'>the success probability of one online guessing attempt using password candidate in any pool by the adversary is no more than 1/1024.&nbsp;</span><br/><span style="font-weight: normal;">(3) Due to storage space constraints of this site, we only upload 10% of the password pool files.</span></font></div>
+(2) The minimum guessing expectation (entropy) of the 256 password pools is 111.300, and the maximum is 750.603, which <b>fails to guarantee</b> that the success probability of one online guessing attempt using password candidate in any pool by the adversary is no more than 1/1024. <br/>
+(3) Due to storage space constraints of this site, we only upload 10% of the password pool files.
+</div>
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
