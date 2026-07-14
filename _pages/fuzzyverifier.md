@@ -78,7 +78,21 @@ permalink: /fuzzyverifier/
 
 <div class="fuzzyverifier-archive">
 
-<h2 class="wsite-content-title" style="text-align:left;"><font size="3">Related paper:</font><span style="font-weight:normal"><font size="3"> &nbsp;</font><font size="2">Two Birds with <font color="#2a2a2a">One Stone: T</font><font color="#2a2a2a">wo-Fact</font></font><font size="2"><font color="#2a2a2a">or Aut</font><font color="#2a2a2a">hentication&nbsp;with Security Beyond Conventional Bound </font></font><font size="2">&nbsp;&nbsp;</font><font color="#2a2a2a">&nbsp;</font><font size="2"><u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/ieeetdsc16_v11.pdf"><font color="#5848b7">M</font><font color="#6555c2">ain</font><font color="#6555c2">.pdf</font></a></u><font color="#7161d0">&nbsp; &nbsp; <a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf">&nbsp;</a></font></font><u><font size="2"><font><font color="#7161d0"><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf">Appendix.pdf</a></font></font></font></u></span></h2>
+<h2 class="wsite-content-title" style="text-align:left;">
+<font size="3">
+Related paper: 
+</font>
+<font size="2">
+Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound
+</font>
+<font size="2">
+<u>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/ieeetdsc16_v11.pdf">
+<font color="#5848b7">Main.pdf</font>
+</a>
+</u>
+  
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf">&nbsp;</a></font></font><u><font size="2"><font><font color="#7161d0"><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf">Appendix.pdf</a></font></font></font></u></span></h2>
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <hr class="styled-hr" style="width:100%;"/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
