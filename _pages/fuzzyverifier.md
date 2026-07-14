@@ -360,7 +360,11 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <hr class="styled-hr" style="width:100%;"/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
-<h2 class="wsite-content-title" style="text-align:left;"><font color="#5040ae">Experimental 2.</font>Results from the top 1 million most popular passwords of CSDN dataset<br/><font size="2" style="font-weight: normal;">(1) Theminimumpassword numberof the 256 password pools is 3756, and themaximumis 4079;<br/>(2) Theminimum guessing expectationof the 256 password pools is39.799, themaximumis 1122.18, and the majority is below 1024, which </font><font size="2">fails toguarantee</font><font size="2" style="font-weight: normal;"> thatthe success probability of one online guessing attempt using password candidate in any pool by the adversary is no more than 1/1024.<br/>(3) Due to storage space constraints of this site, we only upload 10% of the password pool files.</font></h2>
+
+<div class="paragraph" style="text-align:left;"><strong><font color="#350df8">Experimental 2. </font>Results from the top 1 million most popular passwords of CSDN dataset</strong><br/>
+(1) Theminimumpassword numberof the 256 password pools is 3756, and themaximumis 4079;<br/>
+(2) Theminimum guessing expectationof the 256 password pools is 39.799, themaximumis 1122.18, and the majority is below 1024, which fails toguarantee that the success probability of one online guessing attempt using password candidate in any pool by the adversary is no more than 1/1024.<br/>
+(3) Due to storage space constraints of this site, we only upload 10% of the password pool files.</h2>
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
