@@ -70,7 +70,7 @@ permalink: /password-policy/
     margin: 0;
     padding: 20px 0;
     color: #868686;
-    font-size: 1.1em;
+    font-size: 16px;
     line-height: 1.4;
   }
 
@@ -200,7 +200,7 @@ permalink: /password-policy/
 
     .password-policy-hero__copy h2,
     .password-policy-hero__copy h3 {
-      font-size: 26px;
+      font-size: 20px;
       line-height: 1.15;
     }
 
