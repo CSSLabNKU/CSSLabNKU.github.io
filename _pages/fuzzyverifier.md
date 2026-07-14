@@ -77,33 +77,10 @@ permalink: /fuzzyverifier/
 </figure>
 
 <div class="fuzzyverifier-archive">
-<h2 class="wsite-content-title" style="text-align:left;">
-<font size="3">
-Related paper: 
-</font>
-</h2>
-<font size="2">
-Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound
-</font>
-&nbsp;&nbsp;
-<font size="2">
-<u>
-<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/ieeetdsc16_v11.pdf">
-<font color="#5848b7">Main.pdf</font>
-</a>
-</u>
-&nbsp;&nbsp;
-<u>
-<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf">
-<font color="#5848b7">Main.pdf</font>
-</a>
-</u>
-</font>
-
-<u><font size="2"><font><font color="#7161d0"><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf"></a></font></font></font></u></span></h2>Appendix.pdf
-<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
+<h2 class="wsite-content-title" style="text-align:left;"><font size="3">Related paper: </font></h2><font size="2">Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound</font>&nbsp;&nbsp;<font size="2"><u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/ieeetdsc16_v11.pdf"><font color="#5848b7">Main.pdf</font></a></u>&nbsp;&nbsp;<u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf"><font color="#5848b7">Appendix.pdf</font></a></u></font>
 <hr class="styled-hr" style="width:100%;"/>
-<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
+
+
 <div class="paragraph" style="text-align:left;"><font size="3"><strong><font color="#350df8">Ethics considerations: &nbsp;</font></strong>Though the two password datasets (32.58 million Rockyou, 6.43 million CSDN) herein have&nbsp;&nbsp;been publicly disclosed and&nbsp;collectively used by a number of scienti&filig;c works that study passwords (see the proceedings of IEEE S&amp;P 2012,&nbsp;ACM CCS 2013,</font>&nbsp;<font size="3">ISOC NDSS 2014, etc.), this nevertheless&nbsp;creates an ethical conundrum:&nbsp; Should&nbsp; our&nbsp; research&nbsp; use&nbsp; passwords&nbsp; leaked publicly? Since this data has already been made public and is easily available, using it in our research does not increase the harm to the victims. We use these passwords (without any identifiable information such as user name, email) only for scientific use (e.g., train and test guessing algorithms to evaluate attackers' capabilities.). Furthermore, as attackers are likely to use these password sets as training sets or cracking dictionaries, our use of them to evaluate password strength implies our results are more likely to be of practical relevance to security administrators and common users.</font><br/><br/></div>
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <hr class="styled-hr" style="width:100%;"/>
