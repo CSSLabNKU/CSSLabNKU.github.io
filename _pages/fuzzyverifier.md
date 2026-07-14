@@ -113,7 +113,7 @@ Accordingly, we can determine the <b>guessing entropy</b> [2] of POOL0 by comput
 <tr class="wsite-multicol-tr">
 <td class="wsite-multicol-col" style="width:9.2672413793103%; padding:0 15px;">
 <div class="paragraph" style="text-align:left;">
-<strong style="font-size:12px">Rank</strong><br/><strong style="font-size:12px">(top 20)</strong><br/>
+<strong><font size="2">Rank</font></strong><br/><strong><font size="2">(top 20)</font></strong><br/>
 1<br/>
 2<br/>
 3<br/>
@@ -123,50 +123,18 @@ Accordingly, we can determine the <b>guessing entropy</b> [2] of POOL0 by comput
 7<br/>
 8<br/>
 9<br/>
-
-
-
-  10<br/>
-
-
-
-  11<br/>
-
-
-
-  12<br/>
-
-
-
-  13<br/>
-
-
-
-  14<br/>
-
-
-
-  15<br/>
-
-
-
-  16<br/>
-
-
-
-  17<br/>
-
-
-
-  18<br/>
-
-
-
-  19<br/>
-
-
-
-  20</div>
+10<br/>
+11<br/>
+12<br/>
+13<br/>
+14<br/>
+15<br/>
+16<br/>
+17<br/>
+18<br/>
+19<br/>
+20
+</div>
 </td> <td class="wsite-multicol-col" style="width:90.73275862069%; padding:0 15px;">
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
