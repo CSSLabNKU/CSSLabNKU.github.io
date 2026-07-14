@@ -77,7 +77,6 @@ permalink: /fuzzyverifier/
 </figure>
 
 <div class="fuzzyverifier-archive">
-
 <h2 class="wsite-content-title" style="text-align:left;">
 <font size="3">
 Related paper: 
@@ -85,14 +84,22 @@ Related paper:
 <font size="2">
 Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound
 </font>
+&nbsp;&nbsp;
 <font size="2">
 <u>
 <a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/ieeetdsc16_v11.pdf">
 <font color="#5848b7">Main.pdf</font>
 </a>
 </u>
-  
-<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf">&nbsp;</a></font></font><u><font size="2"><font><font color="#7161d0"><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf">Appendix.pdf</a></font></font></font></u></span></h2>
+&nbsp;&nbsp;
+<u>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf">
+<font color="#5848b7">Main.pdf</font>
+</a>
+</u>
+</font>
+
+<u><font size="2"><font><font color="#7161d0"><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf"></a></font></font></font></u></span></h2>Appendix.pdf
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <hr class="styled-hr" style="width:100%;"/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
