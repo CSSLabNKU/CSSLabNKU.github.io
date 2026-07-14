@@ -198,10 +198,56 @@ Qwerty
 <tbody class="wsite-multicol-tbody">
 <tr class="wsite-multicol-tr">
 <td class="wsite-multicol-col" style="width:72.043010752688%; padding:0 15px;">
-<div class="paragraph" style="text-align:left;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hash value of the password</strong><strong>&nbsp;</strong><br/><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(SHA-1)</strong><br/><span>﻿</span>7C4A8D09CA3762AF61E59520943DC26494F8941B<span>﻿</span><br/>8CB2237D0679CA88DB6464EAC60DA96345513964<br/>F7C3BC1D808E04732ADF679965CCC34CA7AE3448<br/>BE3C943B1609FFFBFC51AAD666D0A04ADF83C9D<br/>EE8D8728F435FD550F83852AABAB5234CE1DA528<br/>775BB961B81DA1CA49217A48E533C832C337154A<br/>F1CF651CE1A2191A760C0B2F161234F7958E26E4<br/>20EABE5D64B0E216796E834F52D61FD0B70332FC<br/>7C222FB2927D828AF22F592134E8932480637C0D<br/>6367C48DD193D56EA7B0BAAD25B19455E529F5EE<br/>17305A2F2AED9D58C73FB12AD27831799DE28B90<br/>7B37259E149636E3330D530CBF408F2B8C1EDA6A<br/>B03B74363BBB6EE42CE248C7A5344E92FFE76CC7<br/>AB87D24BDC7452E55738DEB5F868E1F16DEA5ACE<br/>15D834B328BB637EEEF49B6624774BDED566B659<br/>2B791F512C4F94B43153DA78FD70066BEE61D27B<br/>17B9E1C64588C7FA6419B4D29DC1F4426279BA01<br/>0B2D293306511D90B3A9F23424FB9836760018CC<br/>DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>36810ED90AA5DE17CBC1B471B999EC6B53B7C602</div>
-</td> <td class="wsite-multicol-col" style="width:27.956989247312%; padding:0 15px;">
-<div class="paragraph" style="text-align:left;"><strong>&nbsp;Password &nbsp;</strong><strong>Pool<br/><span></span></strong><br/><font><font><font><font><font><font><font><font><u><font><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/27.txt" style="color: rgb(30, 42, 241);" title=""><span style="line-height: 0; display: none;">﻿<br/><span></span></span>27.txt</a><br/><span style="line-height: 0; display: none;">﻿</span><font color="#1e2af1"><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/100.txt" title="">100.txt</a></font><span style="line-height: 0; display: none;">﻿</span><br/><font color="#1e2af1"><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/72.txt" title="">72.txt</a></font><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/157.txt" style="color: rgb(30, 42, 241);" title="">157.txt</a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/40.txt" style="color: rgb(30, 42, 241);" title="">40.txt</a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/74.txt" style="color: rgb(30, 42, 241);" title="">74.txt</a><br/><font color="#1e2af1"><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/228.txt" title="">228.txt</a></font><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/252.txt" style="color: rgb(30, 42, 241);" title="">252.txt</a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/13.txt" style="color: rgb(30, 42, 241);" title="">13.txt</a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/238.txt" style="color: rgb(30, 42, 241);" title="">238.txt</a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/144.txt" style="color: rgb(30, 42, 241);" title="">144.txt</a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/106.txt" style="color: rgb(30, 42, 241);" title="">106.txt</a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/199.txt" style="color: rgb(30, 42, 241);" title="">199.txt</a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/206.txt" style="color: rgb(30, 42, 241);" title="">206.txt</a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/88.txt" style="color: rgb(30, 42, 241);" title="">88.txt</a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/123.txt" style="color: rgb(30, 42, 241);" title="">123.txt</a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/1.txt" style="color: rgb(30, 42, 241);" title="">1.txt</a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/204.txt" style="color: rgb(30, 42, 241);" title="">204.txt</a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/64.txt" title=""><font color="#5040ae">64.txt</font></a><br/><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/2.txt" title=""><font color="#1e2af1">2.txt<span style="line-height: 0; display: none;">﻿</span></font></a><br/></font></u></font></font></font></font></font></font></font></font><br/></div>
-</td> </tr>
+<div class="paragraph" style="text-align:left;"><strong><font size="2">Hash value of the password (SHA-1)</font></strong><br/>
+7C4A8D09CA3762AF61E59520943DC26494F8941B<br/>
+8CB2237D0679CA88DB6464EAC60DA96345513964<br/>
+F7C3BC1D808E04732ADF679965CCC34CA7AE3448<br/>
+8BE3C943B1609FFFBFC51AAD666D0A04ADF83C9D<br/>
+EE8D8728F435FD550F83852AABAB5234CE1DA528<br/>
+775BB961B81DA1CA49217A48E533C832C337154A<br/>
+F1CF651CE1A2191A760C0B2F161234F7958E26E4<br/>
+20EABE5D64B0E216796E834F52D61FD0B70332FC<br/>
+7C222FB2927D828AF22F592134E8932480637C0D<br/>
+6367C48DD193D56EA7B0BAAD25B19455E529F5EE<br/>
+17305A2F2AED9D58C73FB12AD27831799DE28B90<br/>
+7B37259E149636E3330D530CBF408F2B8C1EDA6A<br/>
+B03B74363BBB6EE42CE248C7A5344E92FFE76CC7<br/>
+AB87D24BDC7452E55738DEB5F868E1F16DEA5ACE<br/>
+15D834B328BB637EEEF49B6624774BDED566B659<br/>
+2B791F512C4F94B43153DA78FD70066BEE61D27B<br/>
+17B9E1C64588C7FA6419B4D29DC1F4426279BA01<br/>
+0B2D293306511D90B3A9F23424FB9836760018CC<br/>
+DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
+36810ED90AA5DE17CBC1B471B999EC6B53B7C602
+</div>
+</td> 
+<td class="wsite-multicol-col" style="width:27.956989247312%; padding:0 15px;">
+<div class="paragraph" style="text-align:left;"><strong><font size="2">Password Pool</font></strong><br/>
+<u>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/27.txt" style="color: rgb(30, 42, 241);" title="">27.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/100.txt" style="color: rgb(30, 42, 241);" title="">100.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/72.txt" style="color: rgb(30, 42, 241);" title="">72.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/157.txt" style="color: rgb(30, 42, 241);" title="">157.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/40.txt" style="color: rgb(30, 42, 241);" title="">40.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/74.txt" style="color: rgb(30, 42, 241);" title="">74.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/228.txt" style="color: rgb(30, 42, 241);" title="">228.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/252.txt" style="color: rgb(30, 42, 241);" title="">252.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/13.txt" style="color: rgb(30, 42, 241);" title="">13.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/238.txt" style="color: rgb(30, 42, 241);" title="">238.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/144.txt" style="color: rgb(30, 42, 241);" title="">144.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/106.txt" style="color: rgb(30, 42, 241);" title="">106.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/199.txt" style="color: rgb(30, 42, 241);" title="">199.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/206.txt" style="color: rgb(30, 42, 241);" title="">206.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/88.txt" style="color: rgb(30, 42, 241);" title="">88.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/123.txt" style="color: rgb(30, 42, 241);" title="">123.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/1.txt" style="color: rgb(30, 42, 241);" title="">1.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/204.txt" style="color: rgb(30, 42, 241);" title="">204.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/64.txt" style="color: rgb(30, 42, 241);" title="">64.txt</a><br/>
+<a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/2.txt" style="color: rgb(30, 42, 241);" title="">2.txt</a><br/>
+</u>
+<br/>
+</div>
+</td></tr>
 </tbody>
 </table>
 </div></div></div>
