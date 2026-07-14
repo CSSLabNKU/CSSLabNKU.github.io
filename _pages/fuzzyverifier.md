@@ -90,7 +90,7 @@ permalink: /fuzzyverifier/
 <img src="{{ site.url }}{{ site.baseurl }}/images/1399478294.jpg" alt="Password-change problem in smart-card-based authentication and the proposed fuzzy verifier solution">
 </figure>
 
-<div class="fuzzyverifier-archive"></div>
+<div class="fuzzyverifier-archive">
 <div class="fuzzyverifier-related-paper"><strong color="#5a5a5a">Related paper:</strong> Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/ieeetdsc16_v11.pdf">Main.pdf</a></u>  <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf">Appendix.pdf</a></u>
 <hr class="styled-hr" style="width:100%;"/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div>
