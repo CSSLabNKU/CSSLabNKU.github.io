@@ -24,7 +24,7 @@ Mingming Hu, Ding Wang*, Daojun Han, Jingtao Guo, Bibo Tu*. Privacy-Preserving <
 <br><br>
 Ding Wang, Tingwei Fan, Fei Duan, Zhenduo Hou*. On the Insecurity of Internally Sampled <strong>Honeyword</strong> Schemes. IEEE Transactions on Information Forensics and Security (TIFS), 2026, Doi: 10.1109/TIFS.2026.3687032 <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/insecurity-hw-tifs26.pdf">pdf</a></u>
 <br><br>
-Zixuan Ding, Ding Wang*. HP-OTP: <strong>One-Time Password</strong> Scheme based on Hardened Password, IEEE Transactions on Dependable and Secure Computing (<strong>TDSC</strong>), 2026, 23(2): 3962-3978 <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/tdsc26-hpotp.pdf">pdf</a></u>
+Zixuan Ding, Yihe Duan, Ding Wang*. HP-OTP: <strong>One-Time Password</strong> Scheme based on Hardened Password, IEEE Transactions on Dependable and Secure Computing (<strong>TDSC</strong>), 2026, 23(2): 3962-3978 <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/tdsc26-hpotp.pdf">pdf</a></u>
 <br><br>
 Ding Wang, Tongxin Wei, Zhenduo Hou*. On the User Friendliness of <strong>Password Creation Policy Designs</strong> in the Wild, SCIENCE CHINA: Information Sciences (<strong>SCIS</strong>), 2026, 69(4), Article No.142105, pp. 1-16 <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/scis25-n1-final.pdf">pdf</a></u>
 <br><br>
