@@ -33,7 +33,7 @@ Minds are like parachutes, they only function when open. I am looking forward to
 
 <div style="clear: both;"></div>
 
-We are looking for promising <span style="color:#5848b7"><strong>Professors/ Associate Professors/ Assitant Professors/ PostDoc/ Lecturers</strong></span> and self-motivated <strong><span style="color:#5848b7">Ph.D/ Master students</span></strong> interested in the above research areas. We together do some great work and aim to <strong>make real impact</strong>! Feel free to drop me an email!
+We are looking for promising <span style="color:#5848b7"><strong>Professors/ Associate Professors/ Assistant Professors/ PostDoc/ Lecturers</strong></span> and self-motivated <strong><span style="color:#5848b7">Ph.D/ Master students</span></strong> interested in the above research areas. We together do some great work and aim to <strong>make real impact</strong>! Feel free to drop me an email!
 
 <strong><span style="font-size:24px;">Research Funding:</span></strong> Our work is supported by NSF of China, State Key Lab of Cryptography, and National Key R&D Plan.<br>
 (13) NSF of China, Excellent Young Scientists Program, "<span style="color:#5040ae"><strong>Secret Key Security</strong></span>" (2023.01~2025.12);<br>
@@ -69,11 +69,11 @@ Fei Duan, Ding Wang*, Chunfu Jia. A Security Analysis of <strong>Honey Vaults</
 (Full paper, winter circle acceptance rate: 70/601=11.6%) <br><br>
 
 Ding Wang*, Yunkai Zou, Yuan-An Xiao, Siqi Ma, Xiaofeng Chen. <strong>Pass2Edit</strong>: A Multi-Step Generative Model for Guessing Edited Passwords. Proc. of 32nd USENIX Security Symposium (<strong><span style="color:#5040ae">USENIX Security 2023</span></strong>). pp.983-1000. <u><a href="https://www.youtube.com/watch?v=VZFe2eNLBvw">video</a></u> <a href="{{ site.url }}{{ site.baseurl }}/uploads/home/usenix23-n2-v4.pdf"><u>pdf</u></a><br>
-(Covered by medias like<u><strong><a href="https://www.wsj.com/articles/annoying-password-rules-actually-make-us-less-secure-a05edb70?st=l8mu03xindegd5k&amp;mod=e2tw"><span style="color:#5040ae"> the Wall Street Journal</span></a></strong></u>, <a href="https://www.itmedia.co.jp/news/articles/2309/21/news014.html">ITmedia</a>, <a href="https://internet.watch.impress.co.jp/docs/yajiuma/1536817.html">Impress</a>, <a href="https://www.nikkei.com/article/DGXZQOUC052ZY0V01C23A0000000/">Nikkei</a>, Zaikei, <a href="https://www.zaikei.co.jp/article/20231011/741156.html">)</a><br><br>
+(Covered by medias like<u><strong><a href="https://www.wsj.com/articles/annoying-password-rules-actually-make-us-less-secure-a05edb70?st=l8mu03xindegd5k&amp;mod=e2tw"><span style="color:#5040ae"> the Wall Street Journal</span></a></strong></u>, <a href="https://www.itmedia.co.jp/news/articles/2309/21/news014.html">ITmedia</a>, <a href="https://internet.watch.impress.co.jp/docs/yajiuma/1536817.html">Impress</a>, <a href="https://www.nikkei.com/article/DGXZQOUC052ZY0V01C23A0000000/">Nikkei</a>, <a href="https://www.zaikei.co.jp/article/20231011/741156.html">Zaikei</a>)<br><br>
 
 Ding Wang*, Yunkai Zou, Qiying Dong, Yuanming Song, Xinyi Huang. <strong>How to Attack and Generate Honeywords</strong>. Proceedings of the 43rd IEEE Symposium on Security and Privacy (<span style="color:#5040ae"><strong>IEEE S&P 2022</strong></span>), pp. 489-506, Doi: <a href="https://doi.ieeecomputersociety.org/10.1109/SP46214.2022.00029">10.1109/SP46214.2022.00029</a> <a href="{{ site.url }}{{ site.baseurl }}/uploads/home/sp22n1-wd6.pdf"><u>pdf</u></a><br><br>
 
-Qingxuan Wang, Ding Wang*, Chi Cheng, Debiao He. <strong>Quantum2FA</strong>: Efficient Quantum-Resistant Two-Factor Authentication Scheme for Mobile Devices, <strong>IEEE Transactions on Dependable and Secure Computing</strong>, 2023, 20(1): 193-208 (<span style="color:#5040ae">ESI highly cited paper</span>) <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/tdsc21-n1-final.pdf">pdf</a></u><br><br>
+Qingxuan Wang, Ding Wang*, Chi Cheng, Debiao He. <strong>Quantum2FA</strong>: Efficient Quantum-Resistant Two-Factor Authentication Scheme for Mobile Devices, <strong>IEEE Transactions on Dependable and Secure Computing</strong>, 2023, 20(1): 193-208 (<span style="color:#5040ae">ESI highly cited paper</span>) <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/tdsc21-wd1-v2.pdf">pdf</a></u><br><br>
 
 Zengpeng Li, Ding Wang*, and Eduardo Morais. <strong>Quantum-Safe Round-Optimal Password Authentication</strong> for Mobile Devices. <strong>IEEE Trans. on Dependable and Secure Computing</strong>, 2022, 19(3): 1885-1899 (<span style="color:#5040ae">ESI highly cited paper</span>) <a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ieee-tdsc-2020n44.pdf"><u>pdf</u> </a><br><br>
 
@@ -86,12 +86,12 @@ Ding Wang, Haibo Cheng, Ping Wang, Jeff Yan, Xinyi Huang. <strong>A Security Ana
 Ding Wang, Haibo Cheng, Ping Wang, Xinyi Huang, Gaopeng Jian. <strong>Zipf’s Law in Passwords</strong>. IEEE Transactions on Information Forensics and Security (<strong>IEEE TIFS</strong>), 2017, 12(11): 2776-2791. <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/cdf-zipf_fitting.rar">codes</a></u> <u> <a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ieeetifs17_final.pdf">pdf</a></u><br>
 (300+ citations, ESI Highly Cited Paper; Our <a href="{{ site.url }}{{ site.baseurl }}/uploads/home/passwordzipf_v8.pdf">models</a> have been<strong><span style="color:#5040ae"> adopted</span></strong> <strong><span style="color:#5040ae">into over <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/papers-that-adopt-our-cdf-zipf-law-v5.txt">120 studies</a></u></span> </strong>worldwide such as <a href="http://infoscience.epfl.ch/record/206772/files/IEEE_SP2015_GenoGuard.pdf"><span style="color:#a1a1a1">GenoGuard</span> (IEEE S&P'15) by EPFL researchers</a>, <a href="https://www.cs.purdue.edu/homes/jblocki/papers/SP18EconomicsOfOfflinePasswordCracking.pdf"><span style="color:#818181">Password economics (IEEE S&amp;P'18) by Purdue researchers</span></a>, and <a href="{{ site.url }}{{ site.baseurl }}/uploads/home/why_botnets_work2.pdf"><span style="color:#818181">Distributed guessing</span></a> (IEEE TIFS'19) by MIT researchers)<br><br>
 
-Ding Wang, Zijian Zhang, Ping Wang, Jeff Yan, Xinyi Huang. <strong>Targeted Online Password Guessing</strong>: An Underestimated Threat. Proc. the 23nd ACM Conference on Computer and Communications Security (<strong>ACM CCS 2016</strong>), pp. 1242–1254. Oct 24, 2016 - Oct 28, 2016, Vienna, Austria. (Full paper, acceptance rate: 137/831=16.4%) <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ccs16(1_hour_ding_wang).ppt">slides</a></u> <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ccs16_final_v12.pdf">pdf</a></u><br>
+Ding Wang, Zijian Zhang, Ping Wang, Jeff Yan, Xinyi Huang. <strong>Targeted Online Password Guessing</strong>: An Underestimated Threat. Proc. the 23rd ACM Conference on Computer and Communications Security (<strong>ACM CCS 2016</strong>), pp. 1242–1254. Oct 24, 2016 - Oct 28, 2016, Vienna, Austria. (Full paper, acceptance rate: 137/831=16.4%) <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ccs16 (1_hour_ding_wang).ppt">slides</a></u> <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ccs16_final_v12.pdf">pdf</a></u><br>
 (300+ citations; Part of <strong>US <a href="https://pages.nist.gov/800-63-3/sp800-63b.html">NIST SP800-63-3 standard</a> has been revised</strong> on <a href="{{ site.url }}{{ site.baseurl }}/uploads/home/nist800-63-3revised.png"><span style="color:#a1a1a1">Sep., 2016</span></a> according to our results. Covered by <strong><span style="color:#5040ae">200+ medias </span></strong>like <a href="http://www.dailymail.co.uk/sciencetech/article-3907088/The-secret-password-using-Password-Researchers- warn-internet-users-making-easy-hackers-access-accounts.html"><span style="color:#a1a1a1">Dailmail</span></a>, <a href="http://www.forbes.com/sites/leemathews/2016/11/10/100-guesses-is-enough-to-crack-your-password/#1f7e61c7e981"><span style="color:#a1a1a1">Forbes</span></a>, <a href="https://nakedsecurity.sophos.com/2016/11/09/would-your-password-withstand-100-guesses-from-a-hacker/"><span style="color:#a1a1a1">Naked security</span></a>, <a href="https://www.sciencedaily.com/releases/2016/11/161107112626.htm"><span style="color:#a1a1a1">Science Daily</span></a>, <a href="http://cacm.acm.org/news/209702-online-password-guessing-threat-underestimated/fulltext"><span style="color:#a1a1a1">CACM</span></a>, <a href="https://blogs.technet.microsoft.com/germany/2016/11/28/so-lassen-sich-passwoerter-in-ueber-75-prozent-aller-faelle-knacken/"><span style="color:#a1a1a1">Microsoft</span></a>, <a href="https://www.thesun.co.uk/living/2121992/these-are-the-most-common-and-easiest-to-hack-passwords-is-yours-on-the-list/"><span style="color:#a1a1a1">theSun</span></a>, <a href="http://www.alphr.com/science/1004706/this-algorithm-can-probably-guess-your-password"><span style="color:#a1a1a1">Alphr</span></a><span style="color:#a1a1a1">, <a href="https://www.scmagazine.com/guessing-passwords-of-targeted-users-easier-than-you-think-warn-researchers/article/571602/">SCMagazine</a></span>)<br><br>
 
 Ding Wang, Debiao He, Haibo Cheng, Ping Wang. <strong>fuzzyPSM: A New Password Strength Meter</strong> Using Fuzzy Probabilistic Context-Free Grammars. Proc. of the 46th IEEE/IFIP International Conference on Dependable Systems and Networks (<strong>IEEE/IFIP DSN 2016</strong>), pp.595-606. June 28-July 01, France. (Full paper, acceptance rate: 53/259=20.4%) <a href="https://github.com/NKUSec/fuzzyPSM"><u>Github</u></a> <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/fuzzypsm_dsn16.pptx">slides</a></u> <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/dsn16v9.pdf">pdf</a></u> (At <a href="https://www.ei.ruhr-uni-bochum.de/media/mobsec/veroeffentlichungen/2018/09/10/ccsf285-finalv2.pdf">ACM CCS'18, Golla and Durmuth</a> showed that our fuzzyPSM <a href="{{ site.url }}{{ site.baseurl }}/uploads/home/gollaccs18.png"><strong><span style="color:#5040ae">performs the best</span> </strong>among 45 password strength meters</a> (81 variants), against both online guessing and offline guessing) <br><br>
 
-Ding Wang, Debiao He, Ping Wang, Chao-Hsien Chu. <strong>Anonymous Two-Factor Authentication in Distributed Systems</strong>: Certain Goals Are Beyond Attainment. <strong>IEEE Trans. on Dependable and Secure Computing</strong>, 2015, 12(4): 228-442. <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/tdsc15.pdf">pdf</a></u> (300+ citations, the 2nd<a href="{{ site.url }}{{ site.baseurl }}/uploads/home/tdsc15andtdsc18.jpg"> <strong><span style="color:#5848b7">most cited article</span></strong></a> <a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=nNidswR17bwJ.2019"><span style="color:#a1a1a1">since 2014</span></a> of IEEE TDSC, <a href="http://ipscience-help.thomsonreuters.com/incitesLiveESI/ESIGroup/citationThresholds/thresholdHighlyCited.html"><span style="color:#a1a1a1">ESI highly cited paper</span></a>,<a href="http://ipscience-help.thomsonreuters.com/incitesLiveESI/ESIGroup/citationThresholds/thresholdHot.html"> <span style="color:#818181">ESI hotspot paper (top 0.1%)</span></a>; A number of <a href="http://dx.plos.org/10.1371/journal.pone.0116709"><span style="color:#a1a1a1">following works</span></a> write that this paper makes a "<strong><a href="https://ieeexplore.ieee.org/abstract/document/8341758/"><span style="color:#5040ae">crucial observation</span></a></strong>", an "<strong><a href="https://ieeexplore.ieee.org/abstract/document/8334302/"><span style="color:#5040ae">interesting observation</span></a></strong>", an "<strong><a href="https://ieeexplore.ieee.org/abstract/document/8754672/"><span style="color:#5040ae">important </span><span style="color:#5848b7">observation</span></a>", </strong>and "<strong><a href="http://downloads.hindawi.com/journals/wcmc/2018/3284324.pdf"><span style="color:#5040ae">a big breakthough</span></a></strong>")<br><br>
+Ding Wang, Debiao He, Ping Wang, Chao-Hsien Chu. <strong>Anonymous Two-Factor Authentication in Distributed Systems</strong>: Certain Goals Are Beyond Attainment. <strong>IEEE Trans. on Dependable and Secure Computing</strong>, 2015, 12(4): 428-442. <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/tdsc15.pdf">pdf</a></u> (300+ citations, the 2nd<a href="{{ site.url }}{{ site.baseurl }}/uploads/home/tdsc15andtdsc18.jpg"> <strong><span style="color:#5848b7">most cited article</span></strong></a> <a href="https://scholar.google.com/citations?hl=en&amp;view_op=list_hcore&amp;venue=nNidswR17bwJ.2019"><span style="color:#a1a1a1">since 2014</span></a> of IEEE TDSC, <a href="http://ipscience-help.thomsonreuters.com/incitesLiveESI/ESIGroup/citationThresholds/thresholdHighlyCited.html"><span style="color:#a1a1a1">ESI highly cited paper</span></a>,<a href="http://ipscience-help.thomsonreuters.com/incitesLiveESI/ESIGroup/citationThresholds/thresholdHot.html"> <span style="color:#818181">ESI hotspot paper (top 0.1%)</span></a>; A number of <a href="http://dx.plos.org/10.1371/journal.pone.0116709"><span style="color:#a1a1a1">following works</span></a> write that this paper makes a "<strong><a href="https://ieeexplore.ieee.org/abstract/document/8341758/"><span style="color:#5040ae">crucial observation</span></a></strong>", an "<strong><a href="https://ieeexplore.ieee.org/abstract/document/8334302/"><span style="color:#5040ae">interesting observation</span></a></strong>", an "<strong><a href="https://ieeexplore.ieee.org/abstract/document/8754672/"><span style="color:#5040ae">important </span><span style="color:#5848b7">observation</span></a>", </strong>and "<strong><a href="http://downloads.hindawi.com/journals/wcmc/2018/3284324.pdf"><span style="color:#5040ae">a big breakthrough</span></a></strong>")<br><br>
 
 Ding Wang, Ping Wang. <strong>On the Anonymity of Two-Factor Authentication Schemes for Wireless Sensor Networks: Attacks, Principle and Solution</strong>s. <em>Elsevier </em>Computer Networks, 2014(73): 41–57. <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/comnet2014.pdf">pdf</a></u><br>
 (180+ Citations; This work investigates the inherent cryptographic complexity of designing a two-factor authentication scheme with user anonymity, and formally proves an impossibility result. A number of <a href="http://dx.plos.org/10.1371/journal.pone.0116709"><span style="color:#a1a1a1">following works</span></a> write that our result is "somewhat <strong><span style="color:#5040ae">surprising</span></strong>" and "<strong><span style="color:#5040ae">an important finding</span></strong>"; Also honored to appear in the Elsevier 2017 list of "<a href="{{ site.url }}{{ site.baseurl }}/uploads/home/comnet14selection.png"><span style="color:#818181">Article Selection Celebrating Computer Science Research in China</span></a>";) <br>
@@ -116,7 +116,7 @@ Ding Wang, Ping Wang. <strong>On the Anonymity of Two-Factor Authentication Sc
 2022 NSF of China Excellent Young Scientists Program (国家优青资助);<br>
 2022 <strong><span style="color:#5040ae">Highly Cited Chinese Researchers</span></strong> by <a href="https://news.sciencenet.cn/htmlnews/2022/4/477220.shtm"><span style="color:#a1a1a1">Elsevier</span></a> (爱思唯尔"中国高被引学者"); <br>
 2022 <strong><span style="color:#5040ae">World's Top 2% Scientists of 2022 </span></strong>by <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3"><span style="color:#818181">Elsevier Mendeley </span></a><a href="https://data.mendeley.com/datasets/btchxktzyw/2">& </a> John P.A. Ioannidis at <a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4"><span style="color:#818181">Stanford Uni. </span></a> (全球前2%科学家); <br>
-2021 Frontrunner 5000 --<span style="color:#a1a1a1"><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/elsevier_outstanding_reviewer_certificate_2015.pdf">Top Article</a></span> in Outstanding S&T Journals of China (领跑者5000-中国精品科技期刊顶尖学术论文); <br>
+2021 Frontrunner 5000 --<span style="color:#a1a1a1"><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/软件学报2018论文入选领跑者5000中国精品科技期刊顶尖论文.pdf">Top Article</a></span> in Outstanding S&T Journals of China (领跑者5000-中国精品科技期刊顶尖学术论文); <br>
 2021 <strong><span style="color:#5040ae">Outstanding Youth Award</span></strong> of China Association for Cryptologic Research (中国密码学会优秀青年奖);<br>
 2021 The First Prize of Outstanding papers at 12th National Cryptography and Security Teaching Symposium(第十二届全国密码学与信息安全教学研讨会优秀论文一等奖); <br>
 2021 <strong><span style="color:#5040ae">Highly Cited Chinese Researchers</span></strong> by <a href="https://www.elsevier.com/zh-cn/solutions/scopus/most-cited"><span style="color:#a1a1a1">Elsevier</span></a> (爱思唯尔"中国高被引学者"); <br>
@@ -144,7 +144,7 @@ Ding Wang, Ping Wang. <strong>On the Anonymity of Two-Factor Authentication Sc
 2017 <a href="{{ site.url }}{{ site.baseurl }}/uploads/home/certificate_cose.pdf"><span style="color:#818181">Outstanding Reviewer Award</span></a> for Computer & Security Journal ; <br>
 2017 <strong>Outstanding Graduates</strong> of Peking University (北京大学优秀毕业生);<br>
 2017 <a href="{{ site.url }}{{ site.baseurl }}/uploads/home/certificate_jisa.pdf"><span style="color:#818181">Outstanding Reviewer Award</span></a> for Journal of Information and Security Applications ; <br>
-2017 <a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ieee_systems_journal_2014.pdf">Our </a><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/tdsc15.pdf"><span style="color:#818181">IEEE TDSC'15 paper</span></a> selected as <strong>ESI Hot Paper</strong> (150+ citations, the <strong><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ieeetdsc15_top2.png"><span style="color:#5848b7">most cited article</span></a></strong><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ieeetdsc15_top2.png"> <span style="color:#a1a1a1">since 201</span></a>4<a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ieeetdsc15_top2.png"> of IEEE TDSC</a>); <br>
+2017 <a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ieee_systems_journal_2014.pdf">Our </a><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/tdsc15.pdf"><span style="color:#818181">IEEE TDSC'15 paper</span></a> selected as <strong>ESI Hot Paper</strong> (150+ citations, the <strong><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ieeetdsc15_top2.png"><span style="color:#5848b7">most cited article</span></a></strong><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ieeetdsc15_top2.png"> <span style="color:#a1a1a1">since 2014</span></a><a href="{{ site.url }}{{ site.baseurl }}/uploads/home/ieeetdsc15_top2.png"> of IEEE TDSC</a>); <br>
 2016 <strong><span style="color:#5040ae">Person of the Year 2016</span></strong>, Peking University (<a href="http://pkunews.pku.edu.cn/xwzh/2016-12/26/content_296325.htm">北京大学学生年度人物</a>, 10 recipients out of 45,000+ PKU students); <br>
 2016 <strong>BoYa Postdoc Fellowship</strong> of Peking University (the only one recipient in School of EECS);<br>
 2016 <strong>Qualcomm PhD Fellowship</strong> for outstanding academic achievements ($6,000); <br>
@@ -215,8 +215,8 @@ Human-centric Computing and Information Sciences (<a href="https://hcis-journal.
 <a href="https://benthamopen.com/TOCSJ/indexing-agencies/">The Open Cybernetics & Systemics Journal</a><span style="color:#868686">; <br>
 <a href="https://benthamscience.com/journals/current-chinese-computer-science/editorial-board/">C</a></span><a href="https://benthamscience.com/journals/current-chinese-computer-science/editorial-board/">urrent Chinese Computer Science</a><a href="https://benthamscience.com/journals/current-chinese-computer-science/editorial-board/"><span style="color:#868686"> Journal;</span></a> <br>
 <a href="http://airccse.org/journal/ijans/ijans.html"><span style="color:#222222">International Journal on AdHoc Networking Systems </span></a>; <br>
-<a href="http://www.jsjkx.com/EN/1002-137X/home.shtml">Chinese Journal of Computer Science</a> (<a href="{{ site.url }}{{ site.baseurl }}/uploads/home/20366987/jcs_editor.jpg"><span style="color:#818181">《计算机科学》</span></a>杂志, 中文核心期刊，CSCD核心期刊, CCF Rank B); <br>
-<a href="http://www.jsjkx.com/EN/1002-137X/home.shtml">Chinese Journal of Computer </a>Engineering(<a href="{{ site.url }}{{ site.baseurl }}/uploads/home/jcs_editor.jpg"><span style="color:#818181">《计算机工程》</span></a>杂志, 中文核心期刊，CSCD核心期刊, CCF Rank C); <br>
+<a href="http://www.jsjkx.com/EN/1002-137X/home.shtml">Chinese Journal of Computer Science</a> (<a href="{{ site.url }}{{ site.baseurl }}/uploads/home/jcs_editor.jpg"><span style="color:#818181">《计算机科学》</span></a>杂志, 中文核心期刊，CSCD核心期刊, CCF Rank B); <br>
+<a href="http://www.jsjkx.com/EN/1002-137X/home.shtml">Chinese Journal of Computer Engineering</a>(<a href="{{ site.url }}{{ site.baseurl }}/uploads/home/jcs_editor.jpg"><span style="color:#818181">《计算机工程》</span></a>杂志, 中文核心期刊，CSCD核心期刊, CCF Rank C); <br>
 <a href="https://oaepublish.com/index.php/jsss">Journal of Surveillance, Security and Safety</a>; <br>
 <a href="https://www.ccf.org.cn/dl/technews/jsdtd285q/">Chinese Computer Federation Digital </a>(CCF《技术动态》);<br>
 Journal of Electronics & Information Technology (《电子与信息学报》中文核心期刊，EI 期刊, CCF Rank B); <br>
@@ -236,7 +236,7 @@ Security and Communications Networks - Special Issue on <u><a href="https://ww
 <a href="https://www.hindawi.com/journals/wcmc/">Wireless Communications and Mobile Computing</a> - Special Issue on <u><a href="http://downloads.hindawi.com/journals/wcmc/si/290867.pdf">Rethinking Authentication on Smart Mobile Devices</a></u> , S<strong>ubmission DDL: August</strong><strong> 24th, 2020</strong>; CCF Rank C Open for papers!<br>
 (At Dec 2019, Our WCMC Special Issue (2018) was selected by the Publishers as <strong>an Annual Issue</strong>, and I am honored to be invited to launch another special issue with the same topic in Q1 2020. )<br>
 <br>
-<a href="https://www.hindawi.com/journals/wcmc/">Wireless Communications and Mobile Computing</a> - <u><a href="https://www.hindawi.com/journals/wcmc/si/509405/">Special Issue on Security and Privacy in New Computing </a> </u><u><a href="https://www.springer.com/journal/11036">Environments</a></u>; Submission DDL: July 31th, 2020; CCF Rank C <br>
+<a href="https://www.hindawi.com/journals/wcmc/">Wireless Communications and Mobile Computing</a> - <u><a href="https://www.hindawi.com/journals/wcmc/si/509405/">Special Issue on Security and Privacy in New Computing </a> </u><u><a href="https://www.springer.com/journal/11036">Environments</a></u>; Submission DDL: July 31st, 2020; CCF Rank C <br>
 <br>
 Mobile Networks and Applications - <u><a href="https://www.springer.com/journal/11036">Special Issue on Security and Privacy in New Computing </a> </u><u><a href="https://www.springer.com/journal/11036">Environments</a></u>; Submission DDL: August 24th, 2020; Dedicated to the SPNCE 2020 conference; CCF Rank C <br>
 <br>
@@ -253,7 +253,7 @@ Journal of Cryptologic Research -<a href="https://dspp2025.xidian.edu.cn/">Spec
 <strong><span style="color:#5040ae">Program Chair:</span></strong><br>
 3rd International Conference on Data Security and Privacy Protection (<u><strong>DSPP 2025</strong></u>)，16-18 Oct 2025，Xi'an, China.<br>
 <a href="https://dspp2025.xidian.edu.cn/">https://dspp2025.xidian.edu.cn/</a><br>
-25th International Conference on Information and Communications Security (<strong><u><a href="https://icics23.nankai.edu.cn/"><span style="color:#5848b7">ICICS 202</span>3</a></u></strong>), CCF Rank C. Nov 18-20, Tianjin, Nankai University. DDL: March 30th, 2023. <a href="https://icics23.nankai.edu.cn/"><u>https://icics23.nankai.edu.cn/</u> </a> <br>
+25th International Conference on Information and Communications Security (<strong><u><a href="https://icics23.nankai.edu.cn/"><span style="color:#5848b7">ICICS 2023</span></a></u></strong>), CCF Rank C. Nov 18-20, Tianjin, Nankai University. DDL: March 30th, 2023. <a href="https://icics23.nankai.edu.cn/"><u>https://icics23.nankai.edu.cn/</u> </a> <br>
 5th EAI Int. Conf. on Security and Privacy in New Computing Environments (<u><a href="http://spnce.org/2022/">SPNCE 2022</a></u>), September 21-22, Xi'an. DDL: May 2nd, 2022 ; <br>
 4th EAI Int. Conf. on Security and Privacy in New Computing Environments (<u><a href="http://spnce.org/2021/">SPNCE 2021</a></u>), August 21-22, Qinghuangdao. DDL: April 2nd, 2021 ; <br>
 4th International Conference on Frontiers in Cyber Security (<u><a href="http://www.icfcs.com.cn/fcs2021/">FCS 2021</a></u>), Dec 17-19, Haikou. DDL: August 20th, 2021 ; <br>
@@ -285,7 +285,7 @@ Publication Chair: <br>
 <strong>Special Issue Co-Chair:</strong><br>
 15th International Conference on Network and System Security (<u><a href="http://nsclab.org/nss2021/">NSS 2021</a></u>). <br><br>
 <span style="color:#5040ae">AEC member:</span><br>
-31th USENIX Security 2022 Artifact Evaluation Committee (<a href="https://www.usenix.org/conference/usenixsecurity22/call-for-artifacts"><u>USENIX Security 2022</u> </a>), CCF Rank A.<br>
+31st USENIX Security 2022 Artifact Evaluation Committee (<a href="https://www.usenix.org/conference/usenixsecurity22/call-for-artifacts"><u>USENIX Security 2022</u> </a>), CCF Rank A.<br>
 29th USENIX Security Artifact Evaluation Committee (<a href="https://www.usenix.org/conference/usenixsecurity20/call-for-artifacts"><u>USENIX Security 2020</u> </a>), CCF Rank A.<br>
 38th Annual Computer Security Applications Conference (<u><a href="https://www.acsac.org/">ACSAC 2022</a></u>), CCF Rank B.<br>
 36th Annual Computer Security Applications Conference (<u><a href="https://www.acsac.org/">ACSAC 2020</a></u>), CCF Rank B.<br>
@@ -298,13 +298,13 @@ Publication Chair: <br>
 41st IFIP International Information Security and Privacy Conference<u><a href="https://sec2020.um.si/">(<strong>IFIP SEC 2026</strong></a></u>), CCF Rank C. <br>
 28th International Conference on Information and Communications Security (<strong><u><a href="https://sulab-sever.u-aizu.ac.jp/icics2026/">ICICS 2026</a></u></strong>), CCF Rank C.<br>
 23th EAI International Conference on Security and Privacy in Communication Networks (<strong><u><a href="https://securecomm.eai-conferences.org/2026/">SecureComm 2026</a></u></strong>) , CCF Rank C.<br>
-31th Network and Distributed System Security Symposium (<strong><u><a href="https://www.ndss-symposium.org/ndss2025">NDSS 2025</a></u></strong>), CCF A.<br>
+31st Network and Distributed System Security Symposium (<strong><u><a href="https://www.ndss-symposium.org/ndss2025">NDSS 2025</a></u></strong>), CCF A.<br>
 10th IEEE European Symposium on Security and Privacy (<u><strong><a href="https://eurosp2025.ieee-security.org/">IEEE EuroS&P</a></strong></u><u><strong><strong><u><a href="https://eurosp2025.ieee-security.org/"> 2025</a></u></strong></strong></u>), CCF C.<br>
 20th ACM ASIA Conference on Computer and Communications Security (<strong><u><a href="https://asiaccs2025.hust.edu.vn/call-for-papers/">ACM ASIACCS 2025</a></u></strong>), CCF Rank C, CACR Rank B;<br>
 29th International Conference on Financial Cryptography and Data Security (<strong><u><a href="https://fc25.ifca.ai/">FC 2025</a></u></strong>), CCF Rank C, CACR Rank B;<br>
 30th Australasian Conference on Information Security and Privacy (<u><strong><a href="https://uow-ic2.github.io/acisp2025/cfp.html">ACISP 2025</a></strong></u>), CCF Rank C, CACR Rank C;<br>
 22th EAI International Conference on Security and Privacy in Communication Networks (<strong><u><a href="https://securecomm.eai-conferences.org/2025/">SecureComm 2025</a></u></strong>) , CCF Rank C.<br>
-21th EAI International Conference on Security and Privacy in Communication Networks (<strong><u><a href="https://securecomm.eai-conferences.org/2025/">SecureComm 2024</a></u></strong>) , CCF Rank C.<br>
+21st EAI International Conference on Security and Privacy in Communication Networks (<strong><u><a href="https://securecomm.eai-conferences.org/2025/">SecureComm 2024</a></u></strong>) , CCF Rank C.<br>
 40th IFIP International Information Security and Privacy Conference<u><a href="https://sec2020.um.si/">(<strong>IFIP SEC 2025</strong></a></u>), CCF Rank C. <br>
 27th International Conference on Information and Communications Security (<strong><u><a href="https://www.icics2025.org/">ICICS 2025</a></u></strong>), CCF Rank C.<br>
 22nd Annual International Conference on Privacy, Security, and Trust (<strong><u><a href="https://pstnet.ca/pst2025/organizers.html">PST2025</a></u></strong>).<br>
@@ -318,9 +318,9 @@ Publication Chair: <br>
 26th International Symposium on Research in Attacks, Intrusions and Defenses (<strong><u><a href="https://raid2023.org/committees.html">RAID 2023</a></u></strong>), CCF B. <br>
 28th Australasian Conference on Information Security and Privacy (<u><a href="https://www.qut.edu.au/about/faculty-of-science/school-of-computer-science/acisp">ACISP 2023</a></u>) , CCF Rank C.<br>
 19th EAI International Conference on Security and Privacy in Communication Networks (<u><a href="https://securecomm.eai-conferences.org/2023/">SecureComm 2023</a></u>) , CCF Rank C.<br>
-IEEE Global Communications Conference: Communication & Info Systems Security Track (<u><a href="https://globecom2023.ieee-globecom.org/committees/technical-program-committee">GlobeCom 202</a>3</u>), CCF Rank C.<br>
+IEEE Global Communications Conference: Communication & Info Systems Security Track (<u><a href="https://globecom2023.ieee-globecom.org/committees/technical-program-committee">GlobeCom 2023</a></u>), CCF Rank C.<br>
 29th Network and Distributed System Security Symposium (<strong><u><a href="https://www.ndss-symposium.org/ndss2023/">NDSS 2023</a></u></strong>), CCF A<br>
-23nd Privacy Enhancing Technologies Symposium (<strong><u><a href="https://www.petsymposium.org/">PETS 2023</a></u></strong>), CCF C. <br>
+23rd Privacy Enhancing Technologies Symposium (<strong><u><a href="https://www.petsymposium.org/">PETS 2023</a></u></strong>), CCF C. <br>
 29th ACM Conference on Computer and Communications Security (<strong><u><a href="https://www.sigsac.org/ccs/CCS2022/call-for-papers.html">ACM CCS 2022</a></u></strong>), CCF Rank A, CACR Rank A.<br>
 38th Annual Computer Security Applications Conference (<strong><u><a href="https://www.acsac.org/">ACSAC 2022</a></u></strong>), CCF Rank B.<br>
 17th ACM ASIA Conference on Computer and Communications Security (<strong><u><a href="https://asiaccs2022.conferenceservice.jp/">ACM ASIACCS 2022</a></u></strong>), CCF Rank C, CACR Rank B;<br>
@@ -331,8 +331,8 @@ IEEE Global Communications Conference: Communication & Info Systems Security Tr
 12th EAI International Conference on Digital Forensics & Cyber Crime (<u><a href="https://icdf2c.eai-conferences.org/2022/">ICDF2C 2022</a></u>), CCF Rank C.<br>
 17th International Conference on Wireless Algorithms, Systems, and Applications (<u><a href="http://wasa-conference.org/WASA2022/committees.html">WASA 2022</a></u>), CCF Rank C.<br>
 15th International Conference on Knowledge Science, Engineering and Management (KSEM 2022), CCF Rank C;<br>
-IEEE Global Communications Conference: Communication & Info Systems Security Track (<u><a href="https://globecom2022.ieee-globecom.org/committees/technical-program-committee">GlobeCom 202</a>2</u>), CCF Rank C.<br>
-21th IEEE Int. Conf. on Trust, Security and Privacy in Computing and Communications (<u><a href="http://www.ieee-hust-ncc.org/2022/TrustCom/">IEEE TrustCom 2022</a></u>), CCF Rank C.<br>
+IEEE Global Communications Conference: Communication & Info Systems Security Track (<u><a href="https://globecom2022.ieee-globecom.org/committees/technical-program-committee">GlobeCom 2022</a></u>), CCF Rank C.<br>
+21st IEEE Int. Conf. on Trust, Security and Privacy in Computing and Communications (<u><a href="http://www.ieee-hust-ncc.org/2022/TrustCom/">IEEE TrustCom 2022</a></u>), CCF Rank C.<br>
 17th International Conference on Information Security Practice and Experience (<u><a href="https://ispec2022.ndhu.edu.tw/">ISPEC 2022</a></u>), CACR Rank C.<br>
 56th IEEE International Conference on Communications (<u><a href="https://icc2022.ieee-icc.org/">ICC 2022</a></u>), CCF Rank C.<br>
 14th International Symposium on Cyberspace Safety and Security (<u>CSS 2022</u>).<br>
@@ -341,10 +341,10 @@ IEEE Conference on Dependable and Secure Computing (<u><a href="https://attend.i
 EAI International Conference on Applied Cryptography in Computer and Communications (<u><a href="https://ac3-conference.eai-conferences.org/">EAI AC3 2022</a></u>).<br>
 8th International Symposium on Security and Privacy in Social Networks and Big Data (<u>SocialSec 2022</u>).<br>
 37th Annual Computer Security Applications Conference (<strong><u><a href="https://www.acsac.org/">ACSAC 2021</a></u></strong>), CCF Rank B.<br>
-7th Who Are You!? Adventures in Authentication (<u><a href="https://wayworkshop.org/">WAY 202</a>1</u>), Co-located with Usenix SOUPS 2021 ; <br>
+7th Who Are You!? Adventures in Authentication (<u><a href="https://wayworkshop.org/">WAY 2021</a></u>), Co-located with Usenix SOUPS 2021 ; <br>
 16th ACM ASIA Conference on Computer and Communications Security (<strong><u><a href="https://asiaccs2021.comp.polyu.edu.hk/">ACM ASIACCS 2021</a></u></strong>), CCF Rank C, CACR Rank B;<br>
 36th IFIP International Information Security and Privacy Conference<u>(IFIP SEC 2021</u>), CCF Rank C. <br>
-24th Information Security Conference (<u><a href="https://isc2019.cs.stonybrook.edu/">ISC 202</a>1</u>), CCF Rank C, CACR Rank C.<br>
+24th Information Security Conference (<u><a href="https://isc2019.cs.stonybrook.edu/">ISC 2021</a></u>), CCF Rank C, CACR Rank C.<br>
 17th EAI International Conference on Security and Privacy in Communication Networks (<u><a href="https://securecomm.eai-conferences.org/2021/">SecureComm 2021</a></u>), CCF Rank C. <br>
 23rd International Conference on Information and Communications Security (<u><a href="https://www.icics.cn/Cfp.html">ICICS 2021</a></u>), CCF Rank C.<br>
 11th EAI International Conference on Digital Forensics & Cyber Crime (<u><a href="https://icdf2c.eai-conferences.org/2021/">ICDF2C 2021</a></u>), CCF Rank C.<br>
@@ -357,34 +357,34 @@ International Conference on Algorithms and Architectures for Parallel Processing
 15th International Conference on Network and System Security (<u>NSS 2021</u>). <br>
 14th IEEE International Conference on Cloud Computing (<u><a href="https://conferences.computer.org/cloud/2021/cfp/">IEEE CLOUD 2021</a></u>).<br>
 55th IEEE International Conference on Communications (<u><a href="https://icc2021.ieee-icc.org/">ICC 2021</a></u>), CCF Rank C.<br>
-IEEE Global Communications Conference: Communication & Info Systems Security Track (<u><a href="https://globecom2021.ieee-globecom.org/committees/technical-program-committee">GlobeCom 202</a>1</u>), CCF Rank C.<br>
+IEEE Global Communications Conference: Communication & Info Systems Security Track (<u><a href="https://globecom2021.ieee-globecom.org/committees/technical-program-committee">GlobeCom 2021</a></u>), CCF Rank C.<br>
 2rd ACNS Workshop on Secure Cryptographic Implementation <u>(SCI</u><u><a href="https://sci.ittc.ku.edu/"> 2021</a></u>).<br>
 IEEE International Conference on Cyber-Security and Resilience (<u><a href="https://www.ieee-csr.org/#committee">IEEE CSR</a> 2021</u>) .<br>
 IEEE Conference on Dependable and Secure Computing (<u>IEEE DSC 2021</u>).<br>
 3rd International Workshop on Application Intelligence and Blockchain Security (<u><a href="http://aiblock2020.compute.dtu.dk/Committees.html">AIBlock 2021</a></u>).<br>
-IEEE 21th International Conference on Communication Technology (ICCT 2021).<br>
+IEEE 21st International Conference on Communication Technology (ICCT 2021).<br>
 EAI International Conference on Applied Cryptography in Computer and Communications (<u><a href="https://ac3-conference.eai-conferences.org/2021/technical-program-committee/">EAI AC3 2021</a></u>).<br>
 14th International Conference on Knowledge Science, Engineering and Management (<u>KSEM 2021</u>), CCF Rank C.<br>
-7th International Conference on Artificial Intelligence and Security (<u><a href="http://www.icaisconf.com/">ICAIS 202</a>1</u>).<br>
+7th International Conference on Artificial Intelligence and Security (<u><a href="http://www.icaisconf.com/">ICAIS 2021</a></u>).<br>
 36th Annual Computer Security Applications Conference (<strong><u><a href="https://www.acsac.org/">ACSAC 2020</a></u></strong>), CCF Rank B.<br>
 35th IFIP International Information Security and Privacy Conference<u><a href="https://sec2020.um.si">(IFIP SEC 2020</a></u>), CCF Rank C. <br>
 11th EAI International Conference on Digital Forensics & Cyber Crime (<u><a href="http://icdf2c.org/technical-program-committee/">ICDF2C 2020</a></u><u><a href="http://icdf2c.org/technical-program-committee/">)</a></u>, CCF Rank C.<br>
 8th IEEE Conference on Communications and Network Security (<u><a href="https://cns2020.ieee-cns.org/">CNS 2020</a></u>).<br>
 25th Australasian Conference on Information Security and Privacy (<u><a href="http://nsclab.org/acisp2020/">ACISP 2020</a></u>) , CCF Rank C.<br>
-16th International Conference on Information Security and Cryptology (<u><a href="https://conf.jnu.edu.cn/">Inscrypt 202</a>0</u>), CACR Rank C.<br>
+16th International Conference on Information Security and Cryptology (<u><a href="https://conf.jnu.edu.cn/">Inscrypt 2020</a></u>), CACR Rank C.<br>
 22nd International Conference on Information and Communications Security (<u><a href="https://icics2020.compute.dtu.dk/index.html">ICICS 2020</a></u>), CCF Rank C.<br>
-6th Who Are You!? Adventures in Authentication (<u><a href="https://wayworkshop.org/">WAY 202</a>0</u>), Co-located with Usenix SOUPS 2020 ; <br>
+6th Who Are You!? Adventures in Authentication (<u><a href="https://wayworkshop.org/">WAY 2020</a></u>), Co-located with Usenix SOUPS 2020 ; <br>
 15th International Conference on Information Security Practice and Experience (<u>ISPEC 2020</u>), CACR Rank C.<br>
 54th IEEE International Conference on Communications (<u><a href="https://icc2020.ieee-icc.org/">ICC 2020</a></u>), CCF Rank C.<br>
-IEEE Global Communications Conference: Communication & Info Systems Security Track (<u><a href="https://globecom2020.ieee-globecom.org/committee/technical-program-committee">GlobeCom 202</a>0</u>), CCF Rank C.<br>
+IEEE Global Communications Conference: Communication & Info Systems Security Track (<u><a href="https://globecom2020.ieee-globecom.org/committee/technical-program-committee">GlobeCom 2020</a></u>), CCF Rank C.<br>
 13th IEEE International Conference on Cloud Computing (<u><a href="https://conferences.computer.org/cloud/2020/">IEEE CLOUD 2020</a></u>).<br>
 International Conference on Algorithms and Architectures for Parallel Process (<u><a href="http://www.cloud-conf.net/ica3pp2020/">ICA3PP 2020</a></u>), CCF Rank C.<br>
-14th International Conference on Network and System Security (<u><a href="http://nsclab.org/nss2020/">NSS 202</a>0</u>). <br>
-3rd International Conference on Machine Learning for Cyber Security (<u><a href="http://nsclab.org/ml4cs2020/index.html">ML4CS 202</a>0</u>) ;<br>
+14th International Conference on Network and System Security (<u><a href="http://nsclab.org/nss2020/">NSS 2020</a></u>). <br>
+3rd International Conference on Machine Learning for Cyber Security (<u><a href="http://nsclab.org/ml4cs2020/index.html">ML4CS 2020</a></u>) ;<br>
 International Conference on Information Security and Privacy Protection (<u>ICISPP 2020</u>) .<br>
 IEEE International Conference on Cyber-Security and Resilience (<u><a href="https://www.ieee-csr.org/">IEEE CSR</a> 2020</u>) .<br>
-6th International Conference on Artificial Intelligence and Security (<u><a href="http://www.icaisconf.com/">ICAIS 202</a>0</u>).<br>
-6th International Symposium on Privacy Computing (<u><a href="https://cyber.kent.ac.uk/events/PriCom2019/submission.php">PriCom 202</a>0</u>);<br>
+6th International Conference on Artificial Intelligence and Security (<u><a href="http://www.icaisconf.com/">ICAIS 2020</a></u>).<br>
+6th International Symposium on Privacy Computing (<u><a href="https://cyber.kent.ac.uk/events/PriCom2019/submission.php">PriCom 2020</a></u>);<br>
 International Conference on IoT, Blockchain & Cloud Computing (<a href="https://nlai2020.org/ibcom/committee.html">IBCOM 2020</a>);<br>
 2nd International Workshop on Application Intelligence and Blockchain Security (<u><a href="http://aiblock2020.compute.dtu.dk/Committees.html">AIBlock 2020</a></u>).<br>
 International Conference on Blockchain and Internet of Things (<u>BIoT 2020</u>).<br>
@@ -403,7 +403,7 @@ IEEE Global Communications Conference: Communication & Info Systems Security Tr
 9th EAI International Conference on Cloud Computing <a href="http://cloudcomp.eu/">(<u>CloudComp 2019</u></a>).<br>
 13th Chinese Conference on Trusted Computing and Information Security (<u><a href="http://ctcis.whu.edu.cn/">CTCIS 2019</a></u>).<br>
 13th International Conference on Network and System Security (<u><a href="http://nsclab.org/nss2019/">NSS 2019</a></u>). <br>
-34rd ACM SIGAPP Symposium On Applied Computing (<u><a href="https://www.sigapp.org/sac/sac2019/">SAC 2019</a></u>).<br>
+34th ACM SIGAPP Symposium On Applied Computing (<u><a href="https://www.sigapp.org/sac/sac2019/">SAC 2019</a></u>).<br>
 2nd International Conference on Machine Learning for Cyber Security (<u><a href="http://ml4cs2019.xidian.edu.cn/cfp.htm">ML4CS 2019</a></u>) ;<br>
 11th International Symposium on Cyberspace Safety and Security (<u><a href="http://nsclab.org/css2019/index.html">CSS 2019</a></u>);<br>
 2019 ACM International Symposium on Blockchain and Secure Critical Infrastructure (<u><a href="http://www.cloud-conf.net/bsci/2019/index.htm/#CFP">BSCI 2019</a></u>);<br>
@@ -419,7 +419,7 @@ Second International Conference on Smart Blockchain (SmartBlcok 2019);<br>
 8th International Conference on Modeling, Simulation and Applied Optimization (<u><a href="http://icmsao.uob.edu.bh/">ICMSAO 2019</a></u>).<br>
 2nd International Cognitive Cities Conference <u>(<a href="http://iscie.org/ic3/">IC3 2019</a></u>) ;<br>
 International Workshop on Mobile Applications (MobiAPP 2019)<br>
-21th Information Security Conference (<u><a href="http://isc2018.sccs.surrey.ac.uk/">ISC 2018</a></u>), CCF Rank C, CACR Rank C.<br>
+21st Information Security Conference (<u><a href="http://isc2018.sccs.surrey.ac.uk/">ISC 2018</a></u>), CCF Rank C, CACR Rank C.<br>
 33rd IFIP International Conference on Information Security and Privacy Protection (<u><a href="http://ifipsec2018.pwr.edu.pl/index.php">IFIP SEC 2018</a></u>), CCF Rank C.<br>
 17th IEEE Int. Conf. on Trust, Security and Privacy in Computing and Communications (<u><a href="http://www.cloud-conf.net/trustcom18/index.html">IEEE TrustCom 2018</a></u>), CCF Rank C.<br>
 16th Annual Conference on Privacy, Security and Trust (<u><a href="https://pstnet.ca/pst2018/">IEEE PST 2018</a></u>).<br>
@@ -510,7 +510,7 @@ Chinese Journal of Computer;<br>
 15th International Conference on Applied Cryptography and Network Security (ACNS 2017)<br>
 19th Information Security Conference (ISC 2016)<br>
 10th International Conference on Information Security Theory and Practice (WISTP 2016) <br>
-31th IFIP International Information Security and Privacy Conference (SEC 2016)<br>
+31st IFIP International Information Security and Privacy Conference (SEC 2016)<br>
 11th ACM Symposium on Information, Computer and Communications Security (ASIACCS 2016)<br>
 30th IEEE International Conference on Advanced Information Networking and Applications (AINA 2016) <br>
 9th International Conference on Provable Security (ProvSec 2015) <br>
@@ -526,7 +526,7 @@ International Workshop on Mobile Applications (MobiAPP 2014)<br>
 IEEE Wireless Communication and Networking Conference (WCNC 2014)<br>
 
 <strong>Education</strong> and Working Experience: <br>
-2018-today, PostDoc in Information Security at <strong>Peking University.</strong> Supervised by and Cooperate with Prof. <a href="http://machunguang.hrbeu.edu.cn/">R</a>u Huang, an <span style="color:#333333">academician of the Chinese Academy of Sciences. </span><br>
+2018-today, PostDoc in Information Security at <strong>Peking University.</strong> Supervised by and Cooperate with Prof. Ru Huang, an <span style="color:#333333">academician of the Chinese Academy of Sciences. </span><br>
 2013-2017, Ph.D Degree in Information Security, Supervised by Prof. Ping Wang, <strong>Peking University. </strong>Tutor team (Prof. Chao-Hsien Chu at Pennsylvania State University, Co-director, Center for Cyber Security, Information Privacy and Trust; Prof. Zhong Chen, Prof. Maozhi Xu, and Prof. Sihan Qing at PKU)<br>
 2010-2012, Master Degree in Information Security, Supervised by Prof. <a href="http://machunguang.hrbeu.edu.cn/">Chunguang Ma</a>, <strong>Harbin Engineering University</strong>;<br>
 2008-2009, BA. in Information Engineering, Supervised by Prof. Yuango Guo, <strong>Information Engineering University;</strong><br>
