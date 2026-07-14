@@ -85,7 +85,7 @@ permalink: /researches/
 
 <article class="publication-card">
   <div class="publication-card__image">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/research/3618436.jpg" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/3618436_orig.jpg" />
   </div>
   <div class="publication-card__body">
     <p><strong>We have conducted a systematic investigation into the characteristics, distribution and security of PINs chosen by English user and Chinese users.</strong> By employing NLP techniques, we have revealed that PINs follow a Zipf distribution; By adopting both statistical metrics and state-of-the-art cracking algorithms, we have highlighted that 6-digit PINs offer marginally improved security over 4-digit PINs. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/asiaccs17_v12.pdf" target="_blank"><u>ASIACCS'17 paper</u></a>)</p>
@@ -99,7 +99,7 @@ permalink: /researches/
 
 <article class="publication-card">
   <div class="publication-card__image">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/research/8259798.jpg" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/8259798_orig.jpg" />
   </div>
   <div class="publication-card__body">
     <p><strong>In this work, we conduct an extensive empirical study of 50 password creation policies that are currently imposed on high-profile web services,</strong> including 20 policies mainly from US and 30 ones from mainland China. Our results show that the policies enforced in leading sites largely fail to serve their purposes, especially vulnerable to targeted online guessing attacks.  (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/esorics15conf0827.pdf" target="_blank"><u>ESORICS'15 paper</u></a>)</p>
@@ -145,7 +145,7 @@ permalink: /researches/
 
 <article class="publication-card">
   <div class="publication-card__image">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/research/3349556.jpg" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/3349556_orig.jpg" />
   </div>
   <div class="publication-card__body">
     <p><strong>Under the conditional non-tamper-resistance assumption of the smart cards, whether it is possible to construct a privacy-preserving two-factor authentication scheme by employing only lightweight symmetric cryptographic techniques, as most of the literature has done in the past?</strong> We give a negative answer to this question by empirically using two case studies and formally proving it in a widely accepted adversary model. (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/comnet14.pdf" target="_blank"><u>COMNET'14 paper</u></a>)</p>
@@ -154,7 +154,7 @@ permalink: /researches/
 
 <article class="publication-card">
   <div class="publication-card__image">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/research/1824974.jpg" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/1824974_orig.jpg" />
   </div>
   <div class="publication-card__body">
     <p><strong>In this work, we, for the first time, put forward three general principles that are vital for designing secure smart-card-based password authentication schemes: </strong> (i) public-key techniques are indispensable to resist against offline password guessing attack and to preserve user anonymity under the non-tamper resistance assumption of the smart card; (ii) there is an unavoidable trade-off when fulfilling the goals of local password update and resistance to smart card loss attack; and (iii) at least two exponentiation (respectively elliptic curve point multiplication) operations conducted on the server side are necessary for achieving forward secrecy. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/ijcs_online_version.pdf" target="_blank"><u>IJCS'14 ESI highly cited paper</u></a>)</p>
@@ -168,7 +168,7 @@ permalink: /researches/
 
 <article class="publication-card">
   <div class="publication-card__image">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/research/2532685.jpg" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/2532685_orig.jpg" />
   </div>
   <div class="publication-card__body">
     <p>We further propose viable fixes and refinements to the state-of-the-art metric. The effectiveness of our refinements is tested by a comparative evaluation of 34 representative two-factor schemes. Particularly, <strong>we, for the first time, provide a taxonomy of smart-card-loss attacks.</strong> (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/asiaccs16v7.pdf" target="_blank"><u>ASIACCS'16 paper</u></a>; For a better metric and new scheme see our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/ieeetdsc16_v11.pdf" target="_blank"><u>IEEE TDSC'16 paper</u></a>)</p>
@@ -177,7 +177,7 @@ permalink: /researches/
 
 <article class="publication-card">
   <div class="publication-card__image">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/research/841544.jpg" />
+    <img src="{{ site.url }}{{ site.baseurl }}/images/research/841544_orig.jpg" />
   </div>
   <div class="publication-card__body">
     <p>Little attention has been given to the fundamental question: <strong>whether or not there are inherent limitations that prevent us from designing an “ideal” scheme that satisfies all the desirable goals?</strong> In this work, we aim to provide a definite answer to this question. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/tdsc15.pdf" target="_blank"><u>IEEE TDSC'15 paper</u></a>)</p>
