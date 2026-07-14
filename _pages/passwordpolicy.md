@@ -202,13 +202,11 @@ permalink: /password-policy/
   }
 </style>
 
-<div class="password-policy-page" markdown="1">
-
-<h2 class="password-policy-page-title">Password policy: A real world problem</h2>
+<div class="password-policy-page" markdown="0">
 
 <section class="password-policy-hero" aria-label="Password policy introduction">
   <div class="password-policy-hero__visual">
-    <img src="{{ '/images/1435750564.jpg' | relative_url }}" alt="A character saying that 12345 is the password on his luggage">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/1435750564.jpg" alt="A character saying that 12345 is the password on his luggage">
   </div>
   <div class="password-policy-hero__copy">
     <h2>Building sensible password policies for the emperor</h2>
