@@ -211,21 +211,21 @@ permalink: /password-policy/
   <div class="password-policy-hero__copy">
     <h2>Building sensible password policies for the emperor</h2>
     <p class="password-policy-hero__quotes">“Self-chosen passwords are often surprisingly easy to guess.” — Jerome H., Comm. ACM, 1974<br><br>“The only secure password is the one you can’t remember.” — Troy Hunt, Blog, 2011.<br><br>“Example of cyber resilience. Password policy too complex couldn't be bothered to comment on blog.” — A tweet by Gamingworks, June, 2015.</p>
-    <a class="password-policy-hero__button" href="{{ '/uploads/passwordpolicy/esorics15conf0827.pdf' | relative_url }}" target="_blank" rel="noopener">Password policy: A real world problem</a>
+    <a class="password-policy-hero__button" href="{{ site.url }}{{ site.baseurl }}/uploads/passwordpolicy/esorics15conf0827.pdf" target="_blank" rel="noopener">Password policy: A real world problem</a>
   </div>
 </section>
 
 <div class="password-policy-gallery">
   <div class="password-policy-gallery__item">
-    <img src="{{ '/images/8854348_orig.png' | relative_url }}" alt="A humorous example of an easily guessed password">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/8854348_orig.png" alt="A humorous example of an easily guessed password">
   </div>
   <div class="password-policy-gallery__item">
-    <img src="{{ '/images/7762123_orig.png' | relative_url }}" alt="Worst passwords of 2015">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/7762123_orig.png" alt="Worst passwords of 2015">
   </div>
 </div>
 
 <figure class="password-policy-figure password-policy-figure--center">
-  <img src="{{ '/images/1435760631.png' | relative_url }}" alt="A cartoon illustrating password composition rules">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/1435760631.png" alt="A cartoon illustrating password composition rules">
 </figure>
 
 <div class="password-policy-separator" aria-hidden="true">
@@ -234,11 +234,11 @@ permalink: /password-policy/
 </div>
 
 <figure class="password-policy-figure password-policy-figure--right">
-  <img src="{{ '/images/1461227899.png' | relative_url }}" alt="A sketch of the debates in password practice">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/1461227899.png" alt="A sketch of the debates in password practice">
   <figcaption class="password-policy-caption">Figure 5. A sketch of the <span style="color: #da4444;">debates in password practice</span></figcaption>
 </figure>
 
-<p class="password-policy-intro">This is a big project encouraged by some wonderful reviewers and of my personal interest: it will be useful for the community and industry. It may take 3 year or 5 years to finish. Currently, I am performing related research (e.g., my <u><a href="{{ '/uploads/passwordpolicy/esorics16full_v9.pdf' | relative_url }}">ESORICS'15 paper</a></u> on password policies of 100+ leading sites, <u><a href="{{ '/uploads/passwordpolicy/ccs16_final_v12.pdf' | relative_url }}">ACM CCS'16 paper</a></u> on targeted online guessing threat, <u><a href="{{ '/uploads/passwordpolicy/asiaccs17_v12.pdf' | relative_url }}">ACM ASIACCS'17 paper</a></u> on human-chosen PINs and <u><a href="{{ '/uploads/passwordpolicy/ndss18v7.pdf' | relative_url }}">NDSS'18 paper</a></u> on password storage) and collecting related materials (e.g., evidence for over 30+ debates from the literature). Thanks for the great help from my team members. I am also grateful to many constructive feedbacks.</p>
+<p class="password-policy-intro">This is a big project encouraged by some wonderful reviewers and of my personal interest: it will be useful for the community and industry. It may take 3 year or 5 years to finish. Currently, I am performing related research (e.g., my <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/passwordpolicy/esorics16full_v9.pdf">ESORICS'15 paper</a></u> on password policies of 100+ leading sites, <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/passwordpolicy/ccs16_final_v12.pdf">ACM CCS'16 paper</a></u> on targeted online guessing threat, <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/passwordpolicy/asiaccs17_v12.pdf">ACM ASIACCS'17 paper</a></u> on human-chosen PINs and <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/passwordpolicy/ndss18v7.pdf">NDSS'18 paper</a></u> on password storage) and collecting related materials (e.g., evidence for over 30+ debates from the literature). Thanks for the great help from my team members. I am also grateful to many constructive feedbacks.</p>
 
 ## 1. The problems in the current password policies
 
