@@ -125,7 +125,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/970052_orig.jpg" />
   </div>
   <div class="publication-card__body">
-    <p>We propose a new 2FA scheme with provable security, and what we believe is most interesting is that superior security and privacy can be achieved at nearly no additional communication or computation cost. As far as we know, <strong>this work is the ﬁrst one that deﬁnes a formal model to capture the feature of user un-traceability</strong> and that highlights the damaging threat of de-synchronization attack on privacy-preserving two-factor authentication schemes. (see more in <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/infosci14.pdf" target="_blank"><u>INS'15 paper</u></a>)</p>
+    <p>We propose a new 2FA scheme with provable security, and what we believe is most interesting is that superior security and privacy can be achieved at nearly no additional communication or computation cost. As far as we know, <strong>this work is the ﬁrst one that deﬁnes a formal model to capture the feature of user un-traceability</strong> and that highlights the damaging threat of de-synchronization attack on privacy-preserving two-factor authentication schemes. (see more in <a href="{{ site.url }}{{ site.baseurl }}/researches/infosci14.pdf" target="_blank"><u>INS'15 paper</u></a>)</p>
   </div>
 </article>
 
@@ -134,7 +134,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/3625851_orig.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>We presented an  new 2FA scheme to cope with the various identiﬁed security defects without sacriﬁcing any desirable feature of Li et al.'s scheme.</strong> We conjecture that the strategy of only using symmetric-key techniques to achieve user anonymity is intrinsically infeasible, and pose its rigorous justiﬁcation as one interesting (and fundamental) open problem. (see more in <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/wcnc2014.pdf" target="_blank"><u>IEEE WCNC'14 paper</u></a>; <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ieeesyst2015.pdf" target="_blank"><u>IEEE Systems Journal'16 paper</u></a>)</p>
+    <p><strong>We presented an  new 2FA scheme to cope with the various identiﬁed security defects without sacriﬁcing any desirable feature of Li et al.'s scheme.</strong> We conjecture that the strategy of only using symmetric-key techniques to achieve user anonymity is intrinsically infeasible, and pose its rigorous justiﬁcation as one interesting (and fundamental) open problem. (see more in <a href="{{ site.url }}{{ site.baseurl }}/researches/wcnc2014.pdf" target="_blank"><u>IEEE WCNC'14 paper</u></a>; <a href="{{ site.url }}{{ site.baseurl }}/researches/ieeesyst2015.pdf" target="_blank"><u>IEEE Systems Journal'16 paper</u></a>)</p>
   </div>
 </article>
 </div>
@@ -148,7 +148,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/3349556.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>Under the conditional non-tamper-resistance assumption of the smart cards, whether it is possible to construct a privacy-preserving two-factor authentication scheme by employing only light-weight symmetric cryptographic techniques, as most of the literature has done in the past?</strong> We give a negative answer to this question by empirically using two case studies and formally proving it in a widely accepted adversary model. (see more in <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/comnet14.pdf" target="_blank"><u>COMNET'14 paper</u></a>)</p>
+    <p><strong>Under the conditional non-tamper-resistance assumption of the smart cards, whether it is possible to construct a privacy-preserving two-factor authentication scheme by employing only light-weight symmetric cryptographic techniques, as most of the literature has done in the past?</strong> We give a negative answer to this question by empirically using two case studies and formally proving it in a widely accepted adversary model. (see more in <a href="{{ site.url }}{{ site.baseurl }}/researches/comnet14.pdf" target="_blank"><u>COMNET'14 paper</u></a>)</p>
   </div>
 </article>
 
@@ -157,7 +157,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/1824974.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>In this work, we, for the first time, put forward three general principles that are vital for designing secure smart-card-based password authentication schemes: </strong> (i) public-key techniques are indispensable to resist against ofﬂine password guessing attack and to preserve user anonymity under the non-tamper resistance assumption of the smart card; (ii) there is an unavoidable trade-off when fulﬁlling the goals of local password update and resistance to smart card loss attack; and (iii) at least two exponentiation (respectively elliptic curve point multiplication) operations conducted on the server side are necessary for achieving forward secrecy. (see more in our <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ijcs_online_version.pdf" target="_blank"><u>IJCS'14 ESI highly cited paper</u></a>)</p>
+    <p><strong>In this work, we, for the first time, put forward three general principles that are vital for designing secure smart-card-based password authentication schemes: </strong> (i) public-key techniques are indispensable to resist against ofﬂine password guessing attack and to preserve user anonymity under the non-tamper resistance assumption of the smart card; (ii) there is an unavoidable trade-off when fulﬁlling the goals of local password update and resistance to smart card loss attack; and (iii) at least two exponentiation (respectively elliptic curve point multiplication) operations conducted on the server side are necessary for achieving forward secrecy. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/researches/ijcs_online_version.pdf" target="_blank"><u>IJCS'14 ESI highly cited paper</u></a>)</p>
   </div>
 </article>
 </div>
@@ -171,7 +171,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/2532685.jpg" />
   </div>
   <div class="publication-card__body">
-    <p>We further propose viable fixes and refinements to the state-of-the-art metric. The effectiveness of our refinements are tested by a comparative evaluation of 34 representative two-factor schemes. Particularly, <strong>we, for the ﬁrst time, provide a taxonomy of smart-card-loss attacks. </strong> We give a negative answer to this question by empirically using two case studies and formally proving it in a widely accepted adversary model. (see more in <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/asiaccs16v7.pdf" target="_blank"><u>ASIACCS'16 paper</u></a>; For a better metric and new scheme see our <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ieeetdsc16_v11.pdf" target="_blank"><u>IEEE TDSC'16 paper</u></a>)</p>
+    <p>We further propose viable fixes and refinements to the state-of-the-art metric. The effectiveness of our refinements are tested by a comparative evaluation of 34 representative two-factor schemes. Particularly, <strong>we, for the ﬁrst time, provide a taxonomy of smart-card-loss attacks. </strong> We give a negative answer to this question by empirically using two case studies and formally proving it in a widely accepted adversary model. (see more in <a href="{{ site.url }}{{ site.baseurl }}/researches/asiaccs16v7.pdf" target="_blank"><u>ASIACCS'16 paper</u></a>; For a better metric and new scheme see our <a href="{{ site.url }}{{ site.baseurl }}/researches/ieeetdsc16_v11.pdf" target="_blank"><u>IEEE TDSC'16 paper</u></a>)</p>
   </div>
 </article>
 
@@ -180,7 +180,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/841544.jpg" />
   </div>
   <div class="publication-card__body">
-    <p>Little attention has been given to the fundamental question: <strong>whether or not there are inherent limitations that prevent us from designing an “ideal” scheme that satisfies all the desirable goals?</strong> In this work, we aim to provide a deﬁnite answer to this question. (see more in our <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/tdsc15.pdf" target="_blank"><u>IEEE TDSC'15 paper</u></a>)</p>
+    <p>Little attention has been given to the fundamental question: <strong>whether or not there are inherent limitations that prevent us from designing an “ideal” scheme that satisfies all the desirable goals?</strong> In this work, we aim to provide a deﬁnite answer to this question. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/researches/tdsc15.pdf" target="_blank"><u>IEEE TDSC'15 paper</u></a>)</p>
   </div>
 </article>
 </div>
