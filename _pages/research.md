@@ -1,5 +1,5 @@
 ---
-title: "Researches - Welcome to Ding Wang's Homepage -- Password Cryptography"
+title: "Research - Welcome to Ding Wang's Homepage -- Password Cryptography"
 layout: gridlay
 excerpt: ""
 sitemap: false
@@ -88,7 +88,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/3618436.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>We have conducted a systematic investigation into the characteristics, distribution and security of PINs chosen by English user and Chinese users.</strong> By employing NLP techniques, we have revealed that PINs follow a Zipf distribution; By adopting both statistic metrics and state-of-the-art cracking algorithms, we have highlighted that 6-digit PINs offer marginally improved security over 4-digit PINs. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/asiaccs17_v12.pdf" target="_blank"><u>ASIACCS'17 paper</u></a>)</p>
+    <p><strong>We have conducted a systematic investigation into the characteristics, distribution and security of PINs chosen by English user and Chinese users.</strong> By employing NLP techniques, we have revealed that PINs follow a Zipf distribution; By adopting both statistical metrics and state-of-the-art cracking algorithms, we have highlighted that 6-digit PINs offer marginally improved security over 4-digit PINs. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/asiaccs17_v12.pdf" target="_blank"><u>ASIACCS'17 paper</u></a>)</p>
   </div>
 </article>
 </div>
@@ -111,7 +111,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/4121880_orig.png" />
   </div>
   <div class="publication-card__body">
-    <p><strong>We propose a simple yet effective password strength meter, fuzzyPSM,</strong> to give users reliable feedbacks when they select passwords. Inspired by a user survey on password practice, FuzzyPSM takes the ﬁrst step towards characterizing realistic user behaviors in password creation: Generally users do not build new passwords from scratch for a new service by combining segments of words, digits and/or symbols, instead they reuse or simply modify existing passwords for new services. (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/dsn16v9.pdf" target="_blank"><u>DSN'16 paper</u></a>)</p>
+    <p><strong>We propose a simple yet effective password strength meter, fuzzyPSM,</strong> to give users reliable feedback when they select passwords. Inspired by a user survey on password practice, FuzzyPSM takes the first step towards characterizing realistic user behaviors in password creation: Generally users do not build new passwords from scratch for a new service by combining segments of words, digits and/or symbols, instead they reuse or simply modify existing passwords for new services. (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/dsn16v9.pdf" target="_blank"><u>DSN'16 paper</u></a>)</p>
   </div>
 </article>
 </div>
@@ -125,7 +125,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/970052_orig.jpg" />
   </div>
   <div class="publication-card__body">
-    <p>We propose a new 2FA scheme with provable security, and what we believe is most interesting is that superior security and privacy can be achieved at nearly no additional communication or computation cost. As far as we know, <strong>this work is the ﬁrst one that deﬁnes a formal model to capture the feature of user un-traceability</strong> and that highlights the damaging threat of de-synchronization attack on privacy-preserving two-factor authentication schemes. (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/infosci14.pdf" target="_blank"><u>INS'15 paper</u></a>)</p>
+    <p>We propose a new 2FA scheme with provable security, and what we believe is most interesting is that superior security and privacy can be achieved at nearly no additional communication or computation cost. As far as we know, <strong>this work is the first one that defines a formal model to capture the feature of user untraceability</strong> and that highlights the damaging threat of desynchronization attack on privacy-preserving two-factor authentication schemes. (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/infosci14.pdf" target="_blank"><u>INS'15 paper</u></a>)</p>
   </div>
 </article>
 
@@ -134,7 +134,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/3625851_orig.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>We presented an  new 2FA scheme to cope with the various identiﬁed security defects without sacriﬁcing any desirable feature of Li et al.'s scheme.</strong> We conjecture that the strategy of only using symmetric-key techniques to achieve user anonymity is intrinsically infeasible, and pose its rigorous justiﬁcation as one interesting (and fundamental) open problem. (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/wcnc2014.pdf" target="_blank"><u>IEEE WCNC'14 paper</u></a>; <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/ieeesyst2015.pdf" target="_blank"><u>IEEE Systems Journal'16 paper</u></a>)</p>
+    <p><strong>We presented a new 2FA scheme to cope with the various identiﬁed security defects without sacriﬁcing any desirable feature of Li et al.'s scheme.</strong> We conjecture that the strategy of only using symmetric-key techniques to achieve user anonymity is intrinsically infeasible, and pose its rigorous justiﬁcation as one interesting (and fundamental) open problem. (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/wcnc2014.pdf" target="_blank"><u>IEEE WCNC'14 paper</u></a>; <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/ieeesyst2015.pdf" target="_blank"><u>IEEE Systems Journal'16 paper</u></a>)</p>
   </div>
 </article>
 </div>
@@ -148,7 +148,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/3349556.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>Under the conditional non-tamper-resistance assumption of the smart cards, whether it is possible to construct a privacy-preserving two-factor authentication scheme by employing only light-weight symmetric cryptographic techniques, as most of the literature has done in the past?</strong> We give a negative answer to this question by empirically using two case studies and formally proving it in a widely accepted adversary model. (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/comnet14.pdf" target="_blank"><u>COMNET'14 paper</u></a>)</p>
+    <p><strong>Under the conditional non-tamper-resistance assumption of the smart cards, whether it is possible to construct a privacy-preserving two-factor authentication scheme by employing only lightweight symmetric cryptographic techniques, as most of the literature has done in the past?</strong> We give a negative answer to this question by empirically using two case studies and formally proving it in a widely accepted adversary model. (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/comnet14.pdf" target="_blank"><u>COMNET'14 paper</u></a>)</p>
   </div>
 </article>
 
@@ -157,7 +157,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/1824974.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>In this work, we, for the first time, put forward three general principles that are vital for designing secure smart-card-based password authentication schemes: </strong> (i) public-key techniques are indispensable to resist against ofﬂine password guessing attack and to preserve user anonymity under the non-tamper resistance assumption of the smart card; (ii) there is an unavoidable trade-off when fulﬁlling the goals of local password update and resistance to smart card loss attack; and (iii) at least two exponentiation (respectively elliptic curve point multiplication) operations conducted on the server side are necessary for achieving forward secrecy. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/ijcs_online_version.pdf" target="_blank"><u>IJCS'14 ESI highly cited paper</u></a>)</p>
+    <p><strong>In this work, we, for the first time, put forward three general principles that are vital for designing secure smart-card-based password authentication schemes: </strong> (i) public-key techniques are indispensable to resist against offline password guessing attack and to preserve user anonymity under the non-tamper resistance assumption of the smart card; (ii) there is an unavoidable trade-off when fulﬁlling the goals of local password update and resistance to smart card loss attack; and (iii) at least two exponentiation (respectively elliptic curve point multiplication) operations conducted on the server side are necessary for achieving forward secrecy. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/ijcs_online_version.pdf" target="_blank"><u>IJCS'14 ESI highly cited paper</u></a>)</p>
   </div>
 </article>
 </div>
@@ -171,7 +171,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/2532685.jpg" />
   </div>
   <div class="publication-card__body">
-    <p>We further propose viable fixes and refinements to the state-of-the-art metric. The effectiveness of our refinements are tested by a comparative evaluation of 34 representative two-factor schemes. Particularly, <strong>we, for the ﬁrst time, provide a taxonomy of smart-card-loss attacks. </strong> We give a negative answer to this question by empirically using two case studies and formally proving it in a widely accepted adversary model. (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/asiaccs16v7.pdf" target="_blank"><u>ASIACCS'16 paper</u></a>; For a better metric and new scheme see our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/ieeetdsc16_v11.pdf" target="_blank"><u>IEEE TDSC'16 paper</u></a>)</p>
+    <p>We further propose viable fixes and refinements to the state-of-the-art metric. The effectiveness of our refinements is tested by a comparative evaluation of 34 representative two-factor schemes. Particularly, <strong>we, for the first time, provide a taxonomy of smart-card-loss attacks.</strong> (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/asiaccs16v7.pdf" target="_blank"><u>ASIACCS'16 paper</u></a>; For a better metric and new scheme see our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/ieeetdsc16_v11.pdf" target="_blank"><u>IEEE TDSC'16 paper</u></a>)</p>
   </div>
 </article>
 
