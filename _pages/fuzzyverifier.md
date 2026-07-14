@@ -488,6 +488,8 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <div class="paragraph" style="text-align:left;"><strong>6. Acknowledgements</strong></div>
 <div class="paragraph" style="text-align:left;">We would like to acknowledge the contributions that Dr. Chen Zhu and Qianchen Gu made in thedevelopment of the password statistics software tool used in the analysis of password dataset in this paper. We are also grateful to Dr. Haibo Chen for some constructive suggestions.</div>
+<hr class="styled-hr" style="width:100%;"/>
+<div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <div class="paragraph" style="text-align:left;"><strong>7. References</strong></div>
 <div class="paragraph" style="text-align:left;">
 [1] M. Dell’Amico, P. Michiardi, and Y. Roudier, “Password strength: an empirical analysis,” in Proc. INFOCOM 2010. IEEE, 2010, pp. 1–9.<br/>
