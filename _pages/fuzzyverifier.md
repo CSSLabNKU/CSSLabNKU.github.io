@@ -21,6 +21,23 @@ permalink: /fuzzyverifier/
     margin-top: 28px;
   }
 
+  .fuzzyverifier-hero {
+    width: 100%;
+    margin: 0 0 28px;
+    overflow: hidden;
+    border: 1px solid #e2e2e2;
+    border-radius: 4px;
+    background: #fff;
+  }
+
+  .fuzzyverifier-hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    border-radius: 0;
+  }
+
   .fuzzyverifier-callout {
     margin: 22px 0;
     padding: 16px 18px;
@@ -81,6 +98,10 @@ permalink: /fuzzyverifier/
 </style>
 
 <div class="fuzzyverifier-page" markdown="1">
+
+<figure class="fuzzyverifier-hero">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/1399478294.jpg" alt="Password-change problem in smart-card-based authentication and the proposed fuzzy verifier solution">
+</figure>
 
 # Fuzzy Verifier
 
