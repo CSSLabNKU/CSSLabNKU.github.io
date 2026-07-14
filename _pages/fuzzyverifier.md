@@ -91,10 +91,10 @@ permalink: /fuzzyverifier/
 </figure>
 
 <div class="fuzzyverifier-archive">
-<div class="fuzzyverifier-related-paper"><strong color="#5a5a5a">Related paper:</strong> Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/ieeetdsc16_v11.pdf">Main.pdf</a></u>  <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf">Appendix.pdf</a></u></div>
+<div class="fuzzyverifier-related-paper"><strong color="#5a5a5a">Related paper:</strong> Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/ieeetdsc16_v11.pdf">Main.pdf</a></u>  <u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf">Appendix.pdf</a></u>
 <hr class="styled-hr" style="width:100%;"/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<div class="paragraph" style="text-align:left;"><strong color="#350df8">Ethics considerations:  </strong>Though the two password datasets (32.58 million Rockyou, 6.43 million CSDN) herein have been publicly disclosed and collectively used by a number of scientific works that study passwords (see the proceedings of IEEE S&amp;P 2012, ACM CCS 2013, ISOC NDSS 2014, etc.), this nevertheless creates an ethical conundrum: Should our research use passwords leaked publicly? Since this data has already been made public and is easily available, using it in our research does not increase the harm to the victims. We use these passwords (without any identifiable information such as user name, email) only for scientific use (e.g., train and test guessing algorithms to evaluate attackers' capabilities.). Furthermore, as attackers are likely to use these password sets as training sets or cracking dictionaries, our use of them to evaluate password strength implies our results are more likely to be of practical relevance to security administrators and common users.<br/></div>
+<div class="paragraph" style="text-align:left;"><strong color="#350df8">Ethics considerations:  </strong>Though the two password datasets (32.58 million Rockyou, 6.43 million CSDN) herein have been publicly disclosed and collectively used by a number of scientific works that study passwords (see the proceedings of IEEE S&amp;P 2012, ACM CCS 2013, ISOC NDSS 2014, etc.), this nevertheless creates an ethical conundrum: Should our research use passwords leaked publicly? Since this data has already been made public and is easily available, using it in our research does not increase the harm to the victims. We use these passwords (without any identifiable information such as user name, email) only for scientific use (e.g., train and test guessing algorithms to evaluate attackers' capabilities.). Furthermore, as attackers are likely to use these password sets as training sets or cracking dictionaries, our use of them to evaluate password strength implies our results are more likely to be of practical relevance to security administrators and common users.<br/>
 <hr class="styled-hr" style="width:100%;"/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div>
 
@@ -102,11 +102,11 @@ permalink: /fuzzyverifier/
 (<b>1</b>) How many passwords in D fall into the same password pool with PWi? As a complement, we say PWj falls into the same pool with PWi only if the value of <u style="color:rgb(134, 134, 134)">h(PWj) mod 256</u> equals h(PWi) mod 256. We say the resulting password pool is POOLi.<br/>(<b>2</b>) How many password finally remained if we remove these passwords from POOLi that are unlikely to be Ui's password PWi? Without any specific information about Ui's personal information (e.g., hobbies, name, birthday), it is really difficult (probably impossible) to accurately define what's the character(s) that are unlikely to be hold by Ui's password PWi. As a result, we can only use the statistical information of POOLi to detect whether there is any abnormality. An effective metric is the expected number of guesses required to find any password in POOLi if the attacker proceeds an optimal online attack (i.e., testing the most likely passwords first), known as guesswork or guessing entropy [2,6].<br/>
 Admittedly, we have obtained two large dataset with user ID and password, yet such information is definitively sensitive, and may cause subtle sufferings to victims if such dataset are illustrated publicly, for users tend to reuse their IDs and passwords [7,8]. As far as we know, using guessing entropy to characterize a password dataset is currently the best strategy that can be adopted while corresponding user-specific information is unavailable (or cannot be appropriately used). Assume password pool POOLi includes <em>x</em> entries. Each of the entry is of the &lt;Password, Count, Popularity&gt; form, see POOL0 of the top 2 million CSDN dataset <u>0.txt</u>. Note that, the term "Count" stands for the popular count of the corresponding password. For example, if the password "shanshan" occurs 210 times in the entire 6 million CSDN dataset, we say the popular count of password "shanshan" is 210. The "Popularity" of password "shanshan" is 210/(total count in the current pool)=210/13262=0.0158347. For simplicity, we denote the popularities of each password pool in decreasing order P1, P2, P3, ...... P<em>x</em>. <br/>
 Accordingly, we can determine the <b>guessing entropy</b> [2] of POOL0 by computing <em>E=</em>1 <em>* </em>P1 + 2 * P2 + 3 * P3 + ... + <em>x</em> * P<em>x</em> = 2492.49, which is larger than 1024. This means POOL0 is a valid pool, and the success probability of one online guessing attempt using password candidates in POOL0 by the adversary is 1/2492.49, no more than 1/1024. <br/>
-<b>Our empirical results demonstrate that the distribution bias of password space D does not significantly degrade our proposed method, and it ensures the Level 1 security of NIST SP800-63-2.</b></div>
+<b>Our empirical results demonstrate that the distribution bias of password space D does not significantly degrade our proposed method, and it ensures the Level 1 security of NIST SP800-63-2.</b>
 <hr class="styled-hr" style="width:100%;"/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <div class="paragraph" style="text-align:left;"><strong><span style="color:#350df8">Experimental 1.</span> Results from top 1 million most popular passwords of Rockyou dataset</strong><br/>
-<span style="font-size:12px;">Note: Since <u>h(123456) mod 256</u> = <u>(7C4A8D09CA3762AF61E59520943DC26494F8941B) mod 256</u> = <u>27</u>, the password pool of 123456 is denoted by 27.txt</span></div>
+<span style="font-size:12px;">Note: Since <u>h(123456) mod 256</u> = <u>(7C4A8D09CA3762AF61E59520943DC26494F8941B) mod 256</u> = <u>27</u>, the password pool of 123456 is denoted by 27.txt</span>
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
@@ -265,10 +265,10 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 </tbody>
 </table>
 </div></div></div>
-<div class="paragraph" style="text-align:left;"><b>Guessing entropy computed from top 1 million most popular passwords of Rockyou dataset</b></div>
+<div class="paragraph" style="text-align:left;"><b>Guessing entropy computed from top 1 million most popular passwords of Rockyou dataset</b>
 <div class="paragraph" style="text-align:left;">(1) The minimum password number of the 256 password pools is 3739, and the maximum is 4141;<br/>
 (2) The minimum guessing expectation (entropy) of the 256 password pools is 111.300, and the maximum is 750.603, which <b>fails to guarantee</b> that the success probability of one online guessing attempt using password candidate in any pool by the adversary is no more than 1/1024. <br/>
-(3) Due to storage space constraints of this site, we only upload 10% of the password pool files.</div>
+(3) Due to storage space constraints of this site, we only upload 10% of the password pool files.
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
@@ -359,7 +359,7 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 <div class="paragraph" style="text-align:left;"><strong><span style="color:#350df8">Experimental 2.</span> Results from the top 1 million most popular passwords of CSDN dataset</strong><br/>
 (1) Theminimumpassword numberof the 256 password pools is 3756, and themaximumis 4079;<br/>
 (2) Theminimum guessing expectationof the 256 password pools is 39.799, themaximumis 1122.18, and the majority is below 1024, which fails toguarantee that the success probability of one online guessing attempt using password candidate in any pool by the adversary is no more than 1/1024.<br/>
-(3) Due to storage space constraints of this site, we only upload 10% of the password pool files.</div>
+(3) Due to storage space constraints of this site, we only upload 10% of the password pool files.
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
@@ -397,11 +397,11 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 </div></div></div>
 <hr class="styled-hr" style="width:100%;"/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<div class="paragraph" style="text-align:left;"><b><span style="color:#350df8">Experimental 3.</span> Results from the top 2 million most popular passwords of Rockyou dataset</b></div>
+<div class="paragraph" style="text-align:left;"><b><span style="color:#350df8">Experimental 3.</span> Results from the top 2 million most popular passwords of Rockyou dataset</b>
 <div class="paragraph" style="text-align:left;">
 (1) The minimum password number of the 256 password pools is 7612, and the maximumis 8018;<br/>
 (2) The minimum guessing expectation of the 256 password pools is247.935, the maximumis 1418.31, and about 16% of the pools are below 1024, which fails toguarantee that the success probability of one online guessing attempt using password candidate in any pool by the adversary is no more than 1/1024.<br/>
-(3) Due to storage space constraints of this site, we only upload 10% of the password pool files.</div>
+(3) Due to storage space constraints of this site, we only upload 10% of the password pool files.
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
@@ -439,7 +439,7 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <hr class="styled-hr" style="width:100%;"/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
-<div class="paragraph" style="text-align:left;"><strong><span style="color:#350df8">Experimental 4.</span> Results from the top 2 million most popular passwords of CSDN dataset (<span style="color:#f70b0b">Satisfactory results</span>)</strong></div>
+<div class="paragraph" style="text-align:left;"><strong><span style="color:#350df8">Experimental 4.</span> Results from the top 2 million most popular passwords of CSDN dataset (<span style="color:#f70b0b">Satisfactory results</span>)</strong>
 <div class="paragraph" style="text-align:left;">
 (1) The minimum password number of the 256 password pools is 7584, and the maximum is 8146;<br/>
 (2) The minimum guessing expectation of the 256 password pools is 127.743, the maximum is 2600.56, and only about 2.34% of the pools are below 1024. More specifically, six pools are "bad", i.e. POOL65 (127.743), POOL13 (149.431), POOL184 (343.376), POOL180 (528.102), POOL139 (652.968), POOL146 (973.749). <b>This means that, with an over whelming probability, a pool selected from these 256 pools can guarantee a Level 1 of security. We further note that, if we eliminate only one most highly vulnerable password from each of these six bad pools (e.g., 123456 from POOL65, 123456789 from POOL65), then <span style="color:#f70b0b">all</span> the guess entropys of 256 password pools will have a guessing expectation larger than 1024.</b> In practice, this can be achieved by using a blacklist and preventing the users from choosing these highly vulnerable passwords (e.g., 123456, 123456789).<br/>
@@ -482,15 +482,15 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <hr class="styled-hr" style="width:100%;"/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
-<div class="paragraph" style="text-align:left;"><strong>5. Subtleties revealed from the above four experiments</strong></div>
-<div class="paragraph" style="text-align:left;">In the above four experiments, only top 2 million CSDN dataset canguaranteethateveryguessing entropy ofitspoolsislarger than 1024, while the top 1 million CSDN dataset is unable to provide such a security level. This implies that, to provide the expected level of security, theunderlyingpassword space of theseuser selected passwords shall be large enough. In addition, top 2 millionCSDN dataset is desired, whiletop 2millionRockYou dataset is insufficient. This implies that, besides a requirementfor search space size of the passwords,there is also a requirement for the strength ofindividual passwords. The difference in password strength between these two password dataset is mainly caused by the varied password creation policies. More specifically, Rockyou only enforces that a user selected password is of length no less than 5 characters, while CSDN requires that user passwords are at least 6 characters long. Another contributing factor is that Rockyou passwords are used to protect social networking accounts and its users are mainly non-professionals, while CSDN passwords are used to protect personal technical notes and blogs and its users are mainly programmers. <br/> After all, we have shown that, there do exist a real-life password dataset (i.e., the CSDN dataset) that satisfies a specified level of secuity, which further demonstrates the feasibility of our "Fuzzy Verifier".<br/></div>
+<div class="paragraph" style="text-align:left;"><strong>5. Subtleties revealed from the above four experiments</strong>
+<div class="paragraph" style="text-align:left;">In the above four experiments, only top 2 million CSDN dataset canguaranteethateveryguessing entropy ofitspoolsislarger than 1024, while the top 1 million CSDN dataset is unable to provide such a security level. This implies that, to provide the expected level of security, theunderlyingpassword space of theseuser selected passwords shall be large enough. In addition, top 2 millionCSDN dataset is desired, whiletop 2millionRockYou dataset is insufficient. This implies that, besides a requirementfor search space size of the passwords,there is also a requirement for the strength ofindividual passwords. The difference in password strength between these two password dataset is mainly caused by the varied password creation policies. More specifically, Rockyou only enforces that a user selected password is of length no less than 5 characters, while CSDN requires that user passwords are at least 6 characters long. Another contributing factor is that Rockyou passwords are used to protect social networking accounts and its users are mainly non-professionals, while CSDN passwords are used to protect personal technical notes and blogs and its users are mainly programmers. <br/> After all, we have shown that, there do exist a real-life password dataset (i.e., the CSDN dataset) that satisfies a specified level of secuity, which further demonstrates the feasibility of our "Fuzzy Verifier".<br/>
 <hr class="styled-hr" style="width:100%;"/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<div class="paragraph" style="text-align:left;"><strong>6. Acknowledgements</strong></div>
-<div class="paragraph" style="text-align:left;">We would like to acknowledge the contributions that Dr. Chen Zhu and Qianchen Gu made in thedevelopment of the password statistics software tool used in the analysis of password dataset in this paper. We are also grateful to Dr. Haibo Chen for some constructive suggestions.</div>
+<div class="paragraph" style="text-align:left;"><strong>6. Acknowledgements</strong>
+<div class="paragraph" style="text-align:left;">We would like to acknowledge the contributions that Dr. Chen Zhu and Qianchen Gu made in thedevelopment of the password statistics software tool used in the analysis of password dataset in this paper. We are also grateful to Dr. Haibo Chen for some constructive suggestions.
 <hr class="styled-hr" style="width:100%;"/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div>
-<div class="paragraph" style="text-align:left;"><strong>7. References</strong></div>
+<div class="paragraph" style="text-align:left;"><strong>7. References</strong>
 <div class="paragraph" style="text-align:left;">
 [1] M. Dell’Amico, P. Michiardi, and Y. Roudier, “Password strength: an empirical analysis,” in Proc. INFOCOM 2010. IEEE, 2010, pp. 1–9.<br/>
 [2] J. Bonneau, “The science of guessing: Analyzing an anonymized corpus of 70 million passwords,” in Proc. IEEE S&P 2012.IEEE Computer Society, 2012, pp. 538–552.<br/>
@@ -500,7 +500,7 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 [6] J. L. Massey, “Guessing and Entropy,” in Proceedings of the 1994 IEEE International Symposium on Information Theory,1994, p. 204-208.<br/>
 [7] D., Anupam, J. Bonneau, M. Caesar, A. Nikita and X.F.Wang.Tangled Web of Password Reuse. Proc. NDSS 2014,San Diego, CA, USA,23-26 February 2014.<br/>
 [8] D. Florencio, C. Herley, A large-scale study of web password habits, in: Proceedings ofWWW 2007, ACM, 2007, pp. 657–666.<br/>
-[9] M. Alsaleh, M. Mannan, and P. Van Oorschot, “Revisiting defensesagainst large-scale online password guessing attacks,” IEEE Trans.Depend. Secur. Comput., vol. 9, no. 1, pp. 128–141, 2012.</div>
+[9] M. Alsaleh, M. Mannan, and P. Van Oorschot, “Revisiting defensesagainst large-scale online password guessing attacks,” IEEE Trans.Depend. Secur. Comput., vol. 9, no. 1, pp. 128–141, 2012.
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
 </div>
 </div>
