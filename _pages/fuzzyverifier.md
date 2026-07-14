@@ -93,10 +93,10 @@ permalink: /fuzzyverifier/
 <div class="fuzzyverifier-archive">
 <div class="fuzzyverifier-related-paper"><strong>Related paper:</strong>&nbsp;<span>Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound</span>&nbsp;&nbsp;<u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/ieeetdsc16_v11.pdf"><font color="#5848b7">Main.pdf</font></a></u>&nbsp;&nbsp;<u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf"><font color="#5848b7">Appendix.pdf</font></a></u></div>
 <hr class="styled-hr" style="width:100%;"/>
-
+<br/>
 <div class="paragraph" style="text-align:left;"><strong><font color="#350df8">Ethics considerations: &nbsp;</font></strong>Though the two password datasets (32.58 million Rockyou, 6.43 million CSDN) herein have been publicly disclosed and collectively used by a number of scientific works that study passwords (see the proceedings of IEEE S&P 2012, ACM CCS 2013, ISOC NDSS 2014, etc.), this nevertheless creates an ethical conundrum: Should our research use passwords leaked publicly? Since this data has already been made public and is easily available, using it in our research does not increase the harm to the victims. We use these passwords (without any identifiable information such as user name, email) only for scientific use (e.g., train and test guessing algorithms to evaluate attackers' capabilities.). Furthermore, as attackers are likely to use these password sets as training sets or cracking dictionaries, our use of them to evaluate password strength implies our results are more likely to be of practical relevance to security administrators and common users.<br/></div>
 <hr class="styled-hr" style="width:100%;"/>
-
+<br/>
 <div class="paragraph" style="text-align:left;"><strong>Fuzzy Verifier: </strong>To overcome the dilemma of maintaining usability while achieving two-factor security even the smart card can be tampered, here we propose a tradeoff between security and usability: Instead of storing {h(PWi)} in the card memory, we store {h(PWi) mod N}, where PWi stands for user Ui's password, h() is a Hash function (e.g., SHA-1 in the following experiments), and N the balance factor (a moderate integer, e.g. N=256). Then, user Ui can change her password locally, yet this user-friendliness comes at the prices of security: the chances of an adversary to guess Ui's password is roughly 256t/D, where D is the password space from which each user's password is uniformed drawn and t is the number of adversary's online attempts. Generally, D is moderately limited, e.g., |D|=1000,000 [1,2]. That's to say, the modified protocol using this new method is able to meet the Level 1 security of NIST SP800-63-2 [3] even if the smart card has been compromised, which <b>guarantees that the success probability of one online guessing attempt by the adversary is no more than 1/1024</b>.As is well known, online guessing can be effectively thwarted by locking the account after several failed login attempts or by only allowing a probabilistic number of failed guesses [9].In two other cases, the security is improved: (1) the chances of an adversary to change Ui's password is 1/256; (2) the chances of Ui to accidentally make the card unusable is 1/256 when inputs an unintended new password in the password change phase, reduced to 1/65536 if users are required to type the new password twice.</span><br/>In the above analysis, the value of <span style="color:rgb(134, 134, 134)">256t/D</span> is obtained on the basis of the assumption that, user passwords are uniformly distributed. However, in practice, this is generally not the case——user passwords have strong bias towards similarity! This can be evidenced by the following statistics. <b>For example, the top 20 most popular passwords from Rockyou dataset [4] account for 2.54% of the entire set. To evaluate the practical effectiveness of our proposed ``fuzzy verifier'' when user password space is greatly biased, </b>we use four real-life publicly available password datasets(i.e., top 1 million most popular passwords from 32 million Rockyou dataset, top 2 million most popular passwords from 32 million Rockyou dataset, top 1 million most popular passwords from 6.43 million CSDN dataset [5], top 1 million most popular passwords from 6.43 million CSDN) to carry out the following two explorations:<br/>
 (<b>1</b>) How many passwords in D fall into the same password pool with PWi? As a complement, we say PWj falls into the same pool with PWi only if the value of <u style="color:rgb(134, 134, 134)">h(PWj) mod 256</u> equals <font color="#868686">h(PWi) mod 256.</font> We say the resulting password pool is POOLi.<br/>(<b>2</b>) How many password finally remained if we remove these passwords from POOLi that are unlikely to be Ui's password PWi? Without any specific information about Ui's personal information (e.g., hobbies, name, birthday), it is really difficult (probably impossible) to accurately define what's the character(s) that are unlikely to be hold by Ui's password PWi. As a result, we can only use the statistical information of POOLi to detect whether there is any abnormality. An effective metric is the expected number of guesses required to find any password in POOLi if the attacker proceeds an optimal online attack (i.e., testing the most likely passwords first), known as guesswork or guessing entropy [2,6].<br/>
 Admittedly, we have obtained two large dataset with user ID and password, yet such information is definitively sensitive, and may cause subtle sufferings to victims if such dataset are illustrated publicly, for users tend to reuse their IDs and passwords [7,8]. As far as we know, using guessing entropy to characterize a password dataset is currently the best strategy that can be adopted while corresponding user-specific information is unavailable (or cannot be appropriately used). Assume password pool POOLi includes <em>x</em> entries. Each of the entry is of the &lt;Password, Count, Popularity&gt; form, see POOL0 of the top 2 million CSDN dataset <u><font color="#5040ae">0.txt</font></u>. Note that, the term "Count" stands for the popular count of the corresponding password. For example, if the password "shanshan" occurs 210 times in the entire 6 million CSDN dataset, we say the popular count of password "shanshan" is 210. The "Popularity" of password "shanshan" is 210/(total count in the current pool)=210/13262=0.0158347. For simplicity, we denote the popularities of each password pool in decreasing order P1, P2, P3, ...... P<em>x</em>. <br/>
@@ -104,7 +104,7 @@ Accordingly, we can determine the <b>guessing entropy</b> [2] of POOL0 by comput
 <b>Our empirical results demonstrate that the distribution bias of password space D does not significantly degrade our proposed method, and it ensures the Level 1 security of NIST SP800-63-2.</b></div>
 <hr class="styled-hr" style="width:100%;"/>
 
-
+<br/>
 <div class="paragraph" style="text-align:left;"><strong><font color="#350df8">Experimental 1.&nbsp;</font></strong>Results from top 1 million most popular passwords of Rockyou dataset<br/>
 <font style="font-size:12px;">Note: Since <u>h(123456) mod 256</u> = <u>(7C4A8D09CA3762AF61E59520943DC26494F8941B) mod 256</u> = <u>27</u>, the password pool of 123456 is denoted by 27.txt</font>
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
@@ -141,86 +141,58 @@ Accordingly, we can determine the <b>guessing entropy</b> [2] of POOL0 by comput
 <tbody class="wsite-multicol-tbody">
 <tr class="wsite-multicol-tr">
 <td class="wsite-multicol-col" style="width:12.857142857143%; padding:0 15px;">
-<div class="paragraph" style="text-align:justify;"><strong><font size="2">Password</font></strong><br/><br/>123456<br/>
-
-
-
-  12345
-
-
-  123456789
-
-
-  Password<br/>
-
-
-
-  iloveyou<br/>
-
-
-
-  princess
-
-
-  rockyou<br/>
-
-
-
-  1234567
-
-
-  12345678<br/>
-
-
-
-  abc123<br/>
-
-
-
-  Nicole<br/>
-
-
-
-  Daniel<br/>
-
-
-
-  babygirl<br/>
-
-
-
-  monkey<br/>
-
-
-
-  Jessica<br/>
-
-
-
-  Lovely<br/>
-
-
-
-  michael<br/>
-
-
-
-  Ashley<br/>
-
-
-
-  654321
-
-
-  Qwerty</div>
+<div class="paragraph" style="text-align:justify;"><strong><font size="2">Password</font></strong><br/>
+123456<br/>
+12345<br/>
+123456789<br/>
+Password<br/>
+iloveyou<br/>
+princess
+rockyou<br/>
+1234567
+12345678<br/>
+abc123<br/>
+Nicole<br/>
+Daniel<br/>
+babygirl<br/>
+monkey<br/>
+Jessica<br/>
+Lovely<br/>
+michael<br/>
+Ashley<br/>
+654321
+Qwerty
+</div>
 </td> <td class="wsite-multicol-col" style="width:87.142857142857%; padding:0 15px;">
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
 <tr class="wsite-multicol-tr">
 <td class="wsite-multicol-col" style="width:23.106927937363%; padding:0 15px;">
-<div class="paragraph" style="text-align:left;"><strong>Total counts of passwords</strong><br/>2<span style="color: rgb(134, 134, 134); line-height: 1.5; font-size: 1em;">90731&nbsp;</span><br/>&nbsp;79078&nbsp;<br/>&nbsp;76790&nbsp;<br/>&nbsp;61958&nbsp;<br/>&nbsp;51622&nbsp;<br/>&nbsp;35231&nbsp;<br/>&nbsp;22588&nbsp;<br/>&nbsp;21726&nbsp;<br/>&nbsp;20553&nbsp;<br/>&nbsp;17542&nbsp;<br/>&nbsp;17168&nbsp;<br/>&nbsp;16409&nbsp;<br/>&nbsp;16094&nbsp;<br/>&nbsp;15294&nbsp;<br/>&nbsp;15162&nbsp;<br/>&nbsp;14950&nbsp;<br/>&nbsp;14898&nbsp;<br/>&nbsp;14329&nbsp;<br/>&nbsp;13984&nbsp;<br/>&nbsp;13856</div>
-</td> <td class="wsite-multicol-col" style="width:75.547201519761%; padding:0 15px;">
+<div class="paragraph" style="text-align:left;"><strong><font size="2">Total counts of passwords</font></strong><br/>
+290731<br/>
+79078<br/>
+76790<br/>
+61958<br/>
+51622<br/>
+35231<br/>
+22588<br/>
+21726<br/>
+20553<br/>
+17542<br/>
+17168<br/>
+16409<br/>
+16094<br/>
+15294<br/>
+15162<br/>
+14950<br/>
+14898<br/>
+14329<br/>
+13984<br/>
+13856
+</div>
+</td>
+<td class="wsite-multicol-col" style="width:75.547201519761%; padding:0 15px;">
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
