@@ -104,7 +104,8 @@ Accordingly, we can determine the <strong>guessing entropy</strong> [2] of POOL0
 <strong>Our empirical results demonstrate that the distribution bias of password space D does not significantly degrade our proposed method, and it ensures the Level 1 security of NIST SP800-63-2.</strong></div>
 <hr class="styled-hr" style="width:100%;"/>
 
-<h2 class="wsite-content-title"><font size="4"><font size="5"><font color="#5040ae">Experimental 1. </font><font color="#2a2a2a">Results from</font><font color="#5040ae">&nbsp;</font><span style="line-height: 1.2;">top 1 million most popular passwords of Rockyou dataset</span></font><br/></font><span style="display: none;">﻿</span><font size="1" style="font-weight: normal;">Note: Since <u>h(123456) mod 256</u> =<u>(</u></font><font size="1" style="font-weight: normal;"><u>7C4A8D09CA3762AF61E59520943DC26494F8941B) mod 256</u> =&nbsp;</font><font size="1" style="font-weight: normal;"><u>27</u>, the password pool of 123456 is denoted by 27.txt</font></h2>
+<strong><font color="#350df8">Experimental 1.&nbsp;</font></strong>Results from top 1 million most popular passwords of Rockyou dataset<br/>
+Note: Since <u>h(123456) mod 256</u> = <u>(7C4A8D09CA3762AF61E59520943DC26494F8941B) mod 256</u> = <u>27</u>, the password pool of 123456 is denoted by 27.txt
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
 <tbody class="wsite-multicol-tbody">
