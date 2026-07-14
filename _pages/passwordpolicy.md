@@ -13,6 +13,11 @@ permalink: /password-policy/
     line-height: 1.7;
   }
 
+  .password-policy-page-title {
+    margin: 0 0 1.5rem;
+    text-align: left;
+  }
+
   .password-policy-hero {
     display: grid;
     grid-template-columns: 504px 416px;
@@ -88,11 +93,19 @@ permalink: /password-policy/
   }
 
   .password-policy-gallery {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    display: flex !important;
+    flex-wrap: nowrap;
     gap: 30px;
     align-items: center;
+    justify-content: center;
     margin: 10px 0;
+  }
+
+  .password-policy-gallery__item {
+    display: flex;
+    flex: 0 1 50%;
+    align-items: center;
+    min-width: 0;
   }
 
   .password-policy-gallery img,
@@ -103,12 +116,12 @@ permalink: /password-policy/
     height: auto;
   }
 
-  .password-policy-gallery img:first-child {
-    justify-self: end;
+  .password-policy-gallery__item:first-child {
+    justify-content: flex-end;
   }
 
-  .password-policy-gallery img:last-child {
-    justify-self: center;
+  .password-policy-gallery__item:last-child {
+    justify-content: center;
   }
 
   .password-policy-figure {
@@ -161,9 +174,17 @@ permalink: /password-policy/
   }
 
   @media (max-width: 700px) {
-    .password-policy-hero,
-    .password-policy-gallery {
+    .password-policy-hero {
       grid-template-columns: 1fr;
+    }
+
+    .password-policy-gallery {
+      flex-wrap: wrap;
+    }
+
+    .password-policy-gallery__item {
+      flex-basis: 100%;
+      justify-content: center !important;
     }
 
     .password-policy-hero__copy {
@@ -175,11 +196,6 @@ permalink: /password-policy/
       line-height: 1.15;
     }
 
-    .password-policy-gallery img:first-child,
-    .password-policy-gallery img:last-child {
-      justify-self: center;
-    }
-
     .password-policy-figure--right img {
       margin-right: auto;
     }
@@ -187,6 +203,8 @@ permalink: /password-policy/
 </style>
 
 <div class="password-policy-page" markdown="1">
+
+<h2 class="password-policy-page-title">Password policy: A real world problem</h2>
 
 <section class="password-policy-hero" aria-label="Password policy introduction">
   <div class="password-policy-hero__visual">
@@ -200,8 +218,12 @@ permalink: /password-policy/
 </section>
 
 <div class="password-policy-gallery">
-  <img src="{{ '/images/8854348_orig.png' | relative_url }}" alt="A humorous example of an easily guessed password">
-  <img src="{{ '/images/7762123_orig.png' | relative_url }}" alt="Worst passwords of 2015">
+  <div class="password-policy-gallery__item">
+    <img src="{{ '/images/8854348_orig.png' | relative_url }}" alt="A humorous example of an easily guessed password">
+  </div>
+  <div class="password-policy-gallery__item">
+    <img src="{{ '/images/7762123_orig.png' | relative_url }}" alt="Worst passwords of 2015">
+  </div>
 </div>
 
 <figure class="password-policy-figure password-policy-figure--center">
