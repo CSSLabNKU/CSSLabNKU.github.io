@@ -91,7 +91,7 @@ permalink: /fuzzyverifier/
 </figure>
 
 <div class="fuzzyverifier-archive">
-<div class="fuzzyverifier-related-paper"><strong>Related paper:</strong><span>Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound</span><u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/ieeetdsc16_v11.pdf"><font color="#5848b7">Main.pdf</font></a></u><u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf"><font color="#5848b7">Appendix.pdf</font></a></u></div>
+<div class="fuzzyverifier-related-paper"><strong>Related paper:</strong>&nbsp;<span>Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound</span>&nbsp;&nbsp;<u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/ieeetdsc16_v11.pdf"><font color="#5848b7">Main.pdf</font></a></u>&nbsp;&nbsp;<u><a href="{{ site.url }}{{ site.baseurl }}/uploads/fuzzyverifier/tdsc16_suppl0820.pdf"><font color="#5848b7">Appendix.pdf</font></a></u></div>
 <hr class="styled-hr" style="width:100%;"/>
 
 
