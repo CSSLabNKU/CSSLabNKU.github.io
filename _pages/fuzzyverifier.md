@@ -81,6 +81,7 @@ permalink: /fuzzyverifier/
 <font size="3">
 Related paper: 
 </font>
+</h2>
 <font size="2">
 Two Birds with One Stone: Two-Factor Authentication with Security Beyond Conventional Bound
 </font>
