@@ -104,7 +104,7 @@ Accordingly, we can determine the <b>guessing entropy</b> [2] of POOL0 by comput
 <b>Our empirical results demonstrate that the distribution bias of password space D does not significantly degrade our proposed method, and it ensures the Level 1 security of NIST SP800-63-2.</b></div>
 <hr class="styled-hr" style="width:100%;"/>
 <br/>
-<div class="paragraph" style="text-align:left;"><strong color="#350df8">Experimental 1. Results from top 1 million most popular passwords of Rockyou dataset</strong><br/>
+<div class="paragraph" style="text-align:left;"><strong><span style="font-color:#350df8">Experimental 1.</span> Results from top 1 million most popular passwords of Rockyou dataset</strong><br/>
 Note: Since <u>h(123456) mod 256</u> = <u>(7C4A8D09CA3762AF61E59520943DC26494F8941B) mod 256</u> = <u>27</u>, the password pool of 123456 is denoted by 27.txt
 <div><div class="wsite-multicol"><div class="wsite-multicol-table-wrap" style="margin:0 -15px;">
 <table class="wsite-multicol-table">
@@ -356,7 +356,7 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 <div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <hr class="styled-hr" style="width:100%;"/>
 <div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
-<div class="paragraph" style="text-align:left;"><strong color="#350df8">Experimental 2. Results from the top 1 million most popular passwords of CSDN dataset</strong><br/>
+<div class="paragraph" style="text-align:left;"><strong><span style="font-color:#350df8">Experimental 2.</span> Results from the top 1 million most popular passwords of CSDN dataset</strong><br/>
 (1) Theminimumpassword numberof the 256 password pools is 3756, and themaximumis 4079;<br/>
 (2) Theminimum guessing expectationof the 256 password pools is 39.799, themaximumis 1122.18, and the majority is below 1024, which fails toguarantee that the success probability of one online guessing attempt using password candidate in any pool by the adversary is no more than 1/1024.<br/>
 (3) Due to storage space constraints of this site, we only upload 10% of the password pool files.
@@ -397,7 +397,7 @@ DD5FEF9C1C1DA1394D6D34B248C51BE2AD740840<br/>
 </div></div></div>
 <hr class="styled-hr" style="width:100%;"/>
 <br/>
-<div class="paragraph" style="text-align:left;"><strong><span color="#350df8">Experimental 3.</span> Results from the top 2 million most popular passwords of Rockyou dataset</strong><br/>
+<div class="paragraph" style="text-align:left;"><strong><span style="font-color:#350df8">Experimental 3.</span> Results from the top 2 million most popular passwords of Rockyou dataset</strong><br/>
 <div class="paragraph" style="text-align:left;">
 (1) The minimum password number of the 256 password pools is 7612, and the maximumis 8018;<br/>
 (2) The minimum guessing expectation of the 256 password pools is247.935, the maximumis 1418.31, and about 16% of the pools are below 1024, which fails toguarantee that the success probability of one online guessing attempt using password candidate in any pool by the adversary is no more than 1/1024.<br/>
