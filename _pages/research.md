@@ -79,7 +79,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/our-cdf-zipf-model-performs-much-better-in-characterizing-password-distributions-as_orig.png"/>
   </div>
   <div class="publication-card__body">
-    <p><strong>In this work, we make a substantial step forward towards understanding the distribution of passwords. </strong>By introducing a number of computational statistical techniques and based on fourteen large-scale datasets, which consist of 113.3 million real-world passwords, we for the first time show that Zipf's law natively exists in the popular (and thus vulnerable) part of human-generated password datasets. Further, we provide compelling evidence that this law is also highly likely to hold in the remaining part of human-generated passwords. (see more in our <u><a href="{{ site.url }}{{ site.baseurl }}/researches/ieeetifs17_final.pdf">IEEE TIFS'17 paper</a>; </u>and<u><a href="/uploads/2/0/3/6/20366987/esorics16_final.pdf"> its applications in ESORICS'16 paper</a></u>)</p>
+    <p><strong>In this work, we make a substantial step forward towards understanding the distribution of passwords. </strong>By introducing a number of computational statistical techniques and based on fourteen large-scale datasets, which consist of 113.3 million real-world passwords, we for the first time show that Zipf's law natively exists in the popular (and thus vulnerable) part of human-generated password datasets. Further, we provide compelling evidence that this law is also highly likely to hold in the remaining part of human-generated passwords. (see more in our <u><a href="{{ site.url }}{{ site.baseurl }}/researches/ieeetifs17_final.pdf">IEEE TIFS'17 paper</a>; </u>and<u><a href="{{ site.url }}{{ site.baseurl }}/researches/esorics16_final.pdf"> its applications in ESORICS'16 paper</a></u>)</p>
   </div>
 </article>
 
@@ -88,7 +88,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/3618436.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>We have conducted a systematic investigation into the characteristics, distribution and security of PINs chosen by English user and Chinese users.</strong> By employing NLP techniques, we have revealed that PINs follow a Zipf distribution; By adopting both statistic metrics and state-of-the-art cracking algorithms, we have highlighted that 6-digit PINs offer marginally improved security over 4-digit PINs. (see more in our <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/asiaccs17_v12.pdf" target="_blank"><u>ASIACCS'17 paper</u></a>) </p>
+    <p><strong>We have conducted a systematic investigation into the characteristics, distribution and security of PINs chosen by English user and Chinese users.</strong> By employing NLP techniques, we have revealed that PINs follow a Zipf distribution; By adopting both statistic metrics and state-of-the-art cracking algorithms, we have highlighted that 6-digit PINs offer marginally improved security over 4-digit PINs. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/researches/asiaccs17_v12.pdf" target="_blank"><u>ASIACCS'17 paper</u></a>)</p>
   </div>
 </article>
 </div>
@@ -102,7 +102,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/8259798.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>In this work, we conduct an extensive empirical study of 50 password creation policies that are currently imposed on high-proﬁle web services,</strong> including 20 policies mainly from US and 30 ones from mainland China. Our results show that the policies enforced in leading sites largely fail to serve their purposes, especially vulnerable to targeted online guessing attacks.  (see more in <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/esorics15conf0827.pdf" target="_blank"><u>ESORICS'15 paper</u></a>)</p>
+    <p><strong>In this work, we conduct an extensive empirical study of 50 password creation policies that are currently imposed on high-proﬁle web services,</strong> including 20 policies mainly from US and 30 ones from mainland China. Our results show that the policies enforced in leading sites largely fail to serve their purposes, especially vulnerable to targeted online guessing attacks.  (see more in <a href="{{ site.url }}{{ site.baseurl }}/researches/esorics15conf0827.pdf" target="_blank"><u>ESORICS'15 paper</u></a>)</p>
   </div>
 </article>
 
@@ -111,7 +111,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/4121880_orig.png" />
   </div>
   <div class="publication-card__body">
-    <p><strong>We propose a simple yet effective password strength meter, fuzzyPSM,</strong> to give users reliable feedbacks when they select passwords. Inspired by a user survey on password practice, FuzzyPSM takes the ﬁrst step towards characterizing realistic user behaviors in password creation: Generally users do not build new passwords from scratch for a new service by combining segments of words, digits and/or symbols, instead they reuse or simply modify existing passwords for new services. (see more in <a href="https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/dsn16v9.pdf" target="_blank"><u>DSN'16 paper</u></a>)</p>
+    <p><strong>We propose a simple yet effective password strength meter, fuzzyPSM,</strong> to give users reliable feedbacks when they select passwords. Inspired by a user survey on password practice, FuzzyPSM takes the ﬁrst step towards characterizing realistic user behaviors in password creation: Generally users do not build new passwords from scratch for a new service by combining segments of words, digits and/or symbols, instead they reuse or simply modify existing passwords for new services. (see more in <a href="{{ site.url }}{{ site.baseurl }}/researches/dsn16v9.pdf" target="_blank"><u>DSN'16 paper</u></a>)</p>
   </div>
 </article>
 </div>
