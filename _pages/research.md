@@ -102,7 +102,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/8259798.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>In this work, we conduct an extensive empirical study of 50 password creation policies that are currently imposed on high-proﬁle web services,</strong> including 20 policies mainly from US and 30 ones from mainland China. Our results show that the policies enforced in leading sites largely fail to serve their purposes, especially vulnerable to targeted online guessing attacks.  (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/esorics15conf0827.pdf" target="_blank"><u>ESORICS'15 paper</u></a>)</p>
+    <p><strong>In this work, we conduct an extensive empirical study of 50 password creation policies that are currently imposed on high-profile web services,</strong> including 20 policies mainly from US and 30 ones from mainland China. Our results show that the policies enforced in leading sites largely fail to serve their purposes, especially vulnerable to targeted online guessing attacks.  (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/esorics15conf0827.pdf" target="_blank"><u>ESORICS'15 paper</u></a>)</p>
   </div>
 </article>
 
@@ -134,7 +134,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/3625851_orig.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>We presented a new 2FA scheme to cope with the various identiﬁed security defects without sacriﬁcing any desirable feature of Li et al.'s scheme.</strong> We conjecture that the strategy of only using symmetric-key techniques to achieve user anonymity is intrinsically infeasible, and pose its rigorous justiﬁcation as one interesting (and fundamental) open problem. (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/wcnc2014.pdf" target="_blank"><u>IEEE WCNC'14 paper</u></a>; <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/ieeesyst2015.pdf" target="_blank"><u>IEEE Systems Journal'16 paper</u></a>)</p>
+    <p><strong>We presented a new 2FA scheme to cope with the various identified security defects without sacrificing any desirable feature of Li et al.'s scheme.</strong> We conjecture that the strategy of only using symmetric-key techniques to achieve user anonymity is intrinsically infeasible, and pose its rigorous justification as one interesting (and fundamental) open problem. (see more in <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/wcnc2014.pdf" target="_blank"><u>IEEE WCNC'14 paper</u></a>; <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/ieeesyst2015.pdf" target="_blank"><u>IEEE Systems Journal'16 paper</u></a>)</p>
   </div>
 </article>
 </div>
@@ -157,7 +157,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/1824974.jpg" />
   </div>
   <div class="publication-card__body">
-    <p><strong>In this work, we, for the first time, put forward three general principles that are vital for designing secure smart-card-based password authentication schemes: </strong> (i) public-key techniques are indispensable to resist against offline password guessing attack and to preserve user anonymity under the non-tamper resistance assumption of the smart card; (ii) there is an unavoidable trade-off when fulﬁlling the goals of local password update and resistance to smart card loss attack; and (iii) at least two exponentiation (respectively elliptic curve point multiplication) operations conducted on the server side are necessary for achieving forward secrecy. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/ijcs_online_version.pdf" target="_blank"><u>IJCS'14 ESI highly cited paper</u></a>)</p>
+    <p><strong>In this work, we, for the first time, put forward three general principles that are vital for designing secure smart-card-based password authentication schemes: </strong> (i) public-key techniques are indispensable to resist against offline password guessing attack and to preserve user anonymity under the non-tamper resistance assumption of the smart card; (ii) there is an unavoidable trade-off when fulfilling the goals of local password update and resistance to smart card loss attack; and (iii) at least two exponentiation (respectively elliptic curve point multiplication) operations conducted on the server side are necessary for achieving forward secrecy. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/ijcs_online_version.pdf" target="_blank"><u>IJCS'14 ESI highly cited paper</u></a>)</p>
   </div>
 </article>
 </div>
@@ -180,7 +180,7 @@ permalink: /researches/
     <img src="{{ site.url }}{{ site.baseurl }}/images/research/841544.jpg" />
   </div>
   <div class="publication-card__body">
-    <p>Little attention has been given to the fundamental question: <strong>whether or not there are inherent limitations that prevent us from designing an “ideal” scheme that satisfies all the desirable goals?</strong> In this work, we aim to provide a deﬁnite answer to this question. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/tdsc15.pdf" target="_blank"><u>IEEE TDSC'15 paper</u></a>)</p>
+    <p>Little attention has been given to the fundamental question: <strong>whether or not there are inherent limitations that prevent us from designing an “ideal” scheme that satisfies all the desirable goals?</strong> In this work, we aim to provide a definite answer to this question. (see more in our <a href="{{ site.url }}{{ site.baseurl }}/uploads/researches/tdsc15.pdf" target="_blank"><u>IEEE TDSC'15 paper</u></a>)</p>
   </div>
 </article>
 </div>
