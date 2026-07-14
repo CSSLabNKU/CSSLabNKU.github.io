@@ -7,6 +7,10 @@ permalink: /password-policy/
 ---
 
 <style>
+  h4 {
+    font-weight: bold;
+  }
+
   .password-policy-page {
     max-width: 920px;
     margin: 0 auto;
@@ -161,6 +165,7 @@ permalink: /password-policy/
   .password-policy-intro {
     color: #8d2424;
     font-weight: normal;
+    font-size: 24px;
   }
 
   .password-policy-emphasis {
