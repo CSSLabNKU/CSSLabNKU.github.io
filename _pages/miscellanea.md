@@ -6,7 +6,8 @@ sitemap: false
 permalink: /miscellanea/
 ---
 
-          计算机各类期刊、会议总结
+# 计算机各类期刊、会议总结
+
 A. 信息安全国际学术会议讨论
  (Part of this blog is my personal opinion,  while part of it comes from http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/.   部分为个人见解，部分转自：http://loccs.sjtu.edu.cn/typecho/index.php/category/conf/,  一介学生眼光，三五好友讨论结果，不妥不当之处难免，欢迎批评指正。 )
  
