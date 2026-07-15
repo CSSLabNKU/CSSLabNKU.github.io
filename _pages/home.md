@@ -6,6 +6,7 @@ sitemap: false
 permalink: /
 ---
 
+<div style="height: 20px; overflow: hidden; width: 100%;"></div>
 <strong>Ding Wang</strong> (汪 定)  
 Full Professor, <a href='https://cyber.nankai.edu.cn/2021/0323/c37288a598508/page.htm'><span style="color:#818181">College of Cryptology and Cyber Science</span></a>, Nankai University, Tianjin (27 mins from Beijing).  
 100 Young Academic Leaders of Nankai University; Tianjin Talent Introduction-Leading Talent.  
