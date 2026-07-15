@@ -215,7 +215,7 @@ As of July 2024, a total of 220 published papers have cited and adopted Wang et 
 
 4 Password-leakage detection
 4.1 [IEEE S&P'22] "How to Attack and Generate Honeywords", https://www.computer.org/csdl/proceedings-article/sp/2022/131600a489/1wKCexo0aoE
-4.2 [NDSS'18] "A Security Analysis of Honeyword", http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ndss18final_fullv9.pdf
+4.2 [NDSS'18] "A Security Analysis of Honeyword", https://cssnku.github.io/uploads/home/ndss18final_fullv9.pdf
 4.3 [USENIX SEC'20] "Detecting Stuffing of a User's Credentials at Her Own Account", https://www.usenix.org/system/files/sec20-wang.pdf 
 4.4 [USENIX SEC'22] "Might I Get Pwned: A Second Generation Compromised Credential Checking Service", https://pages.cs.wisc.edu/~chatterjee/papers/usenix22-pal.pdf 
 4.5 [Arxiv'23] "Reveal the Mathematical Structures of Honeyword Security Metrics", https://arxiv.org/abs/2311.10960
