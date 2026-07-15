@@ -86,6 +86,8 @@ permalink: /fuzzyverifier/
   }
 </style>
 
+<div style="height: 20px; overflow: hidden; width: 100%;"></div>
+
 <figure class="fuzzyverifier-hero">
 <img src="{{ site.url }}{{ site.baseurl }}/images/1399478294.jpg" alt="Password-change problem in smart-card-based authentication and the proposed fuzzy verifier solution">
 </figure>
