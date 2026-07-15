@@ -70,6 +70,8 @@ permalink: /researches/
   }
 </style>
 
+<div style="height: 20px; overflow: hidden; width: 100%;"></div>
+
 ### Better understanding of user-chosen passwords
 
 <div class="publication-grid" markdown="0">
