@@ -215,7 +215,7 @@ permalink: /password-policy/
   }
 </style>
 
-<div style="height: 20px; overflow: hidden; width: 100%;"></div>
+<div style="height: 30px; overflow: hidden; width: 100%;"></div>
 
 <div class="password-policy-page" markdown="0">
 
