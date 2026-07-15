@@ -70,7 +70,7 @@ permalink: /researches/
   }
 </style>
 
-<div style="height: 20px; overflow: hidden; width: 100%;"></div>
+<div style="height: 10px; overflow: hidden; width: 100%;"></div>
 
 ### Better understanding of user-chosen passwords
 
