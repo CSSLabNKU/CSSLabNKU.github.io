@@ -46,6 +46,11 @@
 		margin-bottom: 0;
 	}
 
+	.site-nav-row .navbar-nav>li>a {
+		padding-right: 24px;
+		padding-left: 24px;
+	}
+
 	@media screen and (min-width: 767px) {
 		#wsite-title {
 			font-size: 40px !important;
@@ -53,11 +58,6 @@
 
 		.site-nav-row .navbar-collapse {
 			display: block !important;
-		}
-
-		.site-nav-row .navbar-nav > li > a {
-			padding-right: 24px;
-			padding-left: 24px;
 		}
 	}
 
@@ -129,7 +129,8 @@
 					<li><a href="{{ site.url }}{{ site.baseurl }}/researches/" target="_self">RESEARCHES</a></li>
 					<li><a href="{{ site.url }}{{ site.baseurl }}/publications/" target="_self">PUBLICATIONS</a></li>
 					<li><a href="{{ site.url }}{{ site.baseurl }}/fuzzyverifier/" target="_self">FUZZYVERIFIER</a></li>
-					<li><a href="{{ site.url }}{{ site.baseurl }}/password-policy/" target="_self">PASSWORD POLICY</a></li>
+					<li><a href="{{ site.url }}{{ site.baseurl }}/password-policy/" target="_self">PASSWORD POLICY</a>
+					</li>
 					<li><a href="{{ site.url }}{{ site.baseurl }}/miscellanea/" target="_self">MISCELLANEA</a></li>
 				</ul>
 			</div>
