@@ -140,7 +140,7 @@ permalink: /publications-preview/
   }
 </style>
 
-<div class="publications-preview">
+<div class="publications-preview" markdown="0">
   <h1 class="preview-heading">Publications</h1>
   <p class="preview-intro">Preview of the YAML-driven layout. This page currently contains the 2026 publications only.</p>
 
