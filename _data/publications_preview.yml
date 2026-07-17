@@ -1,0 +1,84 @@
+- year: 2026
+  authors: "Yihe Duan, Ding Wang*, Yutong Li"
+  title: "Credential Extraction Attacks Against Compromised Credential Checking Services of Password Managers"
+  venue: "47th IEEE Symposium on Security and Privacy (IEEE S&P 2026)"
+  details: "pp. 2977–2996"
+  pdf: "/uploads/publications/ieeesp26-pm-full.pdf"
+  note: "Full paper, acceptance rate: 118/925 = 12.8%"
+
+- year: 2026
+  authors: "Zhen Li, Ding Wang*"
+  title: "Targeted Password Guessing Using k-Nearest Neighbors"
+  venue: "33rd Network and Distributed System Security Symposium (NDSS 2026)"
+  details: "pp. 1–23"
+  pdf: "/uploads/publications/knnguess-ndss26-fullv1.pdf"
+  note: "Full paper, acceptance rate: 152/950 = 16.0%"
+
+- year: 2026
+  authors: "Yunkai Zou, Ding Wang*, Fei Duan"
+  title: "Success Rates Doubled with Only One Character: Mask Password Guessing"
+  venue: "33rd Network and Distributed System Security Symposium (NDSS 2026)"
+  details: "pp. 1–25"
+  pdf: "/uploads/publications/mask-attack-ndss26-fullv1.pdf"
+  note: "Full paper, acceptance rate: 152/950 = 16.0%"
+
+- year: 2026
+  authors: "Tongxin Wei, Ding Wang*"
+  title: "Unveiling Privacy Issues in Large Language Models: Insights from Real-world Application Scenarios"
+  venue: "SCIENCE CHINA: Information Sciences"
+  details: "56(6): 1390–1406 (in Chinese)"
+  pdf: "/uploads/publications/llm-privacy-scis26.pdf"
+
+- year: 2026
+  authors: "Liufu Zhu, Ding Wang*"
+  title: "UC-Secure Multi-Factor Authentication with Dynamic Password Recovery and Fine-Grained Access Control"
+  venue: "IEEE Transactions on Information Forensics and Security (TIFS)"
+  details: "DOI: 10.1109/TIFS.2026.3700850"
+  pdf: "/uploads/publications/mfa-pr-tifs26.pdf"
+
+- year: 2026
+  authors: "Jingyu Yao, Ding Wang*"
+  title: "StrokePIN: Enhancing PIN Authentication with Keystroke Dynamics for Mobile Devices"
+  venue: "IEEE Transactions on Dependable and Secure Computing (TDSC)"
+  details: "DOI: 10.1109/TDSC.2026.3667918"
+  pdf: "/uploads/publications/strokepin-tdsc26.pdf"
+
+- year: 2026
+  authors: "Mingming Hu, Ding Wang*, Daojun Han, Jingtao Guo, Bibo Tu*"
+  title: "Privacy-Preserving Continuous Authentication of Smartphone Users via Secret Sharing"
+  venue: "IEEE Transactions on Dependable and Secure Computing (TDSC)"
+  details: "DOI: 10.1109/TDSC.2026.3680150"
+  pdf: "/uploads/publications/ppca-tdsc26.pdf"
+
+- year: 2026
+  authors: "Ding Wang, Tingwei Fan, Fei Duan, Zhenduo Hou*"
+  title: "On the Insecurity of Internally Sampled Honeyword Schemes"
+  venue: "IEEE Transactions on Information Forensics and Security (TIFS)"
+  details: "DOI: 10.1109/TIFS.2026.3687032"
+  pdf: "/uploads/publications/insecurity-hw-tifs26.pdf"
+
+- year: 2026
+  authors: "Zixuan Ding, Yihe Duan, Ding Wang*"
+  title: "HP-OTP: One-Time Password Scheme based on Hardened Password"
+  venue: "IEEE Transactions on Dependable and Secure Computing (TDSC)"
+  details: "23(2): 3962–3978"
+  pdf: "/uploads/publications/tdsc26-hpotp.pdf"
+
+- year: 2026
+  authors: "Ding Wang, Tongxin Wei, Zhenduo Hou*"
+  title: "On the User Friendliness of Password Creation Policy Designs in the Wild"
+  venue: "SCIENCE CHINA: Information Sciences (SCIS)"
+  details: "69(4), Article No. 142105, pp. 1–16"
+  pdf: "/uploads/publications/scis25-n1-final.pdf"
+
+- year: 2026
+  authors: "Yifei Zhang, Zhenduo Hou*, Ding Wang"
+  title: "VersaPSE: Versatile Password Strength Evaluation Using Continual Learning"
+  venue: "International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2026)"
+  details: "Accepted"
+
+- year: 2026
+  authors: "Mi Song, Ding Wang*, Guanling Li, Zhen Li"
+  title: "Verifiable Compromised Credential Checking"
+  venue: "IEEE Transactions on Information Forensics and Security (TIFS)"
+  details: "Accepted"
