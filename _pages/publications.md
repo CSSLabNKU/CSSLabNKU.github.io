@@ -31,7 +31,7 @@ Ding Wang, Tongxin Wei, Zhenduo Hou*. On the User Friendliness of <strong>Passw
 <br><br>
 Yifei Zhang, Zhenduo Hou*, Ding Wang. VersaPSE: Versatile <strong>Password Strength Evaluation</strong> Using Continual Learning. International Symposium on Research in Attacks, Intrusions and Defenses (<strong>RAID 2026</strong>), Accepted. &nbsp;&nbsp;<u><a href="">pdf</a></u>
 <br><br>
-Mi Song, Ding Wang*, Guanling Li, Zhen Li. Verifiable <strong>Compromised Credential Checking</strong>. IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2026, Accepted. &nbsp;&nbsp;<u><a href="">pdf</a></u>
+Mi Song, Ding Wang*, Guanling Li, Zhen Li. Verifiable <strong>Compromised Credential Checking</strong>. IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2026, Doi: 10.1109/TIFS.2026.3715105. &nbsp;&nbsp;<u><a href="">pdf</a></u>
 <br><br>
 
 Yunkai Zou, Maoxiang An, Ding Wang*. Password Guessing Using <strong>Large Language Models</strong>. Proc. of 34th USENIX Security Symposium (<strong><span style="color:#5040ae">USENIX Security 2025</span></strong>), pp. 7799-7818. <a href="{{ site.url }}{{ site.baseurl }}/uploads/publications/passllm-full.pdf"><u>pdf</u></a><br> (Full paper, acceptance rate: 407/2385=17.1%) 
