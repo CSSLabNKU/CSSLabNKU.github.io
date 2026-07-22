@@ -1,6 +1,15 @@
-https://cssnku.github.io/
-https://cssnku.github.io/researches/
-https://cssnku.github.io/publications/
-https://cssnku.github.io/fuzzyverifier/
-https://cssnku.github.io/password-policy/
-https://cssnku.github.io/miscellanea/
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% for page in site.pages %}
+  {% unless page.sitemap == false %}
+    {% if page.url and page.url != '/sitemap.xml' and page.url != '/robots.txt' %}
+  <url>
+    <loc>{{ page.url | replace:'index.html','' | absolute_url }}</loc>
+  </url>
+    {% endif %}
+  {% endunless %}
+{% endfor %}
+</urlset>
