@@ -2,7 +2,7 @@
 title: "Research - Welcome to Ding Wang's Homepage -- Password Cryptography"
 layout: gridlay
 excerpt: ""
-sitemap: false
+sitemap: true
 permalink: /researches/
 ---
 

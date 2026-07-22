@@ -2,7 +2,7 @@
 title: "Welcome to Ding Wang's Homepage -- Password Cryptography - Home"
 layout: homelay
 excerpt: ""
-sitemap: false
+sitemap: true
 permalink: /
 ---
 

@@ -2,7 +2,7 @@
 title: "Password Policy"
 layout: publications
 excerpt: ""
-sitemap: false
+sitemap: true
 permalink: /password-policy/
 ---
 
